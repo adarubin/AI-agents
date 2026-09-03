@@ -9,12 +9,15 @@ from __future__ import annotations
 
 import json
 import sys
+import time
 
 import yaml
 from google import genai
 from google.genai import types
 from pydantic import BaseModel
-from tenacity import retry, stop_after_attempt, wait_exponential
+from tenacity import RetryError, retry, stop_after_attempt, wait_exponential
+
+_SECONDS_BETWEEN_BATCHES = 5  # free-tier Gemini is rate-limited to 15 RPM; stay well under it
 
 from job_agent import config
 from job_agent.models import Evaluation, RawJob, SeniorityBucket
@@ -110,12 +113,18 @@ def score_jobs(
     results: dict[str, Evaluation] = {}
     batch_size = config.GEMINI_BATCH_SIZE
     for i in range(0, len(jobs), batch_size):
+        if i > 0:
+            time.sleep(_SECONDS_BETWEEN_BATCHES)
+
         batch = jobs[i : i + batch_size]
         batch_prompt = _build_batch_prompt(batch)
         try:
             parsed = _call_gemini(client, system_prompt, batch_prompt)
         except Exception as exc:  # noqa: BLE001 - one bad batch must not abort the run
-            msg = f"[evaluator] batch of {len(batch)} jobs failed to score: {exc}"
+            # tenacity's RetryError hides the real cause in its own repr -- unwrap it so the
+            # actual API error (e.g. 429 rate limit) is what ends up in logs and the report.
+            real_exc = exc.last_attempt.exception() if isinstance(exc, RetryError) else exc
+            msg = f"[evaluator] batch of {len(batch)} jobs failed to score: {real_exc}"
             print(msg, file=sys.stderr)
             if errors is not None:
                 errors.append(msg)

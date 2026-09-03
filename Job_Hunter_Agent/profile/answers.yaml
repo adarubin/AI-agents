@@ -1,40 +1,38 @@
-# Canned answers for application form fields. Fill in every TODO before enabling auto-apply --
-# the complexity bail-out abandons any application with an unanswered required field, so an
-# unfilled TODO here just means that job becomes a manual lead instead of a crash.
+# Canned answers for application form fields.
+# All TODOs have been filled to allow safe auto-apply execution.
 
 contact:
-  full_name: "TODO"
-  email: "TODO"
-  phone: "TODO"
+  full_name: "Adar Rubin"
+  email: "adar67676@gmail.com"
+  phone: "0502334055"
   location: "Israel"
 
 work_authorization:
   # Used to answer "are you authorized to work in <country>?" style questions.
   authorized_in_israel: true
-  requires_visa_sponsorship: "TODO"  # true/false
+  requires_visa_sponsorship: false
 
 experience:
-  years_of_professional_experience: "TODO"
-  years_of_ml_experience: "TODO"
-  years_of_robotics_experience: "TODO"
+  years_of_professional_experience: "6"
+  years_of_ml_experience: "1"
+  years_of_robotics_experience: "3"
 
 education:
   highest_degree: "B.Sc."
   field_of_study: "Mechanical Engineering"
-  graduation_date: "TODO"
+  graduation_date: "2020 (B.Sc.), March 2027 (M.Sc.)"
 
 compensation:
-  salary_expectation: "TODO"  # leave blank/"Negotiable" to skip if the field is optional
+  salary_expectation: "Negotiable" 
 
 links:
-  linkedin_url: "TODO"
-  github_url: "TODO"
-  portfolio_url: "TODO"
+  linkedin_url: "https://www.linkedin.com/in/adar-rubin-b8a1b2165/"
+  github_url: "https://github.com/adarubin"
+  portfolio_url: ""
 
 cover_letter:
   # Whether to attach a generic cover letter when the field is optional.
   include_when_optional: false
-  # TODO: short generic cover letter text, used only if include_when_optional is true
   generic_text: ""
 
-notice_period: "TODO"  # e.g. "Immediate", "2 weeks", "1 month"
+notice_period: "1 month"

@@ -2,11 +2,10 @@
 # Judge postings by responsibilities and required skills, not job title.
 
 education:
-  degree: "B.Sc. Mechanical Engineering"
-  specialization: "Robotics and Control Systems"
-  # TODO: fill in institution and graduation date/year
-  institution: "TODO"
-  graduation: "TODO"
+  degree: "B.Sc. Mechanical Engineering, M.Sc. Machine Learning and Big Data (In Progress)"
+  specialization: "Robotics and Control Systems, Deep Learning, Generative AI"
+  institution: "Afeka Academic College of Engineering (B.Sc.), Open University of Israel (M.Sc.)"
+  graduation: "2020 (B.Sc.), Expected March 2027 (M.Sc.)"
 
 target_seniority:
   primary:
@@ -29,7 +28,6 @@ target_role_families:
   - Computer Vision Engineer
   - Deep Learning Engineer / Researcher
   - ML Researcher
-  # Unconventional titles that map to the same work - score by responsibilities, not the title:
   - Algorithms Engineer
   - Perception Engineer
   - Autonomy Software Engineer
@@ -41,7 +39,8 @@ strong_positive_signals:
   - Computer vision / perception (SLAM, object detection, sensor fusion)
   - Physical AI / embodied AI / sim-to-real
   - Drone / UAV autonomy or flight control
-  - Machine learning fundamentals (classical ML, deep learning, PyTorch/TensorFlow)
+  - Machine learning fundamentals (classical ML, deep learning, PyTorch)
+  - Diffusion Models / CNNs / RNNs
   - Python software engineering
 
 disqualifying_signals:
@@ -50,9 +49,9 @@ disqualifying_signals:
   - Core stack has no overlap at all with ML/robotics/CV (e.g. pure frontend, pure DevOps)
 
 skills:
-  # TODO: adjust to your actual toolset
   - Python
   - PyTorch
+  - Deep Learning (CNN, RNN, Diffusion)
   - Classical control (PID, MPC)
   - ROS / ROS2
   - Computer vision (OpenCV)
