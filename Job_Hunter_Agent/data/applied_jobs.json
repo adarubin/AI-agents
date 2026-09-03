@@ -1,0 +1,668 @@
+{
+  "dorked:1a0d6353ec4693dc": {
+    "company": "",
+    "first_seen": "2026-09-03T22:41:47.602411+00:00",
+    "last_action": "2026-09-03T22:41:47.602413+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Inetum Senior Test Automation Engineer | SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/Inetum2/744000146494841-senior-test-automation-engineer"
+  },
+  "dorked:258acaffc4706e5f": {
+    "company": "",
+    "first_seen": "2026-09-03T22:41:47.602393+00:00",
+    "last_action": "2026-09-03T22:41:47.602394+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Renesas Electronics Sr Staff Solution Marketing Specialist -Physical AI & Humanoid Robotic | SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000146388399-sr-staff-solution-marketing-specialist-physical-ai-humanoid-robotic"
+  },
+  "dorked:3173382050486964": {
+    "company": "",
+    "first_seen": "2026-09-03T22:41:47.602388+00:00",
+    "last_action": "2026-09-03T22:41:47.602390+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Spark Hire Recruit Jobs | Spark Hire Recruit - Collaborative Recruiting",
+    "url": "https://www.comeet.com/jobs/aitan/FA.006/backend-engineer/DC.07F"
+  },
+  "dorked:6cfe005c7490ac33": {
+    "company": "",
+    "first_seen": "2026-09-03T22:41:47.602417+00:00",
+    "last_action": "2026-09-03T22:41:47.602419+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "STOW Group Commissioning Engineer | SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/StowGroup/744000146732522-commissioning-engineer"
+  },
+  "dorked:c3896fdd67b458b2": {
+    "company": "",
+    "first_seen": "2026-09-03T22:41:47.602398+00:00",
+    "last_action": "2026-09-03T22:41:47.602399+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Syngenta Group Machine Learning Engineer | SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/SyngentaGroup/744000147063129-machine-learning-engineer"
+  },
+  "dorked:d14c312edaff088f": {
+    "company": "",
+    "first_seen": "2026-09-03T22:41:47.602407+00:00",
+    "last_action": "2026-09-03T22:41:47.602408+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Nagarro QA Automation Engineer | SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/Nagarro1/744000146713809-qa-automation-engineer"
+  },
+  "dorked:d4b662069cf07197": {
+    "company": "",
+    "first_seen": "2026-09-03T22:41:47.602402+00:00",
+    "last_action": "2026-09-03T22:41:47.602404+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Assent Learning Program Manager - Sales Enablement | SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/Assent/744000147059369-learning-program-manager-sales-enablement"
+  },
+  "greenhouse:4282118005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602374+00:00",
+    "last_action": "2026-09-03T22:41:47.602376+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Strategic Projects Lead, Generative AI",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4282118005"
+  },
+  "greenhouse:4302243005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602198+00:00",
+    "last_action": "2026-09-03T22:41:47.602200+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Software Engineer, Public Sector",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4302243005"
+  },
+  "greenhouse:4488520005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602307+00:00",
+    "last_action": "2026-09-03T22:41:47.602308+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Senior / Staff Machine Learning Research Scientist, Agents",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4488520005"
+  },
+  "greenhouse:4529529005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602091+00:00",
+    "last_action": "2026-09-03T22:41:47.602093+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Staff Software Engineer, Full-Stack - Enterprise Gen AI",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4529529005"
+  },
+  "greenhouse:4536653005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602130+00:00",
+    "last_action": "2026-09-03T22:41:47.602132+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Software Engineer, Enterprise",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4536653005"
+  },
+  "greenhouse:4536659005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602120+00:00",
+    "last_action": "2026-09-03T22:41:47.602121+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Frontier Agents Engineer",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4536659005"
+  },
+  "greenhouse:4554440005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602316+00:00",
+    "last_action": "2026-09-03T22:41:47.602318+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Solutions Engineer, Enterprise",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4554440005"
+  },
+  "greenhouse:4591298005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602156+00:00",
+    "last_action": "2026-09-03T22:41:47.602158+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Senior Software Engineer, GenAI",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4591298005"
+  },
+  "greenhouse:4594879005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602369+00:00",
+    "last_action": "2026-09-03T22:41:47.602371+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Software Engineer, Platform",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4594879005"
+  },
+  "greenhouse:4595555005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602379+00:00",
+    "last_action": "2026-09-03T22:41:47.602380+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Engineering Manager, Global Public Sector",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4595555005"
+  },
+  "greenhouse:4625337005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602284+00:00",
+    "last_action": "2026-09-03T22:41:47.602285+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Staff Machine Learning Research Engineer, Agent Post-training - Enterprise GenAI",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4625337005"
+  },
+  "greenhouse:4625341005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602288+00:00",
+    "last_action": "2026-09-03T22:41:47.602290+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Machine Learning Systems Research Engineer, Agent Post-training - Enterprise GenAI",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4625341005"
+  },
+  "greenhouse:4625344005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602293+00:00",
+    "last_action": "2026-09-03T22:41:47.602294+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Machine Learning Research Engineer, Agents - Enterprise GenAI",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4625344005"
+  },
+  "greenhouse:4625345005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602297+00:00",
+    "last_action": "2026-09-03T22:41:47.602299+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": " Machine Learning Research Engineer, Agent Data Foundation - Enterprise GenAI",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4625345005"
+  },
+  "greenhouse:4630032005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602109+00:00",
+    "last_action": "2026-09-03T22:41:47.602111+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Software Engineer (Backend), Enterprise",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4630032005"
+  },
+  "greenhouse:4637484005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602161+00:00",
+    "last_action": "2026-09-03T22:41:47.602162+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": " Senior Software Engineer,  Full-Stack \u2013 Scale GP",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4637484005"
+  },
+  "greenhouse:4643029005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602227+00:00",
+    "last_action": "2026-09-03T22:41:47.602228+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Security Engineer, Product Security",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4643029005"
+  },
+  "greenhouse:4646946005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602341+00:00",
+    "last_action": "2026-09-03T22:41:47.602342+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Enterprise Account Executive",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4646946005"
+  },
+  "greenhouse:4654897005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602175+00:00",
+    "last_action": "2026-09-03T22:41:47.602176+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Senior Software Engineer - Agentic Tooling & Productivity",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4654897005"
+  },
+  "greenhouse:4665557005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602104+00:00",
+    "last_action": "2026-09-03T22:41:47.602106+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Infrastructure Software Engineer, Enterprise GenAI",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4665557005"
+  },
+  "greenhouse:4673310005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602279+00:00",
+    "last_action": "2026-09-03T22:41:47.602280+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Senior Full-Stack Software Engineer, (Forward Deployed), GPS",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4673310005"
+  },
+  "greenhouse:4687384005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602203+00:00",
+    "last_action": "2026-09-03T22:41:47.602205+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Engagement Manager (Hawaii), Public Sector",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4687384005"
+  },
+  "greenhouse:4689909005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602311+00:00",
+    "last_action": "2026-09-03T22:41:47.602313+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Staff Solutions Engineer, Enterprise",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4689909005"
+  },
+  "greenhouse:4689917005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602336+00:00",
+    "last_action": "2026-09-03T22:41:47.602338+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Enterprise Account Executive (Financial Services)",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4689917005"
+  },
+  "greenhouse:4689919005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602346+00:00",
+    "last_action": "2026-09-03T22:41:47.602347+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Enterprise Account Executive (Healthcare & Life Sciences)",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4689919005"
+  },
+  "greenhouse:4690504005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602184+00:00",
+    "last_action": "2026-09-03T22:41:47.602186+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Director, Forward Deployed Engineering",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4690504005"
+  },
+  "greenhouse:4692188005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602365+00:00",
+    "last_action": "2026-09-03T22:41:47.602366+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Engagement Manager, Public Sector",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4692188005"
+  },
+  "greenhouse:4694861005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602125+00:00",
+    "last_action": "2026-09-03T22:41:47.602126+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Frontier Agents Engineer (Forward Deployed Engineering)",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4694861005"
+  },
+  "greenhouse:4694863005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602169+00:00",
+    "last_action": "2026-09-03T22:41:47.602171+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Senior Frontier Agents Engineer (Forward Deployed Engineering)",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4694863005"
+  },
+  "greenhouse:4699806005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602327+00:00",
+    "last_action": "2026-09-03T22:41:47.602328+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Technical Program Manager, Enterprise",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4699806005"
+  },
+  "greenhouse:4701543005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602360+00:00",
+    "last_action": "2026-09-03T22:41:47.602361+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Growth Strategy & Operations Lead",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4701543005"
+  },
+  "greenhouse:4703275005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602322+00:00",
+    "last_action": "2026-09-03T22:41:47.602323+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Technical Program Manager, Platform ",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4703275005"
+  },
+  "greenhouse:4708221005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602355+00:00",
+    "last_action": "2026-09-03T22:41:47.602357+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Software Engineer, Data Infrastructure",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4708221005"
+  },
+  "greenhouse:4711544005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602351+00:00",
+    "last_action": "2026-09-03T22:41:47.602352+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Machine Learning Engineer, Platform",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4711544005"
+  },
+  "greenhouse:4712678005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602141+00:00",
+    "last_action": "2026-09-03T22:41:47.602142+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Senior Technical Program Manager, Robotics",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4712678005"
+  },
+  "greenhouse:4713429005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602232+00:00",
+    "last_action": "2026-09-03T22:41:47.602233+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Head of Solutions Engineering, EMEA",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4713429005"
+  },
+  "greenhouse:4713597005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602194+00:00",
+    "last_action": "2026-09-03T22:41:47.602195+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Senior Data Engineer, Public Sector",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4713597005"
+  },
+  "greenhouse:4713608005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602245+00:00",
+    "last_action": "2026-09-03T22:41:47.602247+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Staff Software Engineer, Full Stack - Gen AI ",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4713608005"
+  },
+  "greenhouse:4714527005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602189+00:00",
+    "last_action": "2026-09-03T22:41:47.602190+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Staff/Senior Machine Learning Research Engineer",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4714527005"
+  },
+  "greenhouse:4715352005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602146+00:00",
+    "last_action": "2026-09-03T22:41:47.602148+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Senior Software Engineer, Identity",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4715352005"
+  },
+  "greenhouse:4716453005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602331+00:00",
+    "last_action": "2026-09-03T22:41:47.602333+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "AI Infrastructure Engineer, Sandbox Platform",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4716453005"
+  },
+  "greenhouse:4718311005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602135+00:00",
+    "last_action": "2026-09-03T22:41:47.602137+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Senior Technician, Robotics",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4718311005"
+  },
+  "greenhouse:4721008005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602179+00:00",
+    "last_action": "2026-09-03T22:41:47.602181+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Senior Product Design Manager",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4721008005"
+  },
+  "greenhouse:4722512005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602114+00:00",
+    "last_action": "2026-09-03T22:41:47.602116+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Software Engineer - AI Enablement",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4722512005"
+  },
+  "greenhouse:4724276005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602208+00:00",
+    "last_action": "2026-09-03T22:41:47.602209+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Staff Product Designer",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4724276005"
+  },
+  "greenhouse:4729620005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602031+00:00",
+    "last_action": "2026-09-03T22:41:47.602043+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Senior Product Design Manager, Enterprise",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4729620005"
+  },
+  "greenhouse:4729820005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602250+00:00",
+    "last_action": "2026-09-03T22:41:47.602251+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Staff Software Engineer, RL Environments  ",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4729820005"
+  },
+  "greenhouse:4729899005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602236+00:00",
+    "last_action": "2026-09-03T22:41:47.602238+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Senior Data Analyst, Public Sector",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4729899005"
+  },
+  "greenhouse:4729979005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602241+00:00",
+    "last_action": "2026-09-03T22:41:47.602242+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Infrastructure Software Engineer, Apps Platform",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4729979005"
+  },
+  "greenhouse:4730306005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602053+00:00",
+    "last_action": "2026-09-03T22:41:47.602055+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "GenAI Compliance Operations & Programs Associate ",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730306005"
+  },
+  "greenhouse:4730337005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602078+00:00",
+    "last_action": "2026-09-03T22:41:47.602079+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Staff Network Engineer, App Platform",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730337005"
+  },
+  "greenhouse:4730512005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602083+00:00",
+    "last_action": "2026-09-03T22:41:47.602085+00:00",
+    "score": 2.0,
+    "status": "discarded",
+    "title": "Senior Software Engineer, Platform",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730512005"
+  },
+  "greenhouse:4730528005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-03T22:41:47.602060+00:00",
+    "last_action": "2026-09-03T22:41:47.602062+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Global Payroll Analyst",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730528005"
+  },
+  "greenhouse:6621871": {
+    "company": "nuro",
+    "first_seen": "2026-09-03T22:41:47.602259+00:00",
+    "last_action": "2026-09-03T22:41:47.602261+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Senior/Staff Engineer, Machine Learning - Online Mapping",
+    "url": "https://nuro.ai/careersitem?gh_jid=6621871"
+  },
+  "greenhouse:7400446": {
+    "company": "nuro",
+    "first_seen": "2026-09-03T22:41:47.602072+00:00",
+    "last_action": "2026-09-03T22:41:47.602074+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Mission Operations Coordinator, Houston",
+    "url": "https://nuro.ai/careersitem?gh_jid=7400446"
+  },
+  "greenhouse:7456500": {
+    "company": "nuro",
+    "first_seen": "2026-09-03T22:41:47.602217+00:00",
+    "last_action": "2026-09-03T22:41:47.602219+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "On-Site Hiring Event: Autonomous Vehicle Operator, Santa Clara and San Francisco (12-Month Duration)",
+    "url": "https://nuro.ai/careersitem?gh_jid=7456500"
+  },
+  "greenhouse:7576899": {
+    "company": "nuro",
+    "first_seen": "2026-09-03T22:41:47.602384+00:00",
+    "last_action": "2026-09-03T22:41:47.602385+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Immigration & Global Mobility Specialist ",
+    "url": "https://nuro.ai/careersitem?gh_jid=7576899"
+  },
+  "greenhouse:7752003": {
+    "company": "nuro",
+    "first_seen": "2026-09-03T22:41:47.602274+00:00",
+    "last_action": "2026-09-03T22:41:47.602276+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Mission Operations Coordinator, Santa Clara, CA ",
+    "url": "https://nuro.ai/careersitem?gh_jid=7752003"
+  },
+  "greenhouse:8104145": {
+    "company": "nuro",
+    "first_seen": "2026-09-03T22:41:47.602222+00:00",
+    "last_action": "2026-09-03T22:41:47.602223+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Autonomous Vehicle Operator, San Francisco (AM Shift, 12-Month Duration)",
+    "url": "https://nuro.ai/careersitem?gh_jid=8104145"
+  },
+  "greenhouse:8172372": {
+    "company": "nuro",
+    "first_seen": "2026-09-03T22:41:47.602264+00:00",
+    "last_action": "2026-09-03T22:41:47.602266+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Shift Supervisor,  Los Angeles, CA (Overnight Shift)",
+    "url": "https://nuro.ai/careersitem?gh_jid=8172372"
+  },
+  "greenhouse:8172373": {
+    "company": "nuro",
+    "first_seen": "2026-09-03T22:41:47.602302+00:00",
+    "last_action": "2026-09-03T22:41:47.602304+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Mission Operations Coordinator, Santa Clara, CA (Overnight Shift)",
+    "url": "https://nuro.ai/careersitem?gh_jid=8172373"
+  },
+  "greenhouse:8172396": {
+    "company": "nuro",
+    "first_seen": "2026-09-03T22:41:47.602269+00:00",
+    "last_action": "2026-09-03T22:41:47.602270+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Autonomous Vehicle Operator, Los Angeles (Overnight Shift, 12-Month Duration)",
+    "url": "https://nuro.ai/careersitem?gh_jid=8172396"
+  },
+  "greenhouse:8172399": {
+    "company": "nuro",
+    "first_seen": "2026-09-03T22:41:47.602066+00:00",
+    "last_action": "2026-09-03T22:41:47.602068+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Mission Operations Coordinator, Houston (Overnight Shift)",
+    "url": "https://nuro.ai/careersitem?gh_jid=8172399"
+  },
+  "greenhouse:8174226": {
+    "company": "nuro",
+    "first_seen": "2026-09-03T22:41:47.602151+00:00",
+    "last_action": "2026-09-03T22:41:47.602153+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Senior Product Designer",
+    "url": "https://nuro.ai/careersitem?gh_jid=8174226"
+  },
+  "greenhouse:8687828002": {
+    "company": "figure",
+    "first_seen": "2026-09-03T22:41:47.602098+00:00",
+    "last_action": "2026-09-03T22:41:47.602099+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Workforce Management Forecasting Analyst",
+    "url": "https://job-boards.greenhouse.io/figure/jobs/8687828002"
+  },
+  "greenhouse:8709203002": {
+    "company": "figure",
+    "first_seen": "2026-09-03T22:41:47.602255+00:00",
+    "last_action": "2026-09-03T22:41:47.602256+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Director of Treasury & Financial Operations",
+    "url": "https://job-boards.greenhouse.io/figure/jobs/8709203002"
+  },
+  "lever:5e2c25f8-150e-46bf-95a7-71ed8cb246a8": {
+    "company": "waabi",
+    "first_seen": "2026-09-03T22:41:47.602213+00:00",
+    "last_action": "2026-09-03T22:41:47.602214+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Senior Product Designer",
+    "url": "https://jobs.lever.co/waabi/5e2c25f8-150e-46bf-95a7-71ed8cb246a8"
+  }
+}
