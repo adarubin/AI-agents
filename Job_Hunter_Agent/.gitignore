@@ -5,7 +5,6 @@
 
 # State & personal data
 data/
-assets/*.pdf
 
 # Python
 __pycache__/
