@@ -3,6 +3,9 @@
 .env.*
 !.env.example
 
+# Resume must never be committed -- restored in CI from the RESUME_PDF_BASE64 secret
+assets/*.pdf
+
 # State & personal data
 data/*
 !data/applied_jobs.json

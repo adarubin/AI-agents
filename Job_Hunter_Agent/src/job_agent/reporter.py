@@ -10,40 +10,40 @@ from html import escape
 from job_agent import config
 from job_agent.models import RoutedJob, RunReport
 
-_CSS = """
-body { font-family: -apple-system, Segoe UI, Arial, sans-serif; color: #1a1a1a; }
-h2 { border-bottom: 2px solid #ddd; padding-bottom: 4px; }
-table { width: 100%; border-collapse: collapse; margin-bottom: 24px; }
-th, td { text-align: left; padding: 6px 8px; border-bottom: 1px solid #eee; font-size: 13px; }
-th { background: #f5f5f5; }
-.score { font-weight: bold; }
-.errors { background: #fff4f4; padding: 8px 12px; border-radius: 6px; }
-.unverified { color: #b36b00; font-size: 11px; }
-"""
+# Gmail (and many other webmail clients) strip <head><style> blocks entirely, so every visual
+# rule here must be an inline `style=` attribute or the table renders as unstyled, unspaced text.
+_TD = 'padding:6px 8px;border-bottom:1px solid #eee;font-size:13px;text-align:left;'
+_TH = _TD + 'background:#f5f5f5;font-weight:bold;'
 
 
 def _job_row(routed: RoutedJob, include_reason: bool = True) -> str:
     job, ev = routed.job, routed.evaluation
     score = f"{ev.score:.1f}" if ev else "-"
     reason = escape(ev.reason) if ev else ""
-    date_note = "" if job.posted_at else ' <span class="unverified">(date unverified)</span>'
+    date_note = (
+        "" if job.posted_at
+        else ' <span style="color:#b36b00;font-size:11px;">(date unverified)</span>'
+    )
     cells = [
-        f'<td><a href="{escape(job.url)}">{escape(job.title)}</a></td>',
-        f"<td>{escape(job.company or '-')}</td>",
-        f'<td class="score">{score}</td>',
-        f"<td>{escape(job.platform.value)}{date_note}</td>",
+        f'<td style="{_TD}"><a href="{escape(job.url)}">{escape(job.title)}</a></td>',
+        f'<td style="{_TD}">{escape(job.company or "-")}</td>',
+        f'<td style="{_TD}font-weight:bold;">{score}</td>',
+        f'<td style="{_TD}">{escape(job.platform.value)}{date_note}</td>',
     ]
     if include_reason:
-        cells.append(f"<td>{reason}</td>")
+        cells.append(f'<td style="{_TD}">{reason}</td>')
     return "<tr>" + "".join(cells) + "</tr>"
 
 
 def _table(rows: list[RoutedJob], headers: list[str], empty_message: str) -> str:
     if not rows:
         return f"<p>{empty_message}</p>"
-    header_html = "".join(f"<th>{h}</th>" for h in headers)
+    header_html = "".join(f'<th style="{_TH}">{h}</th>' for h in headers)
     body_html = "".join(_job_row(r, include_reason="Rationale" in headers) for r in rows)
-    return f"<table><tr>{header_html}</tr>{body_html}</table>"
+    return (
+        '<table style="width:100%;border-collapse:collapse;margin-bottom:24px;">'
+        f"<tr>{header_html}</tr>{body_html}</table>"
+    )
 
 
 def build_html(report: RunReport) -> str:
@@ -64,16 +64,19 @@ def build_html(report: RunReport) -> str:
     errors_html = ""
     if report.errors:
         items = "".join(f"<li>{escape(e)}</li>" for e in report.errors)
-        errors_html = f'<div class="errors"><h2>Errors / Skipped / CAPTCHAs</h2><ul>{items}</ul></div>'
+        errors_html = (
+            '<div style="background:#fff4f4;padding:8px 12px;border-radius:6px;">'
+            f"<h2>Errors / Skipped / CAPTCHAs</h2><ul>{items}</ul></div>"
+        )
 
     return f"""\
-<html><head><style>{_CSS}</style></head><body>
+<html><body style="font-family:-apple-system,Segoe UI,Arial,sans-serif;color:#1a1a1a;">
 <h1>Job Hunter Report -- {report.started_at:%Y-%m-%d %H:%M} UTC{duration}</h1>
 
-<h2>Submitted via Auto-Apply ({len(report.applied)})</h2>
+<h2 style="border-bottom:2px solid #ddd;padding-bottom:4px;">Submitted via Auto-Apply ({len(report.applied)})</h2>
 {applied_table}
 
-<h2>Recommended for Manual Apply ({len(report.manual_leads)})</h2>
+<h2 style="border-bottom:2px solid #ddd;padding-bottom:4px;">Recommended for Manual Apply ({len(report.manual_leads)})</h2>
 {manual_table}
 
 <p>Discarded (score below threshold): {report.discarded_count}</p>

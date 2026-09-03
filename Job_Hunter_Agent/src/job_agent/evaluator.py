@@ -17,7 +17,7 @@ from google.genai import types
 from pydantic import BaseModel
 from tenacity import RetryError, retry, stop_after_attempt, wait_exponential
 
-_SECONDS_BETWEEN_BATCHES = 5  # free-tier Gemini is rate-limited to 15 RPM; stay well under it
+_SECONDS_BETWEEN_BATCHES = 10  # free-tier Gemini is rate-limited to 15 RPM; stay well under it
 
 from job_agent import config
 from job_agent.models import Evaluation, RawJob, SeniorityBucket
@@ -82,7 +82,7 @@ def _build_batch_prompt(jobs: list[RawJob]) -> str:
     return "\n".join(entries)
 
 
-@retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=1, max=8))
+@retry(stop=stop_after_attempt(5), wait=wait_exponential(multiplier=2, min=4, max=60))
 def _call_gemini(client: genai.Client, system_prompt: str, batch_prompt: str) -> _BatchResponse:
     response = client.models.generate_content(
         model=config.GEMINI_MODEL,
