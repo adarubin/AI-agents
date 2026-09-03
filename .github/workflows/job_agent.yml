@@ -26,6 +26,9 @@ jobs:
   run-agent:
     runs-on: ubuntu-latest
     timeout-minutes: 30
+    defaults:
+      run:
+        working-directory: Job_Hunter_Agent
     steps:
       - uses: actions/checkout@v4
 
@@ -74,9 +77,9 @@ jobs:
         with:
           name: job-agent-debug-${{ github.run_id }}
           path: |
-            data/
-            test-results/
-            playwright-report/
+            Job_Hunter_Agent/data/
+            Job_Hunter_Agent/test-results/
+            Job_Hunter_Agent/playwright-report/
           if-no-files-found: ignore
           retention-days: 7
 
