@@ -4,7 +4,8 @@
 !.env.example
 
 # State & personal data
-data/
+data/*
+!data/applied_jobs.json
 
 # Python
 __pycache__/
