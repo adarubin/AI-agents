@@ -1,0 +1,64 @@
+# Candidate profile fed to Gemini for semantic fit scoring.
+# Judge postings by responsibilities and required skills, not job title.
+
+education:
+  degree: "B.Sc. Mechanical Engineering"
+  specialization: "Robotics and Control Systems"
+  # TODO: fill in institution and graduation date/year
+  institution: "TODO"
+  graduation: "TODO"
+
+target_seniority:
+  primary:
+    - student
+    - intern
+    - junior / entry-level
+  secondary: >
+    Mid/senior roles are also acceptable when there is strong technical overlap with robotics,
+    control systems, or physical AI — leverage the mechanical engineering + robotics/control
+    background even without years of software industry experience.
+
+target_role_families:
+  - Data Science
+  - AI Engineer
+  - Applied ML Engineer
+  - Machine Learning Engineer
+  - Robotics Engineer
+  - Physical AI
+  - Drone / UAV Programmer
+  - Computer Vision Engineer
+  - Deep Learning Engineer / Researcher
+  - ML Researcher
+  # Unconventional titles that map to the same work - score by responsibilities, not the title:
+  - Algorithms Engineer
+  - Perception Engineer
+  - Autonomy Software Engineer
+  - Controls Engineer
+
+strong_positive_signals:
+  - Robotics (manipulation, mobile robots, legged robots)
+  - Control systems (classical or learning-based control, MPC, PID)
+  - Computer vision / perception (SLAM, object detection, sensor fusion)
+  - Physical AI / embodied AI / sim-to-real
+  - Drone / UAV autonomy or flight control
+  - Machine learning fundamentals (classical ML, deep learning, PyTorch/TensorFlow)
+  - Python software engineering
+
+disqualifying_signals:
+  - Requires an active security clearance the candidate does not hold
+  - Requires 5+ years of industry ML/software experience (unless overlap is otherwise very strong)
+  - Core stack has no overlap at all with ML/robotics/CV (e.g. pure frontend, pure DevOps)
+
+skills:
+  # TODO: adjust to your actual toolset
+  - Python
+  - PyTorch
+  - Classical control (PID, MPC)
+  - ROS / ROS2
+  - Computer vision (OpenCV)
+  - MATLAB / Simulink
+  - C++
+
+location_preference:
+  - Israel
+  - Remote (open to candidates in Israel)

@@ -1,0 +1,40 @@
+# Canned answers for application form fields. Fill in every TODO before enabling auto-apply --
+# the complexity bail-out abandons any application with an unanswered required field, so an
+# unfilled TODO here just means that job becomes a manual lead instead of a crash.
+
+contact:
+  full_name: "TODO"
+  email: "TODO"
+  phone: "TODO"
+  location: "Israel"
+
+work_authorization:
+  # Used to answer "are you authorized to work in <country>?" style questions.
+  authorized_in_israel: true
+  requires_visa_sponsorship: "TODO"  # true/false
+
+experience:
+  years_of_professional_experience: "TODO"
+  years_of_ml_experience: "TODO"
+  years_of_robotics_experience: "TODO"
+
+education:
+  highest_degree: "B.Sc."
+  field_of_study: "Mechanical Engineering"
+  graduation_date: "TODO"
+
+compensation:
+  salary_expectation: "TODO"  # leave blank/"Negotiable" to skip if the field is optional
+
+links:
+  linkedin_url: "TODO"
+  github_url: "TODO"
+  portfolio_url: "TODO"
+
+cover_letter:
+  # Whether to attach a generic cover letter when the field is optional.
+  include_when_optional: false
+  # TODO: short generic cover letter text, used only if include_when_optional is true
+  generic_text: ""
+
+notice_period: "TODO"  # e.g. "Immediate", "2 weeks", "1 month"

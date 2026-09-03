@@ -1,0 +1,18 @@
+# Core
+google-genai>=1.0.0          # Gemini 2.5 Flash, structured output
+httpx>=0.27.0                # ATS JSON APIs (async, connection pooling)
+tenacity>=8.2.0              # retry/backoff for HTTP and Gemini
+PyYAML>=6.0                  # profile + board list
+python-dotenv>=1.0.0         # local .env; no-op in CI
+
+# Discovery (supplementary dorking source)
+ddgs>=9.0.0                  # DuckDuckGo search (replaces deprecated duckduckgo-search)
+trafilatura>=1.12.0          # main-content extraction from arbitrary career pages
+beautifulsoup4>=4.12.0       # extraction fallback + HTML -> text
+lxml>=5.0.0                  # parser backend for bs4/trafilatura
+
+# Auto-apply
+playwright>=1.45.0           # Chromium form automation (Greenhouse/Lever)
+
+# Tests
+pytest>=8.0.0

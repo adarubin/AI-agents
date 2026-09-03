@@ -1,0 +1,22 @@
+# Cached ATS board tokens fetched every run. Curated by hand + extended by
+# scripts/discover_boards.py. Every token here should return HTTP 200 from its platform's API --
+# verify with:
+#   curl -s -o /dev/null -w '%{http_code}\n' https://boards-api.greenhouse.io/v1/boards/<token>/jobs
+#   curl -s -o /dev/null -w '%{http_code}\n' https://api.lever.co/v0/postings/<token>?mode=json
+#
+# Seeded with a handful of AI/robotics companies confirmed live; expand this list over time --
+# ats_boards.yaml is the single highest-leverage file in the project (see plan). Note that many
+# Israeli companies use ATS platforms without a public API (Comeet, etc.) -- those are only
+# reachable via the dorking supplementary source, as manual leads.
+
+greenhouse:
+  - scaleai
+  - nuro
+  - figure
+
+lever:
+  - waabi
+
+ashby: []
+  # Ashby tokens could not be verified from this environment; validate manually or via
+  # scripts/discover_boards.py before relying on them.

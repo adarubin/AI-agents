@@ -1,0 +1,30 @@
+# Secrets & local env
+.env
+.env.*
+!.env.example
+
+# State & personal data
+data/
+assets/*.pdf
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+
+# Playwright
+playwright-*.log
+test-results/
+playwright-report/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
