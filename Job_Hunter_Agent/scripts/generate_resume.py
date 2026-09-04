@@ -22,17 +22,18 @@ PROJECT_ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_CONTENT = PROJECT_ROOT / "profile" / "resume_content.yaml"
 DEFAULT_OUTPUT = PROJECT_ROOT / "assets" / "Adar_Rubin_CV.pdf"
 
-_NAME = ParagraphStyle("name", fontName="Helvetica-Bold", fontSize=20, spaceAfter=2)
-_HEADLINE = ParagraphStyle("headline", fontName="Helvetica", fontSize=11, textColor="#444444", spaceAfter=4)
-_CONTACT = ParagraphStyle("contact", fontName="Helvetica", fontSize=9, textColor="#444444", spaceAfter=12)
+# Updated Styles for better spacing and formatting
+_NAME = ParagraphStyle("name", fontName="Helvetica-Bold", fontSize=20, leading=24, spaceAfter=8)
+_HEADLINE = ParagraphStyle("headline", fontName="Helvetica", fontSize=11, textColor="#444444", spaceAfter=8)
+_CONTACT = ParagraphStyle("contact", fontName="Helvetica", fontSize=9, textColor="#444444", spaceAfter=14)
 _SECTION = ParagraphStyle(
-    "section", fontName="Helvetica-Bold", fontSize=12, spaceBefore=10, spaceAfter=4,
+    "section", fontName="Helvetica-Bold", fontSize=12, spaceBefore=12, spaceAfter=6,
     borderPadding=0,
 )
-_ENTRY_TITLE = ParagraphStyle("entry_title", fontName="Helvetica-Bold", fontSize=10, spaceAfter=1)
-_ENTRY_SUB = ParagraphStyle("entry_sub", fontName="Helvetica-Oblique", fontSize=9.5, spaceAfter=3)
-_BODY = ParagraphStyle("body", fontName="Helvetica", fontSize=9.5, leading=13, spaceAfter=6)
-_BULLET = ParagraphStyle("bullet", fontName="Helvetica", fontSize=9.5, leading=13, leftIndent=12)
+_ENTRY_TITLE = ParagraphStyle("entry_title", fontName="Helvetica-Bold", fontSize=10, spaceAfter=2)
+_ENTRY_SUB = ParagraphStyle("entry_sub", fontName="Helvetica-Oblique", fontSize=9.5, spaceAfter=4)
+_BODY = ParagraphStyle("body", fontName="Helvetica", fontSize=9.5, leading=14, spaceAfter=6)
+_BULLET = ParagraphStyle("bullet", fontName="Helvetica", fontSize=9.5, leading=14, leftIndent=12, spaceAfter=3)
 
 
 def _load_content(path: Path) -> dict:
@@ -46,9 +47,16 @@ def _build_story(content: dict) -> list:
         Paragraph(content.get("headline", ""), _HEADLINE),
     ]
 
+    # Contact & Clickable Links
     contact = content.get("contact", {})
     contact_bits = [contact.get("email", ""), contact.get("phone", ""), contact.get("location", "")]
-    contact_bits.extend(contact.get("links", []))
+    
+    for link in contact.get("links", []):
+        if isinstance(link, dict) and "url" in link and "label" in link:
+            contact_bits.append(f'<a href="{link["url"]}" color="blue">{link["label"]}</a>')
+        elif isinstance(link, str):
+            contact_bits.append(link)
+
     story.append(Paragraph(" | ".join(b for b in contact_bits if b), _CONTACT))
 
     if content.get("summary"):
@@ -68,16 +76,22 @@ def _build_story(content: dict) -> list:
         for edu in content["education"]:
             story.append(Paragraph(edu["degree"], _ENTRY_TITLE))
             story.append(Paragraph(f"{edu['institution']} - {edu.get('dates', '')}", _ENTRY_SUB))
+            story.append(Spacer(1, 4))
 
     if content.get("skills"):
-        story.append(Paragraph("SKILLS", _SECTION))
-        story.append(Paragraph(", ".join(content["skills"]), _BODY))
+        story.append(Paragraph("TECHNICAL STRENGTHS", _SECTION))
+        for skill_group in content["skills"]:
+            if isinstance(skill_group, dict):
+                story.append(Paragraph(f"<b>{skill_group.get('category', '')}:</b> {skill_group.get('items', '')}", _BODY))
+            else:
+                story.append(Paragraph(skill_group, _BODY))
 
     if content.get("projects"):
         story.append(Paragraph("PROJECTS", _SECTION))
         for proj in content["projects"]:
             story.append(Paragraph(proj["name"], _ENTRY_TITLE))
             story.append(Paragraph(proj.get("description", ""), _BODY))
+            story.append(Spacer(1, 4))
 
     return story
 
