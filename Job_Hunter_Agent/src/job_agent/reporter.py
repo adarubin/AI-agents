@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import smtplib
+from email.mime.application import MIMEApplication
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from html import escape
@@ -107,13 +108,23 @@ def build_plaintext(report: RunReport) -> str:
 
 
 def send(report: RunReport, gmail_user: str, gmail_app_password: str, receiver: str) -> None:
-    msg = MIMEMultipart("alternative")
+    msg = MIMEMultipart("mixed")
     msg["Subject"] = f"Job Hunter Report - {report.started_at:%Y-%m-%d %H:%M} - " \
                       f"{len(report.applied)} applied, {len(report.manual_leads)} leads"
     msg["From"] = gmail_user
     msg["To"] = receiver
-    msg.attach(MIMEText(build_plaintext(report), "plain"))
-    msg.attach(MIMEText(build_html(report), "html"))
+
+    body = MIMEMultipart("alternative")
+    body.attach(MIMEText(build_plaintext(report), "plain"))
+    body.attach(MIMEText(build_html(report), "html"))
+    msg.attach(body)
+
+    resume_path = config.ASSETS_DIR / "Adar_Rubin_CV.pdf"
+    if resume_path.is_file():
+        with open(resume_path, "rb") as f:
+            attachment = MIMEApplication(f.read(), _subtype="pdf")
+        attachment.add_header("Content-Disposition", "attachment", filename=resume_path.name)
+        msg.attach(attachment)
 
     with smtplib.SMTP_SSL(config.SMTP_HOST, config.SMTP_PORT) as server:
         server.login(gmail_user, gmail_app_password)

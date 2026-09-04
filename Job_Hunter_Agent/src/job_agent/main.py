@@ -14,7 +14,7 @@ from job_agent import appliers, config, evaluator, humanize, normalize, reporter
 from job_agent.appliers.base import ComplexityBailOut
 from job_agent.models import ApplyAttempt, JobStatus, RoutedJob, RunReport
 from job_agent.router import route
-from job_agent.sources import ats_api, dorking
+from job_agent.sources import ats_api, dorking, hn
 
 
 def _parse_args() -> argparse.Namespace:
@@ -30,6 +30,7 @@ def _parse_args() -> argparse.Namespace:
 def _discover(cfg: config.Config, errors: list[str]) -> list:
     jobs = ats_api.fetch_all(cfg.ats_boards, errors=errors)
     jobs.extend(dorking.fetch(errors=errors))
+    jobs.extend(hn.fetch(errors=errors))
     return jobs
 
 

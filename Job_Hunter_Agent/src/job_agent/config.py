@@ -30,25 +30,31 @@ REQUIRED_ENV_VARS = [
 
 FRESHNESS_HOURS = 48
 MAX_JOBS_PER_RUN = 120
-GEMINI_BATCH_SIZE = 8
-GEMINI_MODEL = "gemini-3.6-flash"  # gemini-2.5-flash was requested but is no longer available to
-# new API keys as of this build (the API itself returns 404 and points to this replacement) --
-# verified live against the configured GEMINI_API_KEY.
+GEMINI_BATCH_SIZE = 20  # fewer, larger batches -- the free tier caps *requests*/day, not tokens/request
+# gemini-2.5-flash / gemini-2.0-flash both 404 for this API key (Google redirects new keys to
+# gemini-3.6-flash) -- verified live. Configurable via GEMINI_MODEL so a future account with access
+# to a higher-quota model doesn't require a code change, but the default must stay a model that
+# actually works.
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.6-flash")
 
-MIN_SCORE_TO_APPLY = 7.0
-MIN_SCORE_TO_REPORT = 7.0
+MIN_SCORE_TO_APPLY = 6.0
+MIN_SCORE_TO_REPORT = 6.0
 SENIOR_APPLY_THRESHOLD = 8.5
 
 APPLY_CAP_RANGE = (5, 7)  # randomized per-run cap on total auto-applications
 DORK_QUERY_BUDGET = 12  # max search queries per run
 
-LOCATIONS = ["Israel", "Remote"]  # remote roles restricted to other countries are penalized in scoring
+# Remote roles restricted to a country other than Israel are penalized in scoring (see evaluator).
+LOCATIONS = ["Israel", "Netanya", "Tel Aviv", "Center District", "Remote", "Remote EMEA"]
 
 ROLE_FAMILIES = [
     "Data Science",
     "AI Engineer",
     "Applied ML Engineer",
     "Machine Learning Engineer",
+    "Data Engineer",
+    "MLOps",
+    "AI Researcher",
     "Robotics Engineer",
     "Physical AI",
     "Drone",
@@ -61,6 +67,17 @@ ROLE_FAMILIES = [
     "Perception Engineer",
     "Autonomy Software",
     "Controls Engineer",
+]
+
+# Career pages tracked directly by name, even though none of them expose the Greenhouse/Lever/Ashby
+# JSON APIs the primary source relies on (verified live: all 404). These feed the dorking source's
+# targeted-company query and are manual-lead only, same as every other dorked result -- there is no
+# reliable free JSON API for Workday (Nvidia, Microsoft) or Mobileye/AI21 Labs' own career sites.
+TARGETED_COMPANY_SITES = [
+    "careers.mobileye.com",
+    "ai21.com/careers",
+    "nvidia.com/en-us/about-nvidia/careers",
+    "careers.microsoft.com",
 ]
 
 SMTP_HOST = "smtp.gmail.com"
