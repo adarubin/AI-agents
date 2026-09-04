@@ -93,6 +93,7 @@ class Config:
     candidate_profile: dict
     answers: dict
     ats_boards: dict
+    resume_content: dict
 
 
 def _fail(message: str) -> None:
@@ -114,6 +115,16 @@ def _load_yaml(path: Path) -> dict:
         return yaml.safe_load(f) or {}
 
 
+def _load_yaml_optional(path: Path) -> dict:
+    """Like _load_yaml, but a missing file just means the feature it backs is unavailable --
+    not a reason to crash the whole run (resume_content.yaml is gitignored and may not exist,
+    e.g. locally without the RESUME_CONTENT_YAML secret restored)."""
+    if not path.exists():
+        return {}
+    with open(path, "r", encoding="utf-8") as f:
+        return yaml.safe_load(f) or {}
+
+
 def load() -> Config:
     """Validate all secrets and load profile files. Exits the process on failure."""
     missing = [name for name in REQUIRED_ENV_VARS if not os.environ.get(name)]
@@ -128,4 +139,5 @@ def load() -> Config:
         candidate_profile=_load_yaml(PROFILE_DIR / "candidate.yaml"),
         answers=_load_yaml(PROFILE_DIR / "answers.yaml"),
         ats_boards=_load_yaml(PROFILE_DIR / "ats_boards.yaml"),
+        resume_content=_load_yaml_optional(PROFILE_DIR / "resume_content.yaml"),
     )
