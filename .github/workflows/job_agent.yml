@@ -46,13 +46,14 @@ jobs:
 
       - name: Restore resume from secret
         env:
-          RESUME_PDF_BASE64: ${{ secrets.RESUME_PDF_BASE64 }}
+          RESUME_PART_1: ${{ secrets.RESUME_PART_1 }}
+          RESUME_PART_2: ${{ secrets.RESUME_PART_2 }}
         run: |
           mkdir -p assets
-          if [ -n "$RESUME_PDF_BASE64" ]; then
-            echo "$RESUME_PDF_BASE64" | base64 -d > assets/Adar_Rubin_CV.pdf
+          if [ -n "$RESUME_PART_1" ]; then
+            echo "${RESUME_PART_1}${RESUME_PART_2}" | base64 -d > assets/Adar_Rubin_CV.pdf
           else
-            echo "::warning::RESUME_PDF_BASE64 secret not set -- every ATS form requires a resume upload, so auto-apply will bail on every job this run."
+            echo "::warning::RESUME_PART_1/RESUME_PART_2 secrets not set -- every ATS form requires a resume upload, so auto-apply will bail on every job this run."
           fi
 
       - name: Run job hunter agent
