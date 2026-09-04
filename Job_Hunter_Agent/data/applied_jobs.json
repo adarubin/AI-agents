@@ -8,6 +8,15 @@
     "title": "Renesas Electronics Senior Embedded Applications Engineer, Edge AI Lab | SmartRecruiters",
     "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000147318131-senior-embedded-applications-engineer-edge-ai-lab"
   },
+  "dorked:0e9a0b9fe9d28984": {
+    "company": "",
+    "first_seen": "2026-09-04T18:44:26.954581+00:00",
+    "last_action": "2026-09-04T18:44:26.954583+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Nexthink Cloud Infrastructure Engineer  | SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/nexthink/744000146761419"
+  },
   "dorked:1a0d6353ec4693dc": {
     "company": "",
     "first_seen": "2026-09-03T22:41:47.602411+00:00",
@@ -197,6 +206,15 @@
     "title": "Quadient Software Quality Engineer  | SmartRecruiters",
     "url": "https://jobs.smartrecruiters.com/Quadient1/744000147053489-software-quality-engineer"
   },
+  "dorked:c2c9b0bc569f54f1": {
+    "company": "",
+    "first_seen": "2026-09-04T18:44:26.954591+00:00",
+    "last_action": "2026-09-04T18:44:26.954593+00:00",
+    "score": 2.0,
+    "status": "discarded",
+    "title": "Jobs in Norway | Microsoft Careers",
+    "url": "https://careers.microsoft.com/v2/global/en/locations/norway.html"
+  },
   "dorked:c3896fdd67b458b2": {
     "company": "",
     "first_seen": "2026-09-03T22:41:47.602398+00:00",
@@ -313,6 +331,15 @@
     "status": "discarded",
     "title": "Python / Backend / AI Engineer \u2014 Remote / Relocation",
     "url": "https://news.ycombinator.com/item?id=49562366"
+  },
+  "dorked:hn:49567708": {
+    "company": "",
+    "first_seen": "2026-09-04T18:44:26.954574+00:00",
+    "last_action": "2026-09-04T18:44:26.954576+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Hi HN \u2014 I run CareerJumpShip.com, a free job board that surfaces active roles from Greenhouse / Lever / Ashby ATSes (no ",
+    "url": "https://news.ycombinator.com/item?id=49567708"
   },
   "greenhouse:4282118005": {
     "company": "scaleai",
@@ -916,6 +943,15 @@
     "status": "unscored",
     "title": "Senior Product Designer",
     "url": "https://nuro.ai/careersitem?gh_jid=8174226"
+  },
+  "greenhouse:8178761": {
+    "company": "nuro",
+    "first_seen": "2026-09-04T18:44:26.954553+00:00",
+    "last_action": "2026-09-04T18:44:26.954564+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Total Rewards Analyst",
+    "url": "https://nuro.ai/careersitem?gh_jid=8178761"
   },
   "greenhouse:8687828002": {
     "company": "figure",
