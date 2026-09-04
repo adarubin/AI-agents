@@ -44,16 +44,21 @@ jobs:
       - name: Install Playwright browser
         run: playwright install --with-deps chromium
 
-      - name: Restore resume from secret
+      - name: Restore resume content
         env:
-          RESUME_PART_1: ${{ secrets.RESUME_PART_1 }}
-          RESUME_PART_2: ${{ secrets.RESUME_PART_2 }}
+          RESUME_CONTENT_YAML: ${{ secrets.RESUME_CONTENT_YAML }}
         run: |
-          mkdir -p assets
-          if [ -n "$RESUME_PART_1" ]; then
-            echo "${RESUME_PART_1}${RESUME_PART_2}" | base64 -d > assets/Adar_Rubin_CV.pdf
+          mkdir -p profile
+          if [ -n "$RESUME_CONTENT_YAML" ]; then
+            printf '%s\n' "$RESUME_CONTENT_YAML" > profile/resume_content.yaml
           else
-            echo "::warning::RESUME_PART_1/RESUME_PART_2 secrets not set -- every ATS form requires a resume upload, so auto-apply will bail on every job this run."
+            echo "::warning::RESUME_CONTENT_YAML secret not set -- resume PDF cannot be generated, so auto-apply will bail on every job this run."
+          fi
+
+      - name: Generate resume PDF
+        run: |
+          if [ -f profile/resume_content.yaml ]; then
+            python scripts/generate_resume.py
           fi
 
       - name: Run job hunter agent

@@ -6,6 +6,11 @@
 # Resume must never be committed -- restored in CI from the RESUME_PDF_BASE64 secret
 assets/*.pdf
 
+# Resume content (name, contact info, experience) -- restored in CI from the
+# RESUME_CONTENT_YAML secret; profile/resume_content.example.yaml documents the schema
+# and is safe to commit since it holds only placeholder values.
+profile/resume_content.yaml
+
 # State & personal data
 data/*
 !data/applied_jobs.json

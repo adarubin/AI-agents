@@ -1,0 +1,42 @@
+# Schema for profile/resume_content.yaml -- the real file with your actual details.
+# That file is gitignored and, in CI, is restored at runtime from the RESUME_CONTENT_YAML
+# secret (plain YAML text, not base64 -- well under GitHub's 64KB secret limit).
+# scripts/generate_resume.py renders it into assets/Adar_Rubin_CV.pdf.
+
+name: "Jane Doe"
+headline: "M.Sc. Machine Learning Student | Robotics & Control Systems"
+contact:
+  email: "jane.doe@example.com"
+  phone: "+972-50-000-0000"
+  location: "Tel Aviv, Israel"
+  links:
+    - "linkedin.com/in/janedoe"
+    - "github.com/janedoe"
+
+summary: >
+  One or two sentences on background and what you're looking for.
+
+education:
+  - degree: "M.Sc. Machine Learning and Big Data (In Progress)"
+    institution: "Open University of Israel"
+    dates: "Expected March 2027"
+  - degree: "B.Sc. Mechanical Engineering"
+    institution: "Afeka Academic College of Engineering"
+    dates: "2020"
+
+experience:
+  - title: "Job Title"
+    company: "Company Name"
+    dates: "Mon YYYY - Mon YYYY"
+    bullets:
+      - "What you did and the impact, one line per bullet."
+      - "Another bullet."
+
+skills:
+  - "Python"
+  - "PyTorch"
+  - "ROS / ROS2"
+
+projects:
+  - name: "Project Name"
+    description: "One line describing the project and technologies used."

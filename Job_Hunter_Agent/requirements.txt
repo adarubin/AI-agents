@@ -4,6 +4,7 @@ httpx>=0.27.0                # ATS JSON APIs (async, connection pooling)
 tenacity>=8.2.0              # retry/backoff for HTTP and Gemini
 PyYAML>=6.0                  # profile + board list
 python-dotenv>=1.0.0         # local .env; no-op in CI
+reportlab>=4.0.0              # generates assets/Adar_Rubin_CV.pdf from profile/resume_content.yaml
 
 # Discovery (supplementary dorking source)
 ddgs>=9.0.0                  # DuckDuckGo search (replaces deprecated duckduckgo-search)
