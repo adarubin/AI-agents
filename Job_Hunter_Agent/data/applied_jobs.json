@@ -296,6 +296,15 @@
     "title": "AECOM Protection and Controls Engineer | SmartRecruiters",
     "url": "https://jobs.smartrecruiters.com/AECOM2/744000146738549-protection-and-controls-engineer"
   },
+  "dorked:fae00b0a34c4f8a5": {
+    "company": "",
+    "first_seen": "2026-09-04T20:47:54.903650+00:00",
+    "last_action": "2026-09-04T20:47:54.903652+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "City of New York Fleet Administration Intern | SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/CityOfNewYork/3743990015010666-fleet-administration-intern"
+  },
   "dorked:hn:49540773": {
     "company": "",
     "first_seen": "2026-09-04T17:34:17.235147+00:00",
@@ -745,6 +754,15 @@
     "status": "unscored",
     "title": "Software Engineer - AI Enablement",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4722512005"
+  },
+  "greenhouse:4722811005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-04T20:47:54.903625+00:00",
+    "last_action": "2026-09-04T20:47:54.903639+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Sr. Director, (Applied AI)  Forward Deployed Engineering ",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4722811005"
   },
   "greenhouse:4724276005": {
     "company": "scaleai",
