@@ -44,6 +44,33 @@
     "title": "Jobs in Singapore | Microsoft Careers",
     "url": "https://careers.microsoft.com/professionals/us/en/l-singapore"
   },
+  "dorked:1fe452e04901c4d6": {
+    "company": "",
+    "first_seen": "2026-09-05T14:56:10.227162+00:00",
+    "last_action": "2026-09-05T14:56:10.227164+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Xplor Account Executive | SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/Xplor/744000144301169-account-executive"
+  },
+  "dorked:239f2119dac7342b": {
+    "company": "",
+    "first_seen": "2026-09-05T14:56:10.227212+00:00",
+    "last_action": "2026-09-05T14:56:10.227214+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Turner & Townsend Construction Project Manager | SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/TurnerTownsend/744000147561540-construction-project-manager"
+  },
+  "dorked:24f1a7656d4f1cb4": {
+    "company": "",
+    "first_seen": "2026-09-05T14:56:10.227193+00:00",
+    "last_action": "2026-09-05T14:56:10.227194+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "AECOM Senior Structural Engineer | SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/AECOM2/744000147477450-senior-structural-engineer"
+  },
   "dorked:258acaffc4706e5f": {
     "company": "",
     "first_seen": "2026-09-03T22:41:47.602393+00:00",
@@ -242,6 +269,24 @@
     "title": "Renesas Electronics Senior Staff Edge Applications Engineer (Hardware & Embedded Lab Lead) | SmartRecruiters",
     "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000147317988-sr-staff-embedded-applications-engineer-edge-ai-lab"
   },
+  "dorked:8d885f55b7cc6d23": {
+    "company": "",
+    "first_seen": "2026-09-05T14:56:10.227207+00:00",
+    "last_action": "2026-09-05T14:56:10.227208+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "EVERSANA Patient Support Associate | SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/EVERSANA1/744000147024814-patient-support-associate"
+  },
+  "dorked:8e050112e428b17c": {
+    "company": "",
+    "first_seen": "2026-09-05T14:56:10.227218+00:00",
+    "last_action": "2026-09-05T14:56:10.227219+00:00",
+    "score": 2.0,
+    "status": "discarded",
+    "title": "ServiceNow Senior Manager - Software Engineering Management - AI Engineering | SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000147380080-senior-manager-software-engineering-management-ai-engineering"
+  },
   "dorked:8f46986303148eb4": {
     "company": "",
     "first_seen": "2026-09-04T10:59:52.510713+00:00",
@@ -269,6 +314,24 @@
     "title": "The Nielsen Company Senior IT Support Specialist I | SmartRecruiters",
     "url": "https://jobs.smartrecruiters.com/TheNielsenCompany/3743990015008685-senior-it-support-specialist-i"
   },
+  "dorked:9d34a3a623036c99": {
+    "company": "",
+    "first_seen": "2026-09-05T14:56:10.227182+00:00",
+    "last_action": "2026-09-05T14:56:10.227183+00:00",
+    "score": 2.0,
+    "status": "discarded",
+    "title": "Sia Manager, Forward Deployed Engineer | SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/sia/744000146566518"
+  },
+  "dorked:a35b24d05c18ac3a": {
+    "company": "",
+    "first_seen": "2026-09-05T14:56:10.227141+00:00",
+    "last_action": "2026-09-05T14:56:10.227152+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Cooper Auto Group Commercial Parts Sales Consultant - Joe Cooper Pro Elite  | SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/CooperAutoGroup/744000145370709-heavy-duty-parts-sales-consultant-joe-cooper-pro-elite-"
+  },
   "dorked:a6338601f619774c": {
     "company": "",
     "first_seen": "2026-09-05T10:20:57.870182+00:00",
@@ -277,6 +340,15 @@
     "status": "discarded",
     "title": "NielsenIQ Software Engineer (Frontend - Angular 19+, Angular Signals, RxJS) | SmartRecruiters",
     "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000147501560-software-engineer-frontend-angular-19-angular-signals-rxjs-"
+  },
+  "dorked:a76a677e39d5e368": {
+    "company": "",
+    "first_seen": "2026-09-05T14:56:10.227170+00:00",
+    "last_action": "2026-09-05T14:56:10.227171+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "ServiceNow Advisory Solution Consultant (Pre-Sales), Security Operations \u2013 Sydney or Melbourne  | SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000147161470-advisory-solution-consultant-pre-sales-security-operations-sydney-or-melbourne-"
   },
   "dorked:aea92a13dffe0b2f": {
     "company": "",
@@ -295,6 +367,24 @@
     "status": "discarded",
     "title": "Jitterbit Java Backend Software Engineer | SmartRecruiters",
     "url": "https://jobs.smartrecruiters.com/Jitterbit/744000147366409-java-backend-software-engineer"
+  },
+  "dorked:b3681c86fd1b7d1e": {
+    "company": "",
+    "first_seen": "2026-09-05T14:56:10.227223+00:00",
+    "last_action": "2026-09-05T14:56:10.227225+00:00",
+    "score": 2.0,
+    "status": "discarded",
+    "title": "Mirantis Senior Software Engineer (Rust) - remote in the EU | SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/Mirantis/744000147243287-senior-software-engineer-rust-remote-in-the-eu"
+  },
+  "dorked:ba42efd5d0dd63c3": {
+    "company": "",
+    "first_seen": "2026-09-05T14:56:10.227187+00:00",
+    "last_action": "2026-09-05T14:56:10.227189+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Klick SVP Strategy EMEA  | SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/Klick1/744000147523543-svp-strategy-emea-"
   },
   "dorked:ba9b07407a2cf87b": {
     "company": "",
@@ -331,6 +421,15 @@
     "status": "unscored",
     "title": "Syngenta Group Machine Learning Engineer | SmartRecruiters",
     "url": "https://jobs.smartrecruiters.com/SyngentaGroup/744000147063129-machine-learning-engineer"
+  },
+  "dorked:c716bed63e8b6b99": {
+    "company": "",
+    "first_seen": "2026-09-05T14:56:10.227176+00:00",
+    "last_action": "2026-09-05T14:56:10.227178+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Nearmap SVP, Legal | SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/Nearmap/744000147607449-svp-legal"
   },
   "dorked:c945482ec86df535": {
     "company": "",
@@ -403,6 +502,15 @@
     "status": "discarded",
     "title": "Mirantis Senior Software Engineer (Rust) - remote in the EU | SmartRecruiters",
     "url": "https://jobs.smartrecruiters.com/mirantis/744000147243287-senior-software-engineer-rust-remote-in-the-eu"
+  },
+  "dorked:ea41f91563c10ebb": {
+    "company": "",
+    "first_seen": "2026-09-05T14:56:10.227200+00:00",
+    "last_action": "2026-09-05T14:56:10.227202+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "KPFF Consulting Engineers 2027 Structural Engineer Summer Internship - Current Juniors | SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/KPFFConsultingEngineers/3743990014977943-2027-structural-engineer-summer-internship-current-juniors"
   },
   "dorked:ecd77f652ddb4da3": {
     "company": "",
