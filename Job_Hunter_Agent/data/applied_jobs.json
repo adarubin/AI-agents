@@ -8,6 +8,15 @@
     "title": "Renesas Electronics Senior Embedded Applications Engineer, Edge AI Lab | SmartRecruiters",
     "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000147318131-senior-embedded-applications-engineer-edge-ai-lab"
   },
+  "dorked:0a9e5074c2133415": {
+    "company": "",
+    "first_seen": "2026-09-06T10:40:29.808803+00:00",
+    "last_action": "2026-09-06T10:40:29.808805+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Jobs in Vancouver | Microsoft Careers",
+    "url": "https://careers.microsoft.com/professionals/us/en/l-vancouver"
+  },
   "dorked:0cbdd8f5ad5561ed": {
     "company": "",
     "first_seen": "2026-09-05T10:20:57.870194+00:00",
@@ -79,6 +88,15 @@
     "status": "unscored",
     "title": "Renesas Electronics Sr Staff Solution Marketing Specialist -Physical AI & Humanoid Robotic | SmartRecruiters",
     "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000146388399-sr-staff-solution-marketing-specialist-physical-ai-humanoid-robotic"
+  },
+  "dorked:261bb4e209ee4554": {
+    "company": "",
+    "first_seen": "2026-09-06T10:40:29.808797+00:00",
+    "last_action": "2026-09-06T10:40:29.808799+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Jobs in New York | Microsoft Careers",
+    "url": "https://careers.microsoft.com/professionals/us/en/l-newyork"
   },
   "dorked:2a0f9226c19f80f6": {
     "company": "",
@@ -295,6 +313,15 @@
     "status": "discarded",
     "title": "SGS Principal Engineer | SmartRecruiters",
     "url": "https://jobs.smartrecruiters.com/SGS/744000144708579-principal-engineer"
+  },
+  "dorked:938c11b7e2890354": {
+    "company": "",
+    "first_seen": "2026-09-06T10:40:29.808813+00:00",
+    "last_action": "2026-09-06T10:40:29.808814+00:00",
+    "score": 2.0,
+    "status": "discarded",
+    "title": "Jobs in Reading | Microsoft Careers",
+    "url": "https://careers.microsoft.com/professionals/us/en/l-reading"
   },
   "dorked:9b1246f75c265133": {
     "company": "",
@@ -592,6 +619,15 @@
     "status": "discarded",
     "title": "Hi HN \u2014 I run CareerJumpShip.com, a free job board that surfaces active roles from Greenhouse / Lever / Ashby ATSes (no ",
     "url": "https://news.ycombinator.com/item?id=49567708"
+  },
+  "dorked:hn:49578811": {
+    "company": "",
+    "first_seen": "2026-09-06T10:40:29.808773+00:00",
+    "last_action": "2026-09-06T10:40:29.808787+00:00",
+    "score": 2.0,
+    "status": "discarded",
+    "title": "Valkyrie Aero | Software Engineer (Autonomy, Perception, Frontend) | REMOTE (US) | Contract | U.S. Citizens | ",
+    "url": "https://news.ycombinator.com/item?id=49578811"
   },
   "greenhouse:4282118005": {
     "company": "scaleai",
