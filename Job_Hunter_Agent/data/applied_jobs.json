@@ -161,6 +161,15 @@
     "title": "Redcare Pharmacy Senior ML Engineer (m/f/d) | SmartRecruiters",
     "url": "https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000146699900-senior-ml-engineer-mfd"
   },
+  "dorked:44cb1f32cc50d4ec": {
+    "company": "",
+    "first_seen": "2026-09-07T12:06:03.551566+00:00",
+    "last_action": "2026-09-07T12:06:03.551568+00:00",
+    "score": 2.0,
+    "status": "discarded",
+    "title": "Western Digital Software Engineer (Apps)  | SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000142878952-software-engineer-apps-"
+  },
   "dorked:4c689dd21fd11cdd": {
     "company": "",
     "first_seen": "2026-09-05T10:20:57.870204+00:00",
@@ -377,6 +386,15 @@
     "title": "ServiceNow Advisory Solution Consultant (Pre-Sales), Security Operations \u2013 Sydney or Melbourne  | SmartRecruiters",
     "url": "https://jobs.smartrecruiters.com/ServiceNow/744000147161470-advisory-solution-consultant-pre-sales-security-operations-sydney-or-melbourne-"
   },
+  "dorked:a83757dd273c7eea": {
+    "company": "",
+    "first_seen": "2026-09-07T12:06:03.551555+00:00",
+    "last_action": "2026-09-07T12:06:03.551557+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "ServiceNow Staff\u00a0Full-Stack Engineer, Experience Team | SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000147650939-staff-full-stack-engineer-experience-team"
+  },
   "dorked:aea92a13dffe0b2f": {
     "company": "",
     "first_seen": "2026-09-05T10:20:57.870143+00:00",
@@ -403,6 +421,15 @@
     "status": "discarded",
     "title": "Mirantis Senior Software Engineer (Rust) - remote in the EU | SmartRecruiters",
     "url": "https://jobs.smartrecruiters.com/Mirantis/744000147243287-senior-software-engineer-rust-remote-in-the-eu"
+  },
+  "dorked:b85929ae80d72be5": {
+    "company": "",
+    "first_seen": "2026-09-07T12:06:03.551546+00:00",
+    "last_action": "2026-09-07T12:06:03.551548+00:00",
+    "score": 3.0,
+    "status": "discarded",
+    "title": "Machine Learning Jobs in Israel",
+    "url": "https://mljobs.io/machine-learning/israel"
   },
   "dorked:ba42efd5d0dd63c3": {
     "company": "",
@@ -628,6 +655,15 @@
     "status": "discarded",
     "title": "Valkyrie Aero | Software Engineer (Autonomy, Perception, Frontend) | REMOTE (US) | Contract | U.S. Citizens | ",
     "url": "https://news.ycombinator.com/item?id=49578811"
+  },
+  "dorked:hn:49595476": {
+    "company": "",
+    "first_seen": "2026-09-07T12:06:03.551521+00:00",
+    "last_action": "2026-09-07T12:06:03.551535+00:00",
+    "score": 5.0,
+    "status": "discarded",
+    "title": "Lucia | Director of Corp Dev \u00b7 Product Marketing Associate \u00b7 MLOps Engineer | Remote (NYC / SEA / global overlap) | $140",
+    "url": "https://news.ycombinator.com/item?id=49595476"
   },
   "greenhouse:4282118005": {
     "company": "scaleai",
