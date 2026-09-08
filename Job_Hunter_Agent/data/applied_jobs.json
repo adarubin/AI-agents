@@ -107,6 +107,15 @@
     "title": "Jobs in New York | Microsoft Careers",
     "url": "https://careers.microsoft.com/professionals/us/en/l-newyork"
   },
+  "dorked:2786d740351d24f0": {
+    "company": "",
+    "first_seen": "2026-09-08T16:24:31.329545+00:00",
+    "last_action": "2026-09-08T16:24:31.329556+00:00",
+    "score": 2.0,
+    "status": "discarded",
+    "title": "QAD, Inc. Software Engineer, Full Stack (Python & Golang backend + Frontend) | SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/QADInc/744000148151164-software-ai-engineer-ai-agent-platform-"
+  },
   "dorked:2a0f9226c19f80f6": {
     "company": "",
     "first_seen": "2026-09-05T10:20:57.870172+00:00",
@@ -484,6 +493,15 @@
     "status": "discarded",
     "title": "Jobs in Norway | Microsoft Careers",
     "url": "https://careers.microsoft.com/v2/global/en/locations/norway.html"
+  },
+  "dorked:c2f91898bedd7da7": {
+    "company": "",
+    "first_seen": "2026-09-08T16:24:31.329566+00:00",
+    "last_action": "2026-09-08T16:24:31.329568+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "QAD, Inc. Senior Full Stack Software Engineer ( Strong backend - Python & Go + frontend) | SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/QADInc/744000148149702-senior-ai-engineer"
   },
   "dorked:c3896fdd67b458b2": {
     "company": "",
