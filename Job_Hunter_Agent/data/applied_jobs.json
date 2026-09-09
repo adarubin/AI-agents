@@ -71,6 +71,15 @@
     "title": "Xplor Account Executive | SmartRecruiters",
     "url": "https://jobs.smartrecruiters.com/Xplor/744000144301169-account-executive"
   },
+  "dorked:22c1fe0d7c8c3afe": {
+    "company": "",
+    "first_seen": "2026-09-09T11:04:10.451556+00:00",
+    "last_action": "2026-09-09T11:04:10.451558+00:00",
+    "score": 7.0,
+    "status": "manual_lead",
+    "title": "EVB Software Engineer | SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/EVB/744000148188625-software-engineer"
+  },
   "dorked:239f2119dac7342b": {
     "company": "",
     "first_seen": "2026-09-05T14:56:10.227212+00:00",
@@ -223,6 +232,15 @@
     "status": "discarded",
     "title": "SGS IT Support Specialist/Engineer | SmartRecruiters",
     "url": "https://jobs.smartrecruiters.com/SGS/744000147479409-it-support-specialist-engineer"
+  },
+  "dorked:54ae10527cda79db": {
+    "company": "",
+    "first_seen": "2026-09-09T11:04:10.451573+00:00",
+    "last_action": "2026-09-09T11:04:10.451575+00:00",
+    "score": 2.0,
+    "status": "discarded",
+    "title": "Believe Staff Engineer Agentic AI | SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/Believe/744000148232499-staff-engineer-agentic-ai"
   },
   "dorked:551decb1dc2772b9": {
     "company": "",
@@ -449,6 +467,15 @@
     "title": "Mirantis Senior Software Engineer (Rust) - remote in the EU | SmartRecruiters",
     "url": "https://jobs.smartrecruiters.com/Mirantis/744000147243287-senior-software-engineer-rust-remote-in-the-eu"
   },
+  "dorked:b613c73bafba15a1": {
+    "company": "",
+    "first_seen": "2026-09-09T11:04:10.451567+00:00",
+    "last_action": "2026-09-09T11:04:10.451569+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "ServiceNow Principal AI Platform Engineer | SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000147357549-principal-ai-platform-engineer"
+  },
   "dorked:b85929ae80d72be5": {
     "company": "",
     "first_seen": "2026-09-07T12:06:03.551546+00:00",
@@ -629,6 +656,15 @@
     "title": "ServiceNow Director, Product Design, IT Service Management | SmartRecruiters",
     "url": "https://jobs.smartrecruiters.com/ServiceNow/744000147693009-director-product-design-it-service-management"
   },
+  "dorked:f076420474eb8000": {
+    "company": "",
+    "first_seen": "2026-09-09T11:04:10.451561+00:00",
+    "last_action": "2026-09-09T11:04:10.451563+00:00",
+    "score": 2.0,
+    "status": "discarded",
+    "title": "Next Step Systems Principal Software Engineer, AI Email Applications, Artificial Intelligence (AI) Required - Work From Home | SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/NextStepSystems/744000147886429-principal-software-engineer-ai-email-applications-artificial-intelligence-ai-required-work-from-home"
+  },
   "dorked:f1b878e6b02a9cf4": {
     "company": "",
     "first_seen": "2026-09-04T10:59:52.510726+00:00",
@@ -709,6 +745,15 @@
     "status": "discarded",
     "title": "Lucia | Director of Corp Dev \u00b7 Product Marketing Associate \u00b7 MLOps Engineer | Remote (NYC / SEA / global overlap) | $140",
     "url": "https://news.ycombinator.com/item?id=49595476"
+  },
+  "dorked:hn:49613305": {
+    "company": "",
+    "first_seen": "2026-09-09T11:04:10.451549+00:00",
+    "last_action": "2026-09-09T11:04:10.451551+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Estuary | US-Based / Remote | Full-time \u2013 ",
+    "url": "https://news.ycombinator.com/item?id=49613305"
   },
   "greenhouse:4282118005": {
     "company": "scaleai",
@@ -1250,6 +1295,33 @@
     "title": "Software Engineering Intern (Summer 2027) ",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005"
   },
+  "greenhouse:4730990005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-09T11:04:10.451507+00:00",
+    "last_action": "2026-09-09T11:04:10.451509+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Technical Program Manager, Public Sector (Boston, MA)",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730990005"
+  },
+  "greenhouse:4731017005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-09T11:04:10.451514+00:00",
+    "last_action": "2026-09-09T11:04:10.451515+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Technical Program Manager, Public Sector (Dayton, OH)",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4731017005"
+  },
+  "greenhouse:4731630005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-09T11:04:10.451478+00:00",
+    "last_action": "2026-09-09T11:04:10.451490+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Software Engineer, Platform ",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4731630005"
+  },
   "greenhouse:6621871": {
     "company": "nuro",
     "first_seen": "2026-09-03T22:41:47.602259+00:00",
@@ -1349,6 +1421,15 @@
     "title": "Senior Product Designer",
     "url": "https://nuro.ai/careersitem?gh_jid=8174226"
   },
+  "greenhouse:8175271": {
+    "company": "nuro",
+    "first_seen": "2026-09-09T11:04:10.451520+00:00",
+    "last_action": "2026-09-09T11:04:10.451522+00:00",
+    "score": 4.0,
+    "status": "discarded",
+    "title": "Senior/Staff Engineer, Machine Learning - Online Mapping",
+    "url": "https://nuro.ai/careersitem?gh_jid=8175271"
+  },
   "greenhouse:8178761": {
     "company": "nuro",
     "first_seen": "2026-09-04T18:44:26.954553+00:00",
@@ -1358,6 +1439,15 @@
     "title": "Total Rewards Analyst",
     "url": "https://nuro.ai/careersitem?gh_jid=8178761"
   },
+  "greenhouse:8180475": {
+    "company": "nuro",
+    "first_seen": "2026-09-09T11:04:10.451541+00:00",
+    "last_action": "2026-09-09T11:04:10.451543+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Senior Technical Program Manager - AI Platform Performance & Reliability",
+    "url": "https://nuro.ai/careersitem?gh_jid=8180475"
+  },
   "greenhouse:8180896": {
     "company": "nuro",
     "first_seen": "2026-09-05T10:20:57.870132+00:00",
@@ -1366,6 +1456,15 @@
     "status": "discarded",
     "title": "Senior Program Manager, Perception Data Operations",
     "url": "https://nuro.ai/careersitem?gh_jid=8180896"
+  },
+  "greenhouse:8187131": {
+    "company": "nuro",
+    "first_seen": "2026-09-09T11:04:10.451527+00:00",
+    "last_action": "2026-09-09T11:04:10.451529+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Workday Analyst",
+    "url": "https://nuro.ai/careersitem?gh_jid=8187131"
   },
   "greenhouse:8687828002": {
     "company": "figure",
@@ -1385,6 +1484,15 @@
     "title": "Director of Treasury & Financial Operations",
     "url": "https://job-boards.greenhouse.io/figure/jobs/8709203002"
   },
+  "greenhouse:8769252002": {
+    "company": "figure",
+    "first_seen": "2026-09-09T11:04:10.451500+00:00",
+    "last_action": "2026-09-09T11:04:10.451502+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Senior Marketing Manager, ABM",
+    "url": "https://job-boards.greenhouse.io/figure/jobs/8769252002"
+  },
   "lever:5e2c25f8-150e-46bf-95a7-71ed8cb246a8": {
     "company": "waabi",
     "first_seen": "2026-09-03T22:41:47.602213+00:00",
@@ -1393,5 +1501,14 @@
     "status": "unscored",
     "title": "Senior Product Designer",
     "url": "https://jobs.lever.co/waabi/5e2c25f8-150e-46bf-95a7-71ed8cb246a8"
+  },
+  "lever:f07f1b90-8006-4984-b05d-5f591463c602": {
+    "company": "waabi",
+    "first_seen": "2026-09-09T11:04:10.451533+00:00",
+    "last_action": "2026-09-09T11:04:10.451535+00:00",
+    "score": 3.0,
+    "status": "discarded",
+    "title": "Vehicle Reliability Engineer - Night Shift",
+    "url": "https://jobs.lever.co/waabi/f07f1b90-8006-4984-b05d-5f591463c602"
   }
 }
