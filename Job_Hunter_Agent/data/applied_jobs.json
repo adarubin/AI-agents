@@ -143,6 +143,15 @@
     "title": "Lifted, an Upwork Company\u2122 #134212 - JavaScript Software Engineer - Application Modernization | SmartRecruiters",
     "url": "https://jobs.smartrecruiters.com/LiftedanUpworkCompany/3743990015073326--134212-javascript-software-engineer-application-modernization"
   },
+  "dorked:2a66b268926ec62b": {
+    "company": "",
+    "first_seen": "2026-09-10T16:10:48.433824+00:00",
+    "last_action": "2026-09-10T16:10:48.433825+00:00",
+    "score": 2.0,
+    "status": "discarded",
+    "title": "SQLI QA Automation Engineer (Python/C++) | SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/SQLI1/744000148160693-qa-automation-engineer-desktop-"
+  },
   "dorked:2cd5f73a6a34eb29": {
     "company": "",
     "first_seen": "2026-09-04T10:59:52.510707+00:00",
@@ -809,6 +818,15 @@
     "title": "Estuary | US-Based / Remote | Full-time \u2013 ",
     "url": "https://news.ycombinator.com/item?id=49613305"
   },
+  "dorked:hn:49645329": {
+    "company": "",
+    "first_seen": "2026-09-10T16:10:48.433785+00:00",
+    "last_action": "2026-09-10T16:10:48.433798+00:00",
+    "score": 2.0,
+    "status": "discarded",
+    "title": "Purple Candor LLC \u2014 AI Engineer \u2014 Remote / US (Sub-contractor- 6 month+)",
+    "url": "https://news.ycombinator.com/item?id=49645329"
+  },
   "greenhouse:4282118005": {
     "company": "scaleai",
     "first_seen": "2026-09-03T22:41:47.602374+00:00",
@@ -1042,6 +1060,15 @@
     "status": "unscored",
     "title": "Senior Full-Stack Software Engineer, (Forward Deployed), GPS",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4673310005"
+  },
+  "greenhouse:4676606005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-10T16:10:48.433815+00:00",
+    "last_action": "2026-09-10T16:10:48.433816+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Senior Full-Stack Software Engineer, (Forward Deployed), GPS",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4676606005"
   },
   "greenhouse:4687384005": {
     "company": "scaleai",
@@ -1528,6 +1555,15 @@
     "status": "unscored",
     "title": "Autonomous Vehicle Operator, San Francisco (AM Shift, 12-Month Duration)",
     "url": "https://nuro.ai/careersitem?gh_jid=8104145"
+  },
+  "greenhouse:8114868": {
+    "company": "nuro",
+    "first_seen": "2026-09-10T16:10:48.433807+00:00",
+    "last_action": "2026-09-10T16:10:48.433810+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Shift Supervisor,  Los Angeles, CA",
+    "url": "https://nuro.ai/careersitem?gh_jid=8114868"
   },
   "greenhouse:8167599": {
     "company": "nuro",
