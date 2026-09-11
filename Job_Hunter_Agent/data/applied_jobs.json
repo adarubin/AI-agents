@@ -530,6 +530,15 @@
     "title": "ServiceNow Principal AI Platform Engineer | SmartRecruiters",
     "url": "https://jobs.smartrecruiters.com/ServiceNow/744000147357549-principal-ai-platform-engineer"
   },
+  "dorked:b614db47b2c4b16e": {
+    "company": "",
+    "first_seen": "2026-09-11T10:58:42.745438+00:00",
+    "last_action": "2026-09-11T10:58:42.745440+00:00",
+    "score": 2.0,
+    "status": "discarded",
+    "title": "SQLI QA Automation Engineer (Python/C++) | SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/SQLI1/744000147955210-qa-automation-engineer"
+  },
   "dorked:b85929ae80d72be5": {
     "company": "",
     "first_seen": "2026-09-07T12:06:03.551546+00:00",
@@ -664,6 +673,15 @@
     "status": "unscored",
     "title": "Nexthink Accounts Payable Specialist - 9 Month Fixed-Term Contract | SmartRecruiters",
     "url": "https://jobs.smartrecruiters.com/Nexthink/744000147279090-accounts-payable-specialist-9-month-fixed-term-contract"
+  },
+  "dorked:e4050f14908cafc4": {
+    "company": "",
+    "first_seen": "2026-09-11T10:58:42.745433+00:00",
+    "last_action": "2026-09-11T10:58:42.745434+00:00",
+    "score": 8.0,
+    "status": "manual_lead",
+    "title": "Artificial Intelligence & Machine Learning Engineer \u2014 N/A | Offre Remote \ud83c\udf0d | InteractJob | InteractJob",
+    "url": "https://www.interactjob.ma/offres/remote/artificial-intelligence-machine-learning-engineer-fa4aa8-remote"
   },
   "dorked:e6ea99768cd1ea9f": {
     "company": "",
@@ -827,6 +845,15 @@
     "title": "Purple Candor LLC \u2014 AI Engineer \u2014 Remote / US (Sub-contractor- 6 month+)",
     "url": "https://news.ycombinator.com/item?id=49645329"
   },
+  "dorked:hn:49650855": {
+    "company": "",
+    "first_seen": "2026-09-11T10:58:42.745389+00:00",
+    "last_action": "2026-09-11T10:58:42.745391+00:00",
+    "score": 6.0,
+    "status": "manual_lead",
+    "title": "Catalyst\u00b7Wayfare AI | Agent Builder | Remote (US ET Overlap) | Full-time / Part-time / Contract | ",
+    "url": "https://news.ycombinator.com/item?id=49650855"
+  },
   "greenhouse:4282118005": {
     "company": "scaleai",
     "first_seen": "2026-09-03T22:41:47.602374+00:00",
@@ -980,6 +1007,15 @@
     "title": "Software Engineer (Backend), Enterprise",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4630032005"
   },
+  "greenhouse:4631848005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-11T10:58:42.745363+00:00",
+    "last_action": "2026-09-11T10:58:42.745365+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Machine Learning Engineer, Public Sector",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4631848005"
+  },
   "greenhouse:4637484005": {
     "company": "scaleai",
     "first_seen": "2026-09-03T22:41:47.602161+00:00",
@@ -1006,6 +1042,15 @@
     "status": "unscored",
     "title": "Enterprise Account Executive",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4646946005"
+  },
+  "greenhouse:4654382005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-11T10:58:42.745370+00:00",
+    "last_action": "2026-09-11T10:58:42.745372+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Staff Machine Learning Engineer, Public Sector",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4654382005"
   },
   "greenhouse:4654897005": {
     "company": "scaleai",
@@ -1178,6 +1223,15 @@
     "title": "Technical Program Manager, Platform ",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4703275005"
   },
+  "greenhouse:4704551005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-11T10:58:42.745377+00:00",
+    "last_action": "2026-09-11T10:58:42.745379+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "IT Systems Engineer",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4704551005"
+  },
   "greenhouse:4708221005": {
     "company": "scaleai",
     "first_seen": "2026-09-03T22:41:47.602355+00:00",
@@ -1268,6 +1322,24 @@
     "title": "Senior Software Engineer, Identity",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4715352005"
   },
+  "greenhouse:4715970005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-11T10:58:42.745403+00:00",
+    "last_action": "2026-09-11T10:58:42.745405+00:00",
+    "score": 2.0,
+    "status": "discarded",
+    "title": "AI Advisory Consultant",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4715970005"
+  },
+  "greenhouse:4715976005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-11T10:58:42.745396+00:00",
+    "last_action": "2026-09-11T10:58:42.745398+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "AI Advisory Principal",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4715976005"
+  },
   "greenhouse:4716453005": {
     "company": "scaleai",
     "first_seen": "2026-09-03T22:41:47.602331+00:00",
@@ -1276,6 +1348,15 @@
     "status": "unscored",
     "title": "AI Infrastructure Engineer, Sandbox Platform",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4716453005"
+  },
+  "greenhouse:4718258005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-11T10:58:42.745421+00:00",
+    "last_action": "2026-09-11T10:58:42.745423+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Infrastructure Security Engineer, Public Sector",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4718258005"
   },
   "greenhouse:4718311005": {
     "company": "scaleai",
@@ -1294,6 +1375,15 @@
     "status": "discarded",
     "title": "Staff Product Designer, Enterprise",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4718917005"
+  },
+  "greenhouse:4718940005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-11T10:58:42.745410+00:00",
+    "last_action": "2026-09-11T10:58:42.745412+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Communications Senior Manager, Corporate & Product (Enterprise) ",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4718940005"
   },
   "greenhouse:4721008005": {
     "company": "scaleai",
@@ -1321,6 +1411,15 @@
     "status": "discarded",
     "title": "Sr. Director, (Applied AI)  Forward Deployed Engineering ",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4722811005"
+  },
+  "greenhouse:4723002005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-11T10:58:42.745416+00:00",
+    "last_action": "2026-09-11T10:58:42.745417+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "National Security Policy, Senior Manager ",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4723002005"
   },
   "greenhouse:4724276005": {
     "company": "scaleai",
@@ -1493,6 +1592,15 @@
     "title": "Staff Full-Stack Software Engineer, (Forward Deployed), GPS",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4732430005"
   },
+  "greenhouse:4732798005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-11T10:58:42.745383+00:00",
+    "last_action": "2026-09-11T10:58:42.745385+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Senior Machine Learning Engineer, Public Sector",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4732798005"
+  },
   "greenhouse:6621871": {
     "company": "nuro",
     "first_seen": "2026-09-03T22:41:47.602259+00:00",
@@ -1564,6 +1672,15 @@
     "status": "discarded",
     "title": "Shift Supervisor,  Los Angeles, CA",
     "url": "https://nuro.ai/careersitem?gh_jid=8114868"
+  },
+  "greenhouse:8130943": {
+    "company": "nuro",
+    "first_seen": "2026-09-11T10:58:42.745427+00:00",
+    "last_action": "2026-09-11T10:58:42.745429+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Senior Talent Management Program Manager",
+    "url": "https://nuro.ai/careersitem?gh_jid=8130943"
   },
   "greenhouse:8167599": {
     "company": "nuro",
@@ -1699,6 +1816,15 @@
     "status": "discarded",
     "title": "Senior Marketing Manager, ABM",
     "url": "https://job-boards.greenhouse.io/figure/jobs/8769252002"
+  },
+  "greenhouse:8783449002": {
+    "company": "figure",
+    "first_seen": "2026-09-11T10:58:42.745343+00:00",
+    "last_action": "2026-09-11T10:58:42.745353+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Credit Risk Manager",
+    "url": "https://job-boards.greenhouse.io/figure/jobs/8783449002"
   },
   "lever:5e2c25f8-150e-46bf-95a7-71ed8cb246a8": {
     "company": "waabi",
