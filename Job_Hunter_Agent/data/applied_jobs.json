@@ -1367,6 +1367,15 @@
     "title": "Senior Technician, Robotics",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4718311005"
   },
+  "greenhouse:4718559005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-12T10:26:01.461326+00:00",
+    "last_action": "2026-09-12T10:26:01.461327+00:00",
+    "score": 2.0,
+    "status": "discarded",
+    "title": "Staff Product Manager, Physical AI Data & Robotics",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4718559005"
+  },
   "greenhouse:4718917005": {
     "company": "scaleai",
     "first_seen": "2026-09-10T11:02:36.318078+00:00",
@@ -1637,6 +1646,15 @@
     "title": "On-Site Hiring Event: Autonomous Vehicle Operator, Santa Clara and San Francisco (12-Month Duration)",
     "url": "https://nuro.ai/careersitem?gh_jid=7456500"
   },
+  "greenhouse:7569919": {
+    "company": "nuro",
+    "first_seen": "2026-09-12T10:26:01.461331+00:00",
+    "last_action": "2026-09-12T10:26:01.461333+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Senior Technical Sourcer",
+    "url": "https://nuro.ai/careersitem?gh_jid=7569919"
+  },
   "greenhouse:7576899": {
     "company": "nuro",
     "first_seen": "2026-09-03T22:41:47.602384+00:00",
@@ -1663,6 +1681,15 @@
     "status": "discarded",
     "title": "Software Operations Specialist (12 month duration)",
     "url": "https://nuro.ai/careersitem?gh_jid=7888575"
+  },
+  "greenhouse:7939983": {
+    "company": "nuro",
+    "first_seen": "2026-09-12T10:26:01.461291+00:00",
+    "last_action": "2026-09-12T10:26:01.461303+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Autonomous Vehicle Operator, Santa Clara, (12-Month Duration)",
+    "url": "https://nuro.ai/careersitem?gh_jid=7939983"
   },
   "greenhouse:7943735": {
     "company": "nuro",
@@ -1808,6 +1835,15 @@
     "title": "AV Hardware Mechanical Engineer",
     "url": "https://nuro.ai/careersitem?gh_jid=8187498"
   },
+  "greenhouse:8196156": {
+    "company": "nuro",
+    "first_seen": "2026-09-12T10:26:01.461337+00:00",
+    "last_action": "2026-09-12T10:26:01.461338+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Compensation and Benefits Analyst",
+    "url": "https://nuro.ai/careersitem?gh_jid=8196156"
+  },
   "greenhouse:8687828002": {
     "company": "figure",
     "first_seen": "2026-09-03T22:41:47.602098+00:00",
@@ -1844,6 +1880,15 @@
     "title": "Credit Risk Manager",
     "url": "https://job-boards.greenhouse.io/figure/jobs/8783449002"
   },
+  "lever:2af36079-94fb-423d-a2b6-10b3a1ad5aa3": {
+    "company": "waabi",
+    "first_seen": "2026-09-12T10:26:01.461313+00:00",
+    "last_action": "2026-09-12T10:26:01.461315+00:00",
+    "score": 2.0,
+    "status": "discarded",
+    "title": "Senior / Staff Software Engineer, AI Tech Strike Team",
+    "url": "https://jobs.lever.co/waabi/2af36079-94fb-423d-a2b6-10b3a1ad5aa3"
+  },
   "lever:5e2c25f8-150e-46bf-95a7-71ed8cb246a8": {
     "company": "waabi",
     "first_seen": "2026-09-03T22:41:47.602213+00:00",
@@ -1852,6 +1897,24 @@
     "status": "unscored",
     "title": "Senior Product Designer",
     "url": "https://jobs.lever.co/waabi/5e2c25f8-150e-46bf-95a7-71ed8cb246a8"
+  },
+  "lever:611e0988-35aa-4463-ac94-e2a31a79355e": {
+    "company": "waabi",
+    "first_seen": "2026-09-12T10:26:01.461342+00:00",
+    "last_action": "2026-09-12T10:26:01.461343+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Senior Network Engineer",
+    "url": "https://jobs.lever.co/waabi/611e0988-35aa-4463-ac94-e2a31a79355e"
+  },
+  "lever:cb383962-ad2d-40ab-93ce-e3aead4b3838": {
+    "company": "waabi",
+    "first_seen": "2026-09-12T10:26:01.461320+00:00",
+    "last_action": "2026-09-12T10:26:01.461321+00:00",
+    "score": 2.0,
+    "status": "discarded",
+    "title": "Staff Systems Engineer - Safety Methodologies",
+    "url": "https://jobs.lever.co/waabi/cb383962-ad2d-40ab-93ce-e3aead4b3838"
   },
   "lever:f07f1b90-8006-4984-b05d-5f591463c602": {
     "company": "waabi",
