@@ -98,6 +98,15 @@
     "title": "Turner & Townsend Construction Project Manager | SmartRecruiters",
     "url": "https://jobs.smartrecruiters.com/TurnerTownsend/744000147561540-construction-project-manager"
   },
+  "dorked:24bcef7cdfcf47ed": {
+    "company": "",
+    "first_seen": "2026-09-14T12:21:47.673023+00:00",
+    "last_action": "2026-09-14T12:21:47.673025+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "AI Jobs in Tel Aviv | AI Jobs Map",
+    "url": "https://aijobsmap.com/ai-jobs-in-tel-aviv"
+  },
   "dorked:24f1a7656d4f1cb4": {
     "company": "",
     "first_seen": "2026-09-05T14:56:10.227193+00:00",
@@ -1699,6 +1708,15 @@
     "status": "discarded",
     "title": "Autonomous Vehicle Operator, Los Angeles (AM Shift, 12-Month Duration)",
     "url": "https://nuro.ai/careersitem?gh_jid=7943735"
+  },
+  "greenhouse:8031871": {
+    "company": "nuro",
+    "first_seen": "2026-09-14T12:21:47.673001+00:00",
+    "last_action": "2026-09-14T12:21:47.673014+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Head of Systems Engineering (Senior Director)",
+    "url": "https://nuro.ai/careersitem?gh_jid=8031871"
   },
   "greenhouse:8104145": {
     "company": "nuro",
