@@ -1052,6 +1052,15 @@
     "title": "Enterprise Account Executive",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4646946005"
   },
+  "greenhouse:4651614005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-15T11:29:13.451573+00:00",
+    "last_action": "2026-09-15T11:29:13.451575+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Lead Counsel, Product and Intellectual Property",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4651614005"
+  },
   "greenhouse:4654382005": {
     "company": "scaleai",
     "first_seen": "2026-09-11T10:58:42.745370+00:00",
@@ -1304,6 +1313,15 @@
     "title": "Staff Software Engineer, Full Stack - Gen AI ",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4713608005"
   },
+  "greenhouse:4713648005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-15T11:29:13.451579+00:00",
+    "last_action": "2026-09-15T11:29:13.451580+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Forward Deployed Product Manager, Public Sector",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4713648005"
+  },
   "greenhouse:4714527005": {
     "company": "scaleai",
     "first_seen": "2026-09-03T22:41:47.602189+00:00",
@@ -1357,6 +1375,15 @@
     "status": "unscored",
     "title": "AI Infrastructure Engineer, Sandbox Platform",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4716453005"
+  },
+  "greenhouse:4717642005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-15T11:29:13.451586+00:00",
+    "last_action": "2026-09-15T11:29:13.451588+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Executive Assistant",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4717642005"
   },
   "greenhouse:4718258005": {
     "company": "scaleai",
@@ -1520,6 +1547,15 @@
     "title": "Global Payroll Analyst",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730528005"
   },
+  "greenhouse:4730834005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-15T11:29:13.451593+00:00",
+    "last_action": "2026-09-15T11:29:13.451595+00:00",
+    "score": 2.0,
+    "status": "discarded",
+    "title": "Software Engineering Intern (Summer 2027) ",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005"
+  },
   "greenhouse:4730836005": {
     "company": "scaleai",
     "first_seen": "2026-09-04T16:06:36.634183+00:00",
@@ -1537,6 +1573,15 @@
     "status": "discarded",
     "title": "Software Engineering Intern (Summer 2027) ",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005"
+  },
+  "greenhouse:4730851005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-15T11:29:13.451599+00:00",
+    "last_action": "2026-09-15T11:29:13.451601+00:00",
+    "score": 2.0,
+    "status": "discarded",
+    "title": "Software Engineer - New Grad",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005"
   },
   "greenhouse:4730990005": {
     "company": "scaleai",
@@ -1862,6 +1907,42 @@
     "title": "Compensation and Benefits Analyst",
     "url": "https://nuro.ai/careersitem?gh_jid=8196156"
   },
+  "greenhouse:8509324002": {
+    "company": "figure",
+    "first_seen": "2026-09-15T11:29:13.451529+00:00",
+    "last_action": "2026-09-15T11:29:13.451539+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Product Counsel, Crypto",
+    "url": "https://job-boards.greenhouse.io/figure/jobs/8509324002"
+  },
+  "greenhouse:8556834002": {
+    "company": "figure",
+    "first_seen": "2026-09-15T11:29:13.451561+00:00",
+    "last_action": "2026-09-15T11:29:13.451563+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Director, Revenue Accounting",
+    "url": "https://job-boards.greenhouse.io/figure/jobs/8556834002"
+  },
+  "greenhouse:8594600002": {
+    "company": "figure",
+    "first_seen": "2026-09-15T11:29:13.451555+00:00",
+    "last_action": "2026-09-15T11:29:13.451556+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Senior Manager of SEC Reporting & Technical Accounting ",
+    "url": "https://job-boards.greenhouse.io/figure/jobs/8594600002"
+  },
+  "greenhouse:8675433002": {
+    "company": "figure",
+    "first_seen": "2026-09-15T11:29:13.451548+00:00",
+    "last_action": "2026-09-15T11:29:13.451549+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Director, Partnerships - Banks & Credit Unions",
+    "url": "https://job-boards.greenhouse.io/figure/jobs/8675433002"
+  },
   "greenhouse:8687828002": {
     "company": "figure",
     "first_seen": "2026-09-03T22:41:47.602098+00:00",
@@ -1879,6 +1960,15 @@
     "status": "unscored",
     "title": "Director of Treasury & Financial Operations",
     "url": "https://job-boards.greenhouse.io/figure/jobs/8709203002"
+  },
+  "greenhouse:8733533002": {
+    "company": "figure",
+    "first_seen": "2026-09-15T11:29:13.451567+00:00",
+    "last_action": "2026-09-15T11:29:13.451569+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Director, Digital Assets FinOps",
+    "url": "https://job-boards.greenhouse.io/figure/jobs/8733533002"
   },
   "greenhouse:8769252002": {
     "company": "figure",
