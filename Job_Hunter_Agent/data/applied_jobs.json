@@ -1574,6 +1574,15 @@
     "title": "Software Engineering Intern (Summer 2027) ",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005"
   },
+  "greenhouse:4730846005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-15T16:45:34.772560+00:00",
+    "last_action": "2026-09-15T16:45:34.772564+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Software Engineering Intern (Summer 2027) ",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005"
+  },
   "greenhouse:4730851005": {
     "company": "scaleai",
     "first_seen": "2026-09-15T11:29:13.451599+00:00",
@@ -1582,6 +1591,15 @@
     "status": "discarded",
     "title": "Software Engineer - New Grad",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005"
+  },
+  "greenhouse:4730862005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-15T16:45:34.772576+00:00",
+    "last_action": "2026-09-15T16:45:34.772579+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Software Engineer - New Grad",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005"
   },
   "greenhouse:4730990005": {
     "company": "scaleai",
@@ -1663,6 +1681,15 @@
     "status": "discarded",
     "title": "Senior Machine Learning Engineer, Public Sector",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4732798005"
+  },
+  "greenhouse:4733702005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-15T16:45:34.772514+00:00",
+    "last_action": "2026-09-15T16:45:34.772537+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Engineering Manager, Connectivity",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4733702005"
   },
   "greenhouse:6621871": {
     "company": "nuro",
@@ -2014,6 +2041,15 @@
     "status": "discarded",
     "title": "Senior Network Engineer",
     "url": "https://jobs.lever.co/waabi/611e0988-35aa-4463-ac94-e2a31a79355e"
+  },
+  "lever:6bcfed90-b577-4b09-a893-5c07186a1e0f": {
+    "company": "waabi",
+    "first_seen": "2026-09-15T16:45:34.772550+00:00",
+    "last_action": "2026-09-15T16:45:34.772553+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Software Engineer, Commercial Software",
+    "url": "https://jobs.lever.co/waabi/6bcfed90-b577-4b09-a893-5c07186a1e0f"
   },
   "lever:cb383962-ad2d-40ab-93ce-e3aead4b3838": {
     "company": "waabi",
