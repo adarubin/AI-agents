@@ -15,29 +15,29 @@ from job_agent.sources.extract import extract_text
 
 NON_API_ATS_SITES = [
     "myworkdayjobs.com",
+    "boards.greenhouse.io",
+    "jobs.lever.co",
     "comeet.com",
     "smartrecruiters.com",
     "apply.workable.com",
 ]
 
-_SITE_CLAUSE = "(" + " OR ".join(f"site:{s}" for s in NON_API_ATS_SITES) + ")"
 
+def _build_queries(role_families: list[str]) -> list[str]:
+    """One short query per (platform site, role pair) -- each query targets a single site with
+    at most two OR'd role terms, deliberately avoiding the long combined site/role/location OR
+    chains that used to time out (especially against the mobileye/ai21 career pages). Location
+    filtering is left to the evaluator rather than folded into the query. Targeted-company
+    queries (see config.TARGETED_COMPANY_SITES) are minimal site-only searches, listed first so
+    they always fit within the query budget."""
+    queries = [f"site:{site} jobs" for site in config.TARGETED_COMPANY_SITES]
 
-def _build_queries(role_families: list[str], locations: list[str]) -> list[str]:
-    """One query per role-family batch to keep each query specific, plus one query per targeted
-    company (see config.TARGETED_COMPANY_SITES) so those career pages are checked every run even
-    though none of them expose a public ATS JSON API."""
-    location_clause = "(" + " OR ".join(locations) + ")"
-    role_clause_all = "(" + " OR ".join(f'"{r}"' for r in role_families) + ")"
-    queries = []
-    batch_size = 4
-    for i in range(0, len(role_families), batch_size):
-        batch = role_families[i : i + batch_size]
-        role_clause = "(" + " OR ".join(f'"{r}"' for r in batch) + ")"
-        queries.append(f"{_SITE_CLAUSE} {role_clause} {location_clause}")
-
-    for site in config.TARGETED_COMPANY_SITES:
-        queries.append(f"site:{site} {role_clause_all}")
+    batch_size = 2
+    for site in NON_API_ATS_SITES:
+        for i in range(0, len(role_families), batch_size):
+            batch = role_families[i : i + batch_size]
+            role_clause = " OR ".join(f'"{r}"' for r in batch)
+            queries.append(f"site:{site} {role_clause}")
 
     return queries
 
@@ -53,7 +53,7 @@ def fetch(errors: list[str] | None = None) -> list[RawJob]:
             errors.append(msg)
         return []
 
-    queries = _build_queries(config.ROLE_FAMILIES, config.LOCATIONS)
+    queries = _build_queries(config.ROLE_FAMILIES)
     budget = config.DORK_QUERY_BUDGET
     jobs: list[RawJob] = []
     seen_urls: set[str] = set()

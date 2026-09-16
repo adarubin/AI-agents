@@ -37,9 +37,9 @@ GEMINI_BATCH_SIZE = 20  # fewer, larger batches -- the free tier caps *requests*
 # actually works.
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.6-flash")
 
-MIN_SCORE_TO_APPLY = 6.0
-MIN_SCORE_TO_REPORT = 6.0
-SENIOR_APPLY_THRESHOLD = 8.5
+MIN_SCORE_TO_APPLY = 3.0
+MIN_SCORE_TO_REPORT = 2.0
+SENIOR_APPLY_THRESHOLD = 4.0
 
 APPLY_CAP_RANGE = (5, 7)  # randomized per-run cap on total auto-applications
 DORK_QUERY_BUDGET = 12  # max search queries per run
@@ -47,26 +47,14 @@ DORK_QUERY_BUDGET = 12  # max search queries per run
 # Remote roles restricted to a country other than Israel are penalized in scoring (see evaluator).
 LOCATIONS = ["Israel", "Netanya", "Tel Aviv", "Center District", "Remote", "Remote EMEA"]
 
+# Strictly the five focus families the candidate is targeting -- generic titles like plain
+# "Software Engineer" or "Data Science" are intentionally excluded (see evaluator scoring prompt).
 ROLE_FAMILIES = [
-    "Data Science",
-    "AI Engineer",
-    "Applied ML Engineer",
-    "Machine Learning Engineer",
-    "Data Engineer",
-    "MLOps",
-    "AI Researcher",
-    "Robotics Engineer",
+    "Applied AI Researcher",
     "Physical AI",
-    "Drone",
-    "UAV",
+    "Robotics Algorithms",
     "Computer Vision",
     "Deep Learning Engineer",
-    "Deep Learning Researcher",
-    "ML Researcher",
-    "Algorithms Engineer",
-    "Perception Engineer",
-    "Autonomy Software",
-    "Controls Engineer",
 ]
 
 # Career pages tracked directly by name, even though none of them expose the Greenhouse/Lever/Ashby

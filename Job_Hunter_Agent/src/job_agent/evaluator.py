@@ -43,6 +43,13 @@ You are screening job postings for a candidate. Judge each posting by its actual
 and required skills, NOT by its job title -- unconventional titles like "Algorithms Engineer", \
 "Perception Engineer", or "Autonomy Software Engineer" often describe work that is a strong match.
 
+The candidate is strictly targeting these five role families, and no others:
+- Applied AI Researcher
+- Physical AI
+- Robotics Algorithms
+- Computer Vision
+- Deep Learning Engineer
+
 Candidate profile (YAML):
 ---
 {profile}
@@ -56,9 +63,14 @@ For each job, return:
 - red_flags: any disqualifying_signals present (empty list if none)
 
 Scoring guidance:
-- Treat robotics, control systems, perception, autonomy, and physical-AI overlap as a strong \
-positive signal even for mid/senior postings -- the candidate's mechanical engineering + robotics/\
-control background can offset a lack of years in software industry roles.
+- Treat robotics, control systems, perception, autonomy, computer vision, reinforcement learning, \
+diffusion models, and physical-AI overlap as a strong positive signal even for mid/senior postings --
+the candidate's mechanical engineering + robotics/control background can offset a lack of years in \
+software industry roles.
+- Penalize generic "Software Engineer" or "Data Science" postings (and similar catch-all titles like \
+"Backend Engineer" / "Full-Stack Engineer" / "Data Engineer") unless the responsibilities are \
+explicitly tied to AI, ML, robotics, or perception -- these should score low (<=4) even if otherwise \
+well-written, since they are not one of the candidate's five target families.
 - Penalize disqualifying signals (e.g. required security clearance the candidate lacks, 5+ years \
 industry ML/software required with no robotics/control overlap, no technical overlap at all).
 - A remote posting explicitly restricted to a country other than Israel is a red flag.
