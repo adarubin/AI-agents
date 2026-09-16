@@ -881,6 +881,15 @@
     "title": "Software Engineer, Public Sector",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4302243005"
   },
+  "greenhouse:4481921005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-16T11:16:27.222637+00:00",
+    "last_action": "2026-09-16T11:16:27.222638+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Forward Deployed Software Engineer, Public Sector",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4481921005"
+  },
   "greenhouse:4488520005": {
     "company": "scaleai",
     "first_seen": "2026-09-03T22:41:47.602307+00:00",
@@ -1223,6 +1232,15 @@
     "title": "Growth Strategy & Operations Lead",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4701543005"
   },
+  "greenhouse:4702122005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-16T11:16:27.222663+00:00",
+    "last_action": "2026-09-16T11:16:27.222664+00:00",
+    "score": 2.0,
+    "status": "discarded",
+    "title": "Technical Program Manager, Red Team",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4702122005"
+  },
   "greenhouse:4702785005": {
     "company": "scaleai",
     "first_seen": "2026-09-10T11:02:36.318084+00:00",
@@ -1429,6 +1447,15 @@
     "status": "discarded",
     "title": "Communications Senior Manager, Corporate & Product (Enterprise) ",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4718940005"
+  },
+  "greenhouse:4720422005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-16T11:16:27.222614+00:00",
+    "last_action": "2026-09-16T11:16:27.222629+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Senior Mission Software Engineer, Public Sector",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4720422005"
   },
   "greenhouse:4721008005": {
     "company": "scaleai",
@@ -1781,6 +1808,15 @@
     "title": "Autonomous Vehicle Operator, Los Angeles (AM Shift, 12-Month Duration)",
     "url": "https://nuro.ai/careersitem?gh_jid=7943735"
   },
+  "greenhouse:8013856": {
+    "company": "nuro",
+    "first_seen": "2026-09-16T11:16:27.222653+00:00",
+    "last_action": "2026-09-16T11:16:27.222654+00:00",
+    "score": 2.0,
+    "status": "discarded",
+    "title": "Head of Software Operations",
+    "url": "https://nuro.ai/careersitem?gh_jid=8013856"
+  },
   "greenhouse:8031871": {
     "company": "nuro",
     "first_seen": "2026-09-14T12:21:47.673001+00:00",
@@ -1925,6 +1961,15 @@
     "title": "AV Hardware Mechanical Engineer",
     "url": "https://nuro.ai/careersitem?gh_jid=8187498"
   },
+  "greenhouse:8196053": {
+    "company": "nuro",
+    "first_seen": "2026-09-16T11:16:27.222648+00:00",
+    "last_action": "2026-09-16T11:16:27.222649+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Senior Commercial Counsel",
+    "url": "https://nuro.ai/careersitem?gh_jid=8196053"
+  },
   "greenhouse:8196156": {
     "company": "nuro",
     "first_seen": "2026-09-12T10:26:01.461337+00:00",
@@ -1933,6 +1978,15 @@
     "status": "discarded",
     "title": "Compensation and Benefits Analyst",
     "url": "https://nuro.ai/careersitem?gh_jid=8196156"
+  },
+  "greenhouse:8205545": {
+    "company": "nuro",
+    "first_seen": "2026-09-16T11:16:27.222642+00:00",
+    "last_action": "2026-09-16T11:16:27.222644+00:00",
+    "score": 5.0,
+    "status": "discarded",
+    "title": "Technical Lead Manager, Motion Validation",
+    "url": "https://nuro.ai/careersitem?gh_jid=8205545"
   },
   "greenhouse:8509324002": {
     "company": "figure",
@@ -2023,6 +2077,15 @@
     "status": "discarded",
     "title": "Senior / Staff Software Engineer, AI Tech Strike Team",
     "url": "https://jobs.lever.co/waabi/2af36079-94fb-423d-a2b6-10b3a1ad5aa3"
+  },
+  "lever:30ed0635-d67b-4856-8b2e-b9c9bf65d389": {
+    "company": "waabi",
+    "first_seen": "2026-09-16T11:16:27.222658+00:00",
+    "last_action": "2026-09-16T11:16:27.222659+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "IT System Administrator",
+    "url": "https://jobs.lever.co/waabi/30ed0635-d67b-4856-8b2e-b9c9bf65d389"
   },
   "lever:5e2c25f8-150e-46bf-95a7-71ed8cb246a8": {
     "company": "waabi",
