@@ -206,6 +206,15 @@
     "title": "Colliers International EMEA Senior QA Engineer (Hybrid) | SmartRecruiters",
     "url": "https://jobs.smartrecruiters.com/colliersinternationalemea/744000146476759"
   },
+  "dorked:2dc6668fcd5d99c0": {
+    "company": "",
+    "first_seen": "2026-09-18T10:57:23.032232+00:00",
+    "last_action": "2026-09-18T10:57:23.032236+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Jonathan Reichental, PhD - Alive and Clicking",
+    "url": "https://www.reichental.com/"
+  },
   "dorked:30f22a57893a2bdb": {
     "company": "",
     "first_seen": "2026-09-04T16:06:36.634366+00:00",
@@ -287,6 +296,15 @@
     "title": "Western Digital Software Engineer (Apps)  | SmartRecruiters",
     "url": "https://jobs.smartrecruiters.com/WesternDigital/744000142878952-software-engineer-apps-"
   },
+  "dorked:4a6957bdd9bfd5cf": {
+    "company": "",
+    "first_seen": "2026-09-18T10:57:23.032199+00:00",
+    "last_action": "2026-09-18T10:57:23.032203+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Hritam Basak | Applied Scientist @ Amazon Robotics",
+    "url": "https://hritam-98.github.io/"
+  },
   "dorked:4c689dd21fd11cdd": {
     "company": "",
     "first_seen": "2026-09-05T10:20:57.870204+00:00",
@@ -358,6 +376,15 @@
     "status": "discarded",
     "title": "| iMechanica",
     "url": "https://imechanica.org/"
+  },
+  "dorked:588390e9d6570806": {
+    "company": "",
+    "first_seen": "2026-09-18T10:57:23.032222+00:00",
+    "last_action": "2026-09-18T10:57:23.032225+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Nadav Cohen",
+    "url": "https://www.cohennadav.com/"
   },
   "dorked:58ca6356011d4ba4": {
     "company": "",
@@ -583,6 +610,15 @@
     "status": "manual_lead",
     "title": "Veunex hiring Data Annotator \u2014 Computer Vision (AI Safety Software) in Bengaluru, Karnataka, India | LinkedIn",
     "url": "https://www.linkedin.com/jobs/view/data-annotator-\u2014-computer-vision-ai-safety-software-at-veunex-4464687504"
+  },
+  "dorked:979e9355ad3cb0fc": {
+    "company": "",
+    "first_seen": "2026-09-18T10:57:23.032243+00:00",
+    "last_action": "2026-09-18T10:57:23.032246+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "AI4I.it",
+    "url": "https://ai4i.it/"
   },
   "dorked:9b1246f75c265133": {
     "company": "",
@@ -917,6 +953,15 @@
     "title": "Inter IKEA Group Software Engineer | Range Operations | SmartRecruiters",
     "url": "https://jobs.smartrecruiters.com/InterIKEAGroup/744000147522049-software-engineer-range-operations"
   },
+  "dorked:ecf1542d63d500a4": {
+    "company": "",
+    "first_seen": "2026-09-18T10:57:23.032210+00:00",
+    "last_action": "2026-09-18T10:57:23.032213+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "AI Jobs \u2014 Live Roles at Anthropic, OpenAI & More",
+    "url": "https://www.jobsinai.com/"
+  },
   "dorked:ed7a078c6b0e8810": {
     "company": "",
     "first_seen": "2026-09-05T10:20:57.870215+00:00",
@@ -961,6 +1006,15 @@
     "status": "discarded",
     "title": "City of New York Fleet Administration Intern | SmartRecruiters",
     "url": "https://jobs.smartrecruiters.com/CityOfNewYork/3743990015010666-fleet-administration-intern"
+  },
+  "dorked:fd11f77db173bdea": {
+    "company": "",
+    "first_seen": "2026-09-18T10:57:23.032188+00:00",
+    "last_action": "2026-09-18T10:57:23.032191+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "AI Infra Summit 2026 | Sep 15\u201317, Santa Clara",
+    "url": "https://www.ai-infra-summit.com/"
   },
   "dorked:hn:49540773": {
     "company": "",
@@ -1961,6 +2015,33 @@
     "title": "Engineering Manager, Connectivity",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4733702005"
   },
+  "greenhouse:4735192005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-18T10:57:23.032163+00:00",
+    "last_action": "2026-09-18T10:57:23.032167+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Solutions Engineering Lead, Healthcare & Life Sciences",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735192005"
+  },
+  "greenhouse:4735196005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-18T10:57:23.032150+00:00",
+    "last_action": "2026-09-18T10:57:23.032152+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Solutions Engineering Lead, Consumer",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735196005"
+  },
+  "greenhouse:4735208005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-18T10:57:23.032126+00:00",
+    "last_action": "2026-09-18T10:57:23.032140+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Technical Program Lead, Public Sector",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735208005"
+  },
   "greenhouse:6621871": {
     "company": "nuro",
     "first_seen": "2026-09-03T22:41:47.602259+00:00",
@@ -2320,6 +2401,15 @@
     "status": "discarded",
     "title": "Senior Marketing Manager, ABM",
     "url": "https://job-boards.greenhouse.io/figure/jobs/8769252002"
+  },
+  "greenhouse:8778708002": {
+    "company": "figure",
+    "first_seen": "2026-09-18T10:57:23.032176+00:00",
+    "last_action": "2026-09-18T10:57:23.032179+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Associate Originations & Distribution",
+    "url": "https://job-boards.greenhouse.io/figure/jobs/8778708002"
   },
   "greenhouse:8783449002": {
     "company": "figure",
