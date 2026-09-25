@@ -2240,6 +2240,15 @@
     "title": "Physical Vision Group",
     "url": "https://physicalvision.github.io/"
   },
+  "dorked:eeefaee1ad34a9d7": {
+    "company": "",
+    "first_seen": "2026-09-25T11:33:33.727210+00:00",
+    "last_action": "2026-09-25T11:33:33.727212+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Recent graduate opportunities | Microsoft Careers",
+    "url": "https://careers.microsoft.com/v2/global/en/recentgraduate"
+  },
   "dorked:efd5dc82d93e8042": {
     "company": "",
     "first_seen": "2026-09-24T11:30:02.506267+00:00",
@@ -3185,6 +3194,15 @@
     "title": "Staff Product Designer",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4724276005"
   },
+  "greenhouse:4725451005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-25T11:33:33.727161+00:00",
+    "last_action": "2026-09-25T11:33:33.727175+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Enterprise Pricing Manager",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4725451005"
+  },
   "greenhouse:4729620005": {
     "company": "scaleai",
     "first_seen": "2026-09-03T22:41:47.602031+00:00",
@@ -3436,6 +3454,15 @@
     "status": "unscored",
     "title": "Technical Program Lead, Public Sector",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735208005"
+  },
+  "greenhouse:4735360005": {
+    "company": "scaleai",
+    "first_seen": "2026-09-25T11:33:33.727186+00:00",
+    "last_action": "2026-09-25T11:33:33.727187+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Staff Product Designer, Enterprise",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735360005"
   },
   "greenhouse:4736426005": {
     "company": "scaleai",
@@ -3770,6 +3797,15 @@
     "title": "Technical Lead Manager, Motion Validation",
     "url": "https://nuro.ai/careersitem?gh_jid=8205545"
   },
+  "greenhouse:8227051": {
+    "company": "nuro",
+    "first_seen": "2026-09-25T11:33:33.727199+00:00",
+    "last_action": "2026-09-25T11:33:33.727200+00:00",
+    "score": 3.0,
+    "status": "manual_lead",
+    "title": "Lead Technical Program Manager, AI Platform ",
+    "url": "https://nuro.ai/careersitem?gh_jid=8227051"
+  },
   "greenhouse:8227399": {
     "company": "nuro",
     "first_seen": "2026-09-24T11:30:02.506158+00:00",
@@ -3949,6 +3985,24 @@
     "status": "unscored",
     "title": "Mission Control Manager",
     "url": "https://jobs.lever.co/waabi/0d45d69d-30d4-4ba4-9edc-89598f13d10f"
+  },
+  "lever:1c01bf84-38e3-42db-990c-29c9195443ba": {
+    "company": "waabi",
+    "first_seen": "2026-09-25T11:33:33.727205+00:00",
+    "last_action": "2026-09-25T11:33:33.727206+00:00",
+    "score": 3.0,
+    "status": "manual_lead",
+    "title": "Senior / Staff ML Ops Engineer",
+    "url": "https://jobs.lever.co/waabi/1c01bf84-38e3-42db-990c-29c9195443ba"
+  },
+  "lever:1cc40e03-fa34-4b6e-a3bf-c5d20fcb0861": {
+    "company": "waabi",
+    "first_seen": "2026-09-25T11:33:33.727192+00:00",
+    "last_action": "2026-09-25T11:33:33.727194+00:00",
+    "score": 1.0,
+    "status": "discarded",
+    "title": "Managing Counsel, Commercial",
+    "url": "https://jobs.lever.co/waabi/1cc40e03-fa34-4b6e-a3bf-c5d20fcb0861"
   },
   "lever:2af36079-94fb-423d-a2b6-10b3a1ad5aa3": {
     "company": "waabi",
