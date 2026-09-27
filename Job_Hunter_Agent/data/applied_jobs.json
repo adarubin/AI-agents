@@ -98,6 +98,15 @@
     "title": "AI & Data Services | Guidehouse",
     "url": "https://www.bing.com/aclick?ld=e8nMTfIxP1wUKBYphf5-1cwjVUCUxs9ryJa3rVmiwy5gvDcBddvK-6QEsiGRrLx-4Batz71uuosF2jIlnXrEFzw1UaQsVPtQvVz8lqX7-f1tBIF8VnoGhKDi-fzNi63X1N-F0DbYRVORnmNONl5h8AUEEqC6aZk8WcaTrzLbfIZS0WicV4mj9H6tumpPlzDtYaMT_aG76gMt05PiiJYKyoKhlnx_Q&u=aHR0cHMlM2ElMmYlMmZndWlkZWhvdXNlLmNvbSUyZnNlcnZpY2VzJTJmYWktYW5kLWRhdGElM2Z1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RhaS1hbHdheXMtb24lMjYlN2JwdXJsJTdkJTNmcHBjX2tleXdvcmQlM2RhaSUyNTIwZm9yJTI1MjBkYXRhJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkMjAyNiUyNTIwLSUyNTIwQ29ycCUyNTIwLSUyNTIwQU8lMjUyMC0lMjUyMEFJJTI1MjAlMjUyNiUyNTIwRGF0YSUyNTIwLSUyNTIwVVMlMjZ1dG1faWQlM2QyMzc2NzAyMTM3NSUyNm1zY2xraWQlM2RjNTU1NzA5MTdmYTMxNGNkNjIyZjFhMjdkODUyNjRhYQ&rlid=c55570917fa314cd622f1a27d85264aa"
   },
+  "dorked:0a83e88acf9cc14e": {
+    "company": "",
+    "first_seen": "2026-09-27T11:48:17.841389+00:00",
+    "last_action": "2026-09-27T11:48:17.841391+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Noorex hiring AI/ML Engineer  in Dubai, United Arab Emirates | LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4469711864"
+  },
   "dorked:0a9e5074c2133415": {
     "company": "",
     "first_seen": "2026-09-06T10:40:29.808803+00:00",
@@ -106,6 +115,15 @@
     "status": "discarded",
     "title": "Jobs in Vancouver | Microsoft Careers",
     "url": "https://careers.microsoft.com/professionals/us/en/l-vancouver"
+  },
+  "dorked:0cae080c36b16648": {
+    "company": "",
+    "first_seen": "2026-09-27T11:48:17.841414+00:00",
+    "last_action": "2026-09-27T11:48:17.841417+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Robotics AI job opportunities",
+    "url": "https://www.massrobotics.org/robotics-ai-job-opportunities/"
   },
   "dorked:0cbdd8f5ad5561ed": {
     "company": "",
@@ -241,6 +259,15 @@
     "status": "discarded",
     "title": "UniFlow: Zero-Shot LiDAR Scene Flow for Autonomous Driving",
     "url": "https://lisiyi777.github.io/UniFlow/"
+  },
+  "dorked:1939e19dd7f171df": {
+    "company": "",
+    "first_seen": "2026-09-27T11:48:17.841397+00:00",
+    "last_action": "2026-09-27T11:48:17.841400+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "[2609.30249] RAPID: Robot Agentic Programming from Demonstrations",
+    "url": "https://arxiv.org/abs/2609.30249"
   },
   "dorked:1986c4795c832a03": {
     "company": "",
@@ -1403,6 +1430,15 @@
     "title": "PRAISe Lab | Robotics, Perception and AI at CU Boulder",
     "url": "https://www.praisecu.com/"
   },
+  "dorked:82c352c5e9ebba31": {
+    "company": "",
+    "first_seen": "2026-09-27T11:48:17.841406+00:00",
+    "last_action": "2026-09-27T11:48:17.841408+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "ICTAI 2026",
+    "url": "https://ictai.computer.org/2026/"
+  },
   "dorked:836def1196dd6151": {
     "company": "",
     "first_seen": "2026-09-21T12:34:43.220513+00:00",
@@ -1943,6 +1979,15 @@
     "title": "MIT Introduces HardFlow for Constrained Generative Sampling | Let's Data Science",
     "url": "https://letsdatascience.com/news/mit-introduces-hardflow-for-constrained-generative-sampling-7d0220fa"
   },
+  "dorked:adcea959397d03c5": {
+    "company": "",
+    "first_seen": "2026-09-27T11:48:17.841348+00:00",
+    "last_action": "2026-09-27T11:48:17.841367+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Jobs in New York | Microsoft Careers",
+    "url": "https://careers.microsoft.com/v2/global/en/locations/new-york.html"
+  },
   "dorked:add7bc1cdd6ee929": {
     "company": "",
     "first_seen": "2026-09-20T15:48:31.185502+00:00",
@@ -2050,6 +2095,15 @@
     "status": "unscored",
     "title": "AI Chat Daily \u2014 AI News, Models, Business & Analysis",
     "url": "https://www.aichatdaily.com/"
+  },
+  "dorked:b56804d4d72a3ca6": {
+    "company": "",
+    "first_seen": "2026-09-27T11:48:17.841381+00:00",
+    "last_action": "2026-09-27T11:48:17.841383+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Jobs | Michigan Robotics",
+    "url": "https://robotics.umich.edu/about/jobs/"
   },
   "dorked:b580468712a3eaca": {
     "company": "",
