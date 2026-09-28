@@ -1,4 +1,13 @@
 {
+  "dorked:0227c385be3d5671": {
+    "company": "",
+    "first_seen": "2026-09-28T13:29:18.635918+00:00",
+    "last_action": "2026-09-28T13:29:18.635920+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "GCU | Technology Degrees Online",
+    "url": "https://www.bing.com/aclick?ld=e8hKbongM7z--HO5flRzrSPTVUCUxmWsKAp5aeuV2j3VzEt6vQlaaT88YtqcrIVFSEdgiqKN-wtHKH7v6JLShnM0t6-43izK5ZWnxzXgC55PjIax6aPVIa_fgyEo5l61ho9Ri6xMzl1fCtEwD1bjUtGbuzkgzdKFCOGb8OsRxlJAzeYpHr4rACeAyy_vCWdHf315LWltGipAdV0VumC4zRDp6nwDg&u=aHR0cHMlM2ElMmYlMmZleHBsb3JlLmdjdS5lZHUlMmZ0ZWNobm9sb2d5JTJmb25saW5lJTJmJTNmZ2N1JTNkQlMtQlJBTkQlN2NCaW5nJTdjQ1BDJTdjU0VUJTI1MjBBcnRpZmljaWFsJTI1MjBJbnRlbGxpZ2VuY2UlN2NkYXRhJTI1MjBzY2llbmNlJTI1MjBtYWNoaW5lJTI1MjBsZWFybmluZyUyNTIwYWklMjZhZElEJTNkODEyOTUyODM0MjkwMDclMjZkZXZpY2UlM2RjJTI2YWRncm91cCUzZENvdXJzZXMlMjZuZXR3b3JrJTNkbyUyNm1zY2xraWQlM2RlZDViZDcxMWFkODYxZDcxNGU2MWJkYWJjNmFkZGIzZiUyNm1hdGNodHlwZSUzZHAlMjZ1dG1faWQlM2Q2Mjc1ODYxNTklMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RTRVQlMjUyMEFydGlmaWNpYWwlMjUyMEludGVsbGlnZW5jZSUyNnV0bV90ZXJtJTNkZGF0YSUyNTIwc2NpZW5jZSUyNTIwbWFjaGluZSUyNTIwbGVhcm5pbmclMjUyMGFpJTI2dXRtX2NvbnRlbnQlM2RDb3Vyc2Vz&rlid=ed5bd711ad861d714e61bdabc6addb3f"
+  },
   "dorked:0267f4aa6efb14d9": {
     "company": "",
     "first_seen": "2026-09-22T16:42:57.031688+00:00",
@@ -115,6 +124,15 @@
     "status": "discarded",
     "title": "Jobs in Vancouver | Microsoft Careers",
     "url": "https://careers.microsoft.com/professionals/us/en/l-vancouver"
+  },
+  "dorked:0b60e04cd8d858c2": {
+    "company": "",
+    "first_seen": "2026-09-28T13:29:18.635870+00:00",
+    "last_action": "2026-09-28T13:29:18.635873+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "ATS Resume Builder & Resume Maker | AI-Powered Online Resume Builder",
+    "url": "https://www.bing.com/aclick?ld=e8eTjsntZto7lSJNkGfi1pbjVUCUx8ie95IYuwxp3F5uiN5R2Q7THVDbiXdQ1nU2JocI_IPVZ1HcmDlkSKqUidFMSCRlCye9nbbK7X9TghGDgx4iDhhe39hCZkuqidje3zIfBcKxcpAe9S8QaBaHsJZ7v5Lq4WcZy4583Hw903qFW5xPjIdXsKq6ZMr_3Ac6hIj9VgY5bEV_Bj1WJXa9Mnqsh4goQ&u=aHR0cHMlM2ElMmYlMmZ3d3cuZ3JhbW1hcmx5LmNvbSUyZmElMmZyZXN1bWUtYnVpbGRlciUzZnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZDYyNzA4NDk1NSUyNnV0bV9jb250ZW50JTNkODE0MzI3MjY3MjE1MjUlMjZ1dG1fdGVybSUzZGpvYiUyNTIwcmVzdW1lJTI1MjB0ZW1wbGF0ZSUyNnV0bV9idSUzZGNvcnAlMjZrZXl3b3JkaWQlM2Q4MTQzMjg1ODYxMTgwMCUyNnRhcmdldGlkJTNka3dkLTgxNDMyODU4NjExODAwJTNhbG9jLTE5MCUyNmFkZ3JvdXAlM2QxMzAyOTIxNzI0OTc3NTI3JTI2ZGV2aWNlJTNkYyUyNm1hdGNodHlwZSUzZGIlMjZuZXR3b3JrJTNkbyUyNmV4dGVuc2lvbiUzZCUyNmNsaWNraWQlM2RmOTNlM2RhNjY0MmExNGJlNjg2OTU3MWMwZWQ0MDFiZCUyNmdjbGlkJTNkZjkzZTNkYTY2NDJhMTRiZTY4Njk1NzFjMGVkNDAxYmQlMjZtc2Nsa2lkJTNkZjkzZTNkYTY2NDJhMTRiZTY4Njk1NzFjMGVkNDAxYmQ&rlid=f93e3da6642a14be6869571c0ed401bd"
   },
   "dorked:0cae080c36b16648": {
     "company": "",
@@ -251,6 +269,15 @@
     "title": "Mirantis Senior Software Engineer (Rust) - remote in the EU | SmartRecruiters",
     "url": "https://jobs.smartrecruiters.com/mirantis/744000147517329-senior-software-engineer-rust-remote-in-the-eu"
   },
+  "dorked:1829eeab75033f50": {
+    "company": "",
+    "first_seen": "2026-09-28T13:29:18.635975+00:00",
+    "last_action": "2026-09-28T13:29:18.635977+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Vision Systems - EPIC Systems Group",
+    "url": "https://www.bing.com/aclick?ld=e84C0tR5NE8vTGHtUO-TEHRDVUCUxl8SxG9pg3e4T-ATS4tMfKqcYBcco1e-xFM9aMm1KrUuSwNUb2SZB2qqIOeiZ4OuPjBYt7O_DWYC3JdPxfq3QbmJd5WJPH2cSnxGBYGEMC0VNWADLRUZDiNsb8iKwfKlmc_lgXdIJQl3ZkAhvK0dCzjmVF9clu2wLSbn7Jp9bOMgxpQfFunzPfIdSxs0oi8sQ&u=aHR0cHMlM2ElMmYlMmZlcGljc3lzaW5jLmNvbSUyZmxwJTJmdmlzaW9uLXN5c3RlbXMyJTJmJTNmbXNjbGtpZCUzZGU0NWUwNmUwMTk0MTFiNTA0ODg4NmM1YTcyNzczNzMwJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkVmlzaW9uJTI1MjAtJTI1MjBFU0clMjUyMC0lMjUyMEJyb2FkJTI1MjAtJTI1MjBCaW5nJTI1MjAtJTI1MjBTZWFyY2glMjZ1dG1fdGVybSUzZHZpc2lvbiUyNTIwc3lzdGVtcyUyNnV0bV9jb250ZW50JTNkSW50ZWdyYXRvcnM&rlid=e45e06e019411b5048886c5a72773730"
+  },
   "dorked:1848510328e025f2": {
     "company": "",
     "first_seen": "2026-09-17T11:23:32.607066+00:00",
@@ -322,6 +349,15 @@
     "status": "discarded",
     "title": "Jobs in Singapore | Microsoft Careers",
     "url": "https://careers.microsoft.com/professionals/us/en/l-singapore"
+  },
+  "dorked:1d1d30c18f3a3aa9": {
+    "company": "",
+    "first_seen": "2026-09-28T13:29:18.635945+00:00",
+    "last_action": "2026-09-28T13:29:18.635954+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Physical Self-Play | Skild AI",
+    "url": "https://skild.ai/blogs/physical-self-play"
   },
   "dorked:1d770011514f085b": {
     "company": "",
@@ -584,6 +620,15 @@
     "title": "Jobs in Hyderabad  | Microsoft Careers",
     "url": "https://careers.microsoft.com/v2/global/en/locations/hyderabad.html"
   },
+  "dorked:2fab8aefc4f4a1cd": {
+    "company": "",
+    "first_seen": "2026-09-28T13:29:18.635908+00:00",
+    "last_action": "2026-09-28T13:29:18.635910+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "IBM AI-Native Data Engineering Professional Certificate | Coursera",
+    "url": "https://www.bing.com/aclick?ld=e83kIIujDwxaTYkf4KzgREuzVUCUx-dzTYssHSQvpKS2WIhErVXHSrAVxE1vxYHA7pceu_LTwwMseZSaa7QCZQmGeFts_qXMxFfVebWVPsMBBY6sZSMsFZG5hvFXRtZBd27Mp9hO-TA78t8Udl2l6_o771IcRqATRvghnnfQmrEgPG-lv-XtCqovPt-OvMWT6nZLu3BWJ_NuSVcvMRq8LF6GIOrtM&u=aHR0cHMlM2ElMmYlMmZ3d3cuY291cnNlcmEub3JnJTJmcHJvZmVzc2lvbmFsLWNlcnRpZmljYXRlcyUyZmlibS1haS1uYXRpdmUtZGF0YS1lbmdpbmVlcmluZyUyZnBhaWRtZWRpYSUzZnV0bV9tZWRpdW0lM2RzZW0lMjZ1dG1fc291cmNlJTNkYmclMjZ1dG1fY2FtcGFpZ24lM2RiMmNfbmFtZXJfaWJtLWFpLW5hdGl2ZS1kYXRhLWVuZ2luZWVyaW5nX2libS1za2lsbHMtbmV0d29ya19mdGNvZl9wcm9mZXNzaW9uYWwtY2VydGlmaWNhdGVzX3B4X2RyX2JhdV9iZ19zZW1fcHItYmRfdXMtY2FfZW5fbV94XzI2LTA4X3glMjZjYW1wYWlnbmlkJTNkNjYzNjg2MjE2JTI2YWRncm91cGlkJTNkMTI1MzQ0NDY0MDQzNTIyNiUyNmRldmljZSUzZGMlMjZrZXl3b3JkJTNkYWklMjUyMGVuZ2luZWVyaW5nJTI1MjB0cmFpbmluZyUyNm1hdGNodHlwZSUzZHAlMjZuZXR3b3JrJTNkbyUyNmRldmljZW1vZGVsJTNkJTI2YWRwb3NpdGlvbiUzZCUyNmNyZWF0aXZlaWQlM2Q3ODM0MDQyNjMyNDM2MSUyNmFkZ3JvdXAlM2RiMmNfbmFtZXJfaWJtLWFpLW5hdGl2ZS1kYXRhLWVuZ2luZWVyaW5nX2libS1za2lsbHMtbmV0d29ya19weF9iYXVfYmdfdXMtY2FfeF94X25iLWJkX3hfaHliX3hfeF9wcm9mZXNzaW9uYWwtY2VydGlmaWNhdGVzX3hfMjYtMDglMjZxdWVyeXN0cmluZyUzZERlZXAlMjUyMExlYXJuaW5nJTI1MjBFbmdpbmVlciUyNnRhcmdldGlkJTNka3dkLTc4MzQwNjk4OTM0NDg1JTNhbG9jLTE5MCUyNmJpZG1hdGNodHlwZSUzZGJiJTI2ZXh0ZW5zaW9uaWQlM2QlMjZtc2Nsa2lkJTNkNDViM2Y4YzdmYzJkMTcyOWVhMzI5MjdkOTcwNjM5MTE&rlid=45b3f8c7fc2d1729ea32927d97063911"
+  },
   "dorked:2fd4945e39860c4d": {
     "company": "",
     "first_seen": "2026-09-23T16:34:28.094517+00:00",
@@ -646,6 +691,15 @@
     "status": "unscored",
     "title": "Offloaded inference for real-world physical AI robotics - Microsoft Research",
     "url": "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/"
+  },
+  "dorked:341d8ad31854d25d": {
+    "company": "",
+    "first_seen": "2026-09-28T13:29:18.635970+00:00",
+    "last_action": "2026-09-28T13:29:18.635971+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "AI-based inspection | KEYENCE America",
+    "url": "https://www.bing.com/aclick?ld=e8hYI1BbLvnKwBhveaiyp-yDVUCUyqqG35dcyifQwG9HpyUy7cbZx1ZYWuC216EPxHQPFB1U8BNZFsoE3KklQ0FQkmfjH-q2TzXLTO9tK0uK5sY02Gibru2qDbBfJ5CBkomcZ7OosE1uCZm1IbV4F1ugV9gq992iKQ4HW9AKUFypcb48OKIA_okYlx5ozBPIZ03hTFyr66nmz-mtF7NqjvE8lyMeQ&u=aHR0cHMlM2ElMmYlMmYzMzg1LnhnNGtlbi5jb20lMmZ0cmslMmZ2MSUzZnByb2YlM2Q0MDUlMjZjYW1wJTNkMjkzNyUyNmFmZmNvZGUlM2RrdzY3OTIlMjZrY3QlM2Rtc24lMjZrY2hpZCUzZDQzMDMzMzExJTI2Y2lkJTNkODA4MTQyOTM4NDUzMTQlMjZxdWVyeVN0ciUzZFJvYm90aWNzJTI1MjBBbGdvcml0aG1zJTI1MjBDb21wdXRlciUyNTIwVmlzaW9uJTI2a2R2JTNkYyUyNmNyaXRlcmlhaWQlM2Rrd2QtODA4MTQ0NzE3NTQwODAlM2Fsb2MtMTkwJTI2YWRncm91cGlkJTNkMTI5MzAyNjk4ODEzMjkyNiUyNmNhbXBhaWduaWQlM2Q2MDM0OTM4NDklMjZsb2NwaHklM2Q0MzQ2NiUyNnVybCUzZGh0dHBzJTNhJTJmJTJmd3d3LmtleWVuY2UuY29tJTJmcHJvZHVjdHMlMmZ2aXNpb24lMmZ2aXNpb24tc3lzJTJmdnMlMmZscCUyZjE5OTQxMjAwMS5qc3AlM2ZhdyUzZGJpbmcta2FlblZTMTA3MTM0cHAlMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZtc2Nsa2lkJTNkZDY2M2FhNDZmYTBmMTJlYjQ1OGFjMGZjOTEzOTQyMmI&rlid=d663aa46fa0f12eb458ac0fc9139422b"
   },
   "dorked:366932d4b224d276": {
     "company": "",
@@ -1007,6 +1061,15 @@
     "title": "Believe Staff Engineer Agentic AI | SmartRecruiters",
     "url": "https://jobs.smartrecruiters.com/Believe/744000148232499-staff-engineer-agentic-ai"
   },
+  "dorked:54eb8a9056d9b584": {
+    "company": "",
+    "first_seen": "2026-09-28T13:29:18.635840+00:00",
+    "last_action": "2026-09-28T13:29:18.635856+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Sign up to deliver with DoorDash in the U.S. | Dasher Central",
+    "url": "https://www.bing.com/aclick?ld=e8o_562ZYowuFaf1M94kGoDDVUCUzOMOUVfOsV7LziRGXS5V34J6c9y1k4btJrVVdPG-bsp8isqxWvIPzIBBw3Xv7P7OpO4VRLcRTUzQDRgLt4zD7morkPg179ROYLAhE5-AoFTFXwgjm99hceb2sM7FILZQcmFBYX25T7nHJe6Gw7DJlh6WVp6jtOVg43erUit3ZuKaa6UEGxZZnYsvuov0wJBxw&u=aHR0cHMlM2ElMmYlMmY3MTU4LnhnNGtlbi5jb20lMmZ0cmslMmZ2MSUzZnByb2YlM2Q0MDIlMjZjYW1wJTNkMTk2MTU2JTI2a2N0JTNkbXNuJTI2a2NoaWQlM2Q0NDE2NDgyNyUyNmNyaXRlcmlhaWQlM2Rrd2QtNzYzNDc3MjY5MTk3MTElM2Fsb2MtNDM0NjYlMjZjYW1wYWlnbmlkJTNkNDI2NTE3MTgyJTI2bG9jcGh5JTNkNDM0NjYlMjZhZGdyb3VwaWQlM2QxMjIxNTU3OTEwMDEwNTI1JTI2Y2lkJTNkNzYzNDc1MDMyNjM0MjglMjZrZHYlM2RjJTI2a2V4dCUzZCUyNmtwZyUzZCUyNmtwaWQlM2QlMjZxdWVyeVN0ciUzZGpvYnMlMjZ1cmwlM2RodHRwcyUzYSUyZiUyZmRhc2hlci5kb29yZGFzaC5jb20lMmZlbi11cyUzZnV0bV9zb3VyY2UlM2RiaW5nLXNlbS1ub24tYnJhbmQlMjZ1dG1fbWVkaXVtJTNkc2VtdSUyNnV0bV9jYW1wYWlnbiUzZGR4X3VzX3NlX3N1X2JpX2FjcV8xOXh4eHhfMTM4NjU4MTI2Nl8lMjUyQl9uYl9hbGxfcGhvZW5peF8xOS1HMTM4NjU4MTI2NiUyNnV0bV90ZXJtJTNkYXZhaWxhYmxlJTI1MjBqb2JzJTI2dXRtX2NvbnRlbnQlM2Q3NjM0NzUwMzI2MzQyOCUyNmtjbGlja2lkJTNkX2tlbnNob29fY2xpY2tpZF8lMjZtc2Nsa2lkJTNkYThjNWU5NjIwYWJjMTQ3MDA3MzU4M2Q4NjA0YmE1YTc&rlid=a8c5e9620abc1470073583d8604ba5a7"
+  },
   "dorked:54fa1af031129e5c": {
     "company": "",
     "first_seen": "2026-09-24T11:30:02.506271+00:00",
@@ -1070,6 +1133,15 @@
     "title": "Purdue AI Resources  - Artificial Intelligence (AI) - Research Guides at Purdue University Libraries",
     "url": "https://guides.lib.purdue.edu/c.php?g=1371380&p=10275826"
   },
+  "dorked:593e02ac1586463c": {
+    "company": "",
+    "first_seen": "2026-09-28T13:29:18.635986+00:00",
+    "last_action": "2026-09-28T13:29:18.635987+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Data for AI Training  | TELUS Digital",
+    "url": "https://www.bing.com/aclick?ld=e8HzJ52BKuSNkTa8JeTgK09DVUCUyppj3zVpAlywqfSi-P69SHKOgw8vSego8kAyXeZiyq5zDL_Fm7bdc1B64WwFS0hK4DHAlJLcgdq3PamxTGmC5ioWwjJ8kdcERgszUVCRy5W1rKOG6bsQq40yH6AT-8zZn4wFty5DRPY9RIBZlGyclMbW1UGRHodkmhCVafj_9tbkKQV_FkLxa3vKIXIlgftd8&u=aHR0cHMlM2ElMmYlMmZhZC5kb3VibGVjbGljay5uZXQlMmZzZWFyY2hhZHMlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q0MzcwMDA3OTEyNDE3MjY3OSUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwODY0MzEyNTk5MiUyNmRzX2FfY2lkJTNkMTU3NzU4MjM4NiUyNmRzX2FfY2FpZCUzZDIwOTE1NjEzOTk1JTI2ZHNfYV9hZ2lkJTNkMTU5MDcyNzg0OTI0JTI2ZHNfYV9saWQlM2Rrd2QtMTE4NzIxNTEyNTI5MSUyNiUyNmRzX2VfYWRpZCUzZDg0MjUwNjA0ODU4NDkxJTI2ZHNfZV90YXJnZXRfaWQlM2Rrd2QtODQyNTEyNjM4MzUxODclM2Fsb2MtMTkwJTI2JTI2ZHNfZV9uZXR3b3JrJTNkbyUyNmRzX3VybF92JTNkMiUyNmRzX2Rlc3RfdXJsJTNkaHR0cHMlMjUzQSUyNTJGJTI1MkZ3d3cudGVsdXNkaWdpdGFsLmNvbSUyNTJGc29sdXRpb25zJTI1MkZkYXRhLWZvci1haS10cmFpbmluZyUyNTNGa3clMjUzRGNvbXB1dGVyJTI1MjUyMHZpc2lvbiUyNTI1MjBzdHJhdGVneSUyNTI2Y3BuJTI1M0Q0MzYzMTcyMDIlMjUyNmdjbGlkJTI1M0RiZjk4NDYwYTZmODIxMjllMWRiZDJjYjAwNGNkNzhjOSUyNTI2Z2Nsc3JjJTI1M0QzcC5kcyUyNTI2JTI1MjYlMjZ1dG1fY2FtcGFpZ24lM2QyMl9xMl9qdW5fYWlkYV91c19uZXdfZW4lMjZ1dG1fdGVybSUzZGNvbXB1dGVyJTI1MjB2aXNpb24lMjUyMHN0cmF0ZWd5JTI2dXRtX21lZGl1bSUzZGtuY19ib2Z1X3NxbF9jX3RpZHMlMjZ1dG1fc291cmNlJTNkZF9nYWQlMjZjYW1wYWlnbiUzZDQzNjMxNzIwMiUyNmFkZ3JvdXAlM2QxMzQ4MDAzMDI2MTMzMTUyJTI2YWRwb3NpdGlvbiUzZCUyNmdjbGlkJTNkYmY5ODQ2MGE2ZjgyMTI5ZTFkYmQyY2IwMDRjZDc4YzklMjZnY2xzcmMlM2QzcC5kcyUyNm1zY2xraWQlM2RiZjk4NDYwYTZmODIxMjllMWRiZDJjYjAwNGNkNzhjOSUyNnV0bV9jb250ZW50JTNkQ29tcHV0ZXIlMjUyMFZpc2lvbiUyNTIwU3RyYXRlZ3klMjUyMCUyNTdDJTI1MjBQaHJhc2U&rlid=bf98460a6f82129e1dbd2cb004cd78c9"
+  },
   "dorked:596d88878935660b": {
     "company": "",
     "first_seen": "2026-09-22T11:21:02.485606+00:00",
@@ -1123,6 +1195,15 @@
     "status": "discarded",
     "title": "Lyndal Stephens Greth & family",
     "url": "https://www.forbes.com/profile/lyndal-stephens-greth/"
+  },
+  "dorked:5dd903e9f64dd681": {
+    "company": "",
+    "first_seen": "2026-09-28T13:29:18.635880+00:00",
+    "last_action": "2026-09-28T13:29:18.635882+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "GCU | Technology Master's Degrees",
+    "url": "https://www.bing.com/aclick?ld=e8EUbxyG0LZIxJz-A_NBudqzVUCUwFpqfPWKHSVqvnf0GusnCi0JiH1MNkeaWe_sXMKVmfyyY3U5ZNSRNsUIlREs3kTxFHZ4w96A17ZHdAB4TsoJqxUeFOg_s4lsC_CUxe5x1dMabNiqsk_ViW09bpz_G-nvp8bvtrza4fj0psue7TViHjNNZNeMNKXAR5JLHe8AI5tVKP3LPDbyPt988MLL_DX0Y&u=aHR0cHMlM2ElMmYlMmZleHBsb3JlLmdjdS5lZHUlMmZ0ZWNobm9sb2d5JTJmbWFzdGVycyUyZiUzZmdjdSUzZEJTLUJSQU5EJTdjQmluZyU3Y0NQQyU3Y1NFVCUyNTIwTWFzdGVycyUyNTIwQXJ0aWZpY2lhbCUyNTIwSW50ZWxsaWdlbmNlJTdjbWElMjUyMGFydGlmaWNpYWwlMjUyMGludGVsbGlnZW5jZSUyNmFkSUQlM2Q4MTc3NjMxNDQ0ODA1NSUyNmRldmljZSUzZGMlMjZhZGdyb3VwJTNkRGVncmVlJTI2bmV0d29yayUzZG8lMjZtc2Nsa2lkJTNkYTkxNTI5MjFkNGM0MTZjZjA3MWE0MzliYmZkNTYzOTglMjZtYXRjaHR5cGUlM2RwJTI2dXRtX2lkJTNkNjI3NTU2MjAxJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkU0VUJTI1MjBNYXN0ZXJzJTI1MjBBcnRpZmljaWFsJTI1MjBJbnRlbGxpZ2VuY2UlMjZ1dG1fdGVybSUzZG1hJTI1MjBhcnRpZmljaWFsJTI1MjBpbnRlbGxpZ2VuY2UlMjZ1dG1fY29udGVudCUzZERlZ3JlZQ&rlid=a9152921d4c416cf071a439bbfd56398"
   },
   "dorked:5eee1a44e94ca7a5": {
     "company": "",
@@ -1241,6 +1322,15 @@
     "title": "Search Jobs",
     "url": "https://www.kforce.com/find-work/search-jobs/"
   },
+  "dorked:67c40f4789abee6d": {
+    "company": "",
+    "first_seen": "2026-09-28T13:29:18.635895+00:00",
+    "last_action": "2026-09-28T13:29:18.635897+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "LEGO\u00ae Education Computer Science & AI Kit - Grades 3-5 | LEGO Education",
+    "url": "https://www.bing.com/aclick?ld=e8VdNzEefVhvaZkseuGoKHEjVUCUwVS7UjSKIL74gaytFfMhFlkk85vfF6Hzgpcpb7apLK2ezDhv6QcyUfpxMSBqdjBirR7uZ3fZKg6gTTlh8Ru0bdRhR-K9sGoK1qAEJviCov-WQ0I3yDme4EId0LQ-MlBllNMPvTkg9l8MV5fwWkrJiVpNBEvXoaFyQR3PVRKVH2Nrp5VP9RuZFkgOlR7mJSUAM&u=aHR0cHMlM2ElMmYlMmZwaXhlbC5ldmVyZXN0dGVjaC5uZXQlMmY3OTAlMmZjcSUzZmV2X3NpZCUzZDEwJTI2ZXZfbG4lM2Rjb21wdXRlciUyNTIwc2NpZW5jZSUyNTIwYWklMjUyMGFuZCUyNTIwbWFjaGluZSUyNTIwbGVhcm5pbmclMjZldl9seCUzZGt3ZC04MTkxNDAxODExNjU5NCUzYWxvYy0xOTAlMjZldl9jcnglM2QlMjZldl9tdCUzZHAlMjZldl9uJTNkbyUyNmV2X2x0eCUzZCUyNmV2X3BsJTNkJTI2ZXZfcG9zJTNkJTI2ZXZfZHZjJTNkYyUyNmV2X2R2bSUzZCUyNmV2X3BoeSUzZDQzNDY2JTI2ZXZfbG9jJTNkJTI2ZXZfY3glM2Q2Mjc2MDY2ODUlMjZldl9heCUzZDEzMTA2MTkxNjEyMzYxMTAlMjZldl9lZmlkJTNkJTNhRyUzYXMlMjZ1cmwlM2RodHRwcyUyNTNBJTI1MkYlMjUyRmVkdWNhdGlvbi5sZWdvLmNvbSUyNTJGZW4tdXMlMjUyRnByb2R1Y3RzJTI1MkZsZWdvLWVkdWNhdGlvbi1jb21wdXRlci1zY2llbmNlLWFuZC1haSUyNTJGNDU1MjElMjUyRiUyNTNGbXRtX2NpZCUyNTNETVRNLUo2RzQtUzRONU05JTI1MjZtdG1fY2FtcGFpZ24lMjUzREJJLVVTLUVOLUVELVBTLUJVWS1FRFVDQVRJT04tTUJfQUxXQVlTX09OLVNIT1AtQ1MtTU0tUk4tQ0lETkEwMDAwMC1DU19BSV9LSVQlMjUyNm10bV9zb3VyY2UlMjUzRGJpbmclMjUyNm10bV9tZWRpdW0lMjUzRHBhaWQtc2VhcmNoJTI2bXNjbGtpZCUzZDA2NDQ5YmViODFlMjE0NDFiODdlZjE1MWVhYzAwNDAw&rlid=06449beb81e21441b87ef151eac00400"
+  },
   "dorked:68f75e4e1e120476": {
     "company": "",
     "first_seen": "2026-09-04T16:06:36.634394+00:00",
@@ -1294,6 +1384,15 @@
     "status": "unscored",
     "title": "STOW Group Commissioning Engineer | SmartRecruiters",
     "url": "https://jobs.smartrecruiters.com/StowGroup/744000146732522-commissioning-engineer"
+  },
+  "dorked:6e2b5ba5626b6f7a": {
+    "company": "",
+    "first_seen": "2026-09-28T13:29:18.635965+00:00",
+    "last_action": "2026-09-28T13:29:18.635966+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "BSCS at WGU",
+    "url": "https://www.bing.com/aclick?ld=e8Dzl8qwX9NOAh4FcOa5J7dTVUCUyBlBDkycZagPbOQH22aZehAtKngbMx0U6gH7v1pNwSy4djI0IPodud82FrqUd4eAbJIXCcOLNTO-QJK6UI0qayRj7NoUU_Uwini-sKFjfTabPow594iErfM04D-QgvFfSUXlPRDvWVNJIx-qWmWWyUBiKbhxb1uj6-wmo6SMCffdIEI1qGuxHw7TpFInctVuc&u=aHR0cHMlM2ElMmYlMmZ3d3cud2d1LmVkdSUyZmxwJTJmaXQlMmZsZWFkJTJmYnNjcy5odG1sJTNmcmVmZXJfaWQlM2QyMDI1ODA2JTI2Y2glM2RQRFNSQ0glMjZtc2Nsa2lkJTNkZjE0Y2ZjNGZiZDMzMWNkZTU4ZWM5NmY1ZDYwNTRhMDg&rlid=f14cfc4fbd331cde58ec96f5d6054a08"
   },
   "dorked:704f13095ecc45c7": {
     "company": "",
@@ -1565,6 +1664,15 @@
     "title": "Replicator \u2014 Omniverse Extensions",
     "url": "https://docs.omniverse.nvidia.com/extensions/latest/ext_replicator.html"
   },
+  "dorked:8897b3546cdaed78": {
+    "company": "",
+    "first_seen": "2026-09-28T13:29:18.635888+00:00",
+    "last_action": "2026-09-28T13:29:18.635890+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Build the Foundation at WGU",
+    "url": "https://www.bing.com/aclick?ld=e8gb2zLiYzqbBxszz3gf-WIDVUCUxrpppmVlmtNOw38jNdWFlB5vQtWFEXs_OnWIWGpKgsbJQxAOvFVea4iR4P1DADkh-L8H1xrhXGvvp66l3Qiq3K25pelDvzvSHSbKXh_1C4J1_e5V0bbzpPzWqWOETvDIBlHx4zdzkoCzrFE8ujIvySaREa7My4VDgAWEUzqs4jgKyoR7GKKz_I_BGizSo-6gI&u=aHR0cHMlM2ElMmYlMmZ3d3cud2d1LmVkdSUyZmxwJTJmaXQlMmZsZWFkJTJmYnVpbGQtdGhlLWZvdW5kYXRpb24uaHRtbCUzZnJlZmVyX2lkJTNkMjAyNzA3OSUyNmNoJTNkUERTUkNIJTI2bXNjbGtpZCUzZGU0M2Y0NzJlNTlkNDEzOWQ0MDEzMmQ5NDMyZjYwNjk2&rlid=e43f472e59d4139d40132d9432f60696"
+  },
   "dorked:8954a696c68de37f": {
     "company": "",
     "first_seen": "2026-09-24T11:30:02.506315+00:00",
@@ -1718,6 +1826,15 @@
     "title": "[2609.24058] All-in-One Multilingual Scene Text Recognition with Script-aware Mixture-of-Experts",
     "url": "https://arxiv.org/abs/2609.24058"
   },
+  "dorked:9394c2da419385da": {
+    "company": "",
+    "first_seen": "2026-09-28T13:29:18.635981+00:00",
+    "last_action": "2026-09-28T13:29:18.635982+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "AI insights, trends and strategy perspectives | EY - US",
+    "url": "https://www.bing.com/aclick?ld=e8I_4wLduRHQEQF4OXHAqiYTVUCUx5g4JfzHWb0xNMupVUcaXsdZ0WbgJAUpADZSS42w84U9NEaXDHKCY0Q4Y-JIzJiDfXPOT-zkLJc13Nz4OVCX0qHZC-97Jqg1dWr3ClE5PzWgUvpUHWBVrJ8He4aOxhjDQig2_PmjJct7K49rquxqsVApoF3t1gHHFcmPFQUrYRwKr3Y_nRP9jlTpPGPSKbTg4&u=aHR0cHMlM2ElMmYlMmZhZC5kb3VibGVjbGljay5uZXQlMmZzZWFyY2hhZHMlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q0MzcwMDA4MzUwNjAyMDM4MCUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwOTAzOTMwMzA4MSUyNmRzX2FfY2lkJTNkNzY1Njc4MTEzNyUyNmRzX2FfY2FpZCUzZDIzMzM1NDQwOTQ2JTI2ZHNfYV9hZ2lkJTNkMTkxOTg5OTY0NzgyJTI2ZHNfYV9saWQlM2Rrd2QtMzgxMjc4OTEyMDg3JTI2JTI2ZHNfZV9hZGlkJTNkNzcwMzQ3NjQ1MDg4ODclMjZkc19lX3RhcmdldF9pZCUzZGt3ZC03NzAzNTA5NzM2OTQ5MyUzYWxvYy0xOTAlMjYlMjZkc19lX25ldHdvcmslM2RvJTI2ZHNfdXJsX3YlM2QyJTI2ZHNfZGVzdF91cmwlM2RodHRwcyUzYSUyZiUyZnd3dy5leS5jb20lMmZlbl91cyUyZnNlcnZpY2VzJTJmYWklM2ZXVC5tY19pZCUzZDEwNjgzNDYyJTI2QUEudHNyYyUzZHBhaWRzZWFyY2glMjZnY2xpZCUzZDczZDE2OGU4ZGY0NTE5NjdmYjlhMDI1MmI0MDM5MzBkJTI2Z2Nsc3JjJTNkM3AuZHMlMjYlMjZtc2Nsa2lkJTNkNzNkMTY4ZThkZjQ1MTk2N2ZiOWEwMjUyYjQwMzkzMGQ&rlid=73d168e8df451967fb9a0252b403930d"
+  },
   "dorked:9420d7fda8143ffd": {
     "company": "",
     "first_seen": "2026-09-26T16:11:01.687485+00:00",
@@ -1726,6 +1843,15 @@
     "status": "discarded",
     "title": "The Best Freelance AI Researchers For Hire | Freelancer",
     "url": "https://www.bing.com/aclick?ld=e839xrA-pVesFMmqgrrdn7qzVUCUy-zE_pJNLR-zKuqfNM-e3z8V3QFX-PhyhbIUE9NU7zwRM2IqWbBHPEtnyJ1Pc0yPQkdRzWbSVO4crxNOEBPyH03P-FKOh6v1bOaZ0P_dAJxg4ndDIVzWMM2mzWSNBjWQP4DVW1Uju46rYB4inLR7bCjB8xdGcXsDRl-bSbgOX1nuyPD2qBCH9-Nzot1NiU-Wo&u=aHR0cHMlM2ElMmYlMmZ3d3cuZnJlZWxhbmNlci5jb20lMmZjYW1wYWlnbiUyZjBCTkg3Mjg0MzEyMDc1OTczNCUyZiUzZmNhbXBhaWduJTNkMjc0MzM0ODAyJTI2YWRncm91cCUzZDExNjU0ODQyOTEyOTQyMDIlMjZrZXl3b3JkJTNkYWklMjUyMHJlc2VhcmNoZXIlMjZsJTNkaHR0cHMlMjUzQSUyNTJGJTI1MkZ3d3cuZnJlZWxhbmNlci5jb20lMjUyRmZpbmQlMjUyRmFpLXJlc2VhcmNoJTI2bXNjbGtpZCUzZDBkOTM2MjZkNDhhMDFjMTQ4MGUxMDhkYWE2YTg2ZjA0JTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkRml2ZSUyNTIwRXllcyUyNTNBRU4lMjUzQU5CJTI1MjBCTU0lMjZ1dG1fdGVybSUzZGFpJTI1MjByZXNlYXJjaGVyJTI2dXRtX2NvbnRlbnQlM2RBSSUyNTIwLSUyNTIwQUklMjUyMFJlc2VhcmNoJTI1MjAlMjUzQSUyNTIwQUklMjUyMFJlc2VhcmNoZXI&rlid=0d93626d48a01c1480e108daa6a86f04"
+  },
+  "dorked:94249a0dfec3872b": {
+    "company": "",
+    "first_seen": "2026-09-28T13:29:18.635990+00:00",
+    "last_action": "2026-09-28T13:29:18.635992+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Computer Vision Engineer Salary (September 2026) | KAPLAN",
+    "url": "https://jobs.community.kaplan.com/salary/computer-vision-engineer"
   },
   "dorked:944a63845d9529fb": {
     "company": "",
@@ -2519,6 +2645,15 @@
     "title": "Project Manager, Robotics & Computer Vision: Vernova Research | GE Vernova",
     "url": "https://careers.gevernova.com/project-manager-robotics-computer-vision-vernova-research/job/R5052794"
   },
+  "dorked:d35f27853e10293e": {
+    "company": "",
+    "first_seen": "2026-09-28T13:29:18.635901+00:00",
+    "last_action": "2026-09-28T13:29:18.635903+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Machine Learning Models and How to Build Them | Coursera",
+    "url": "https://www.coursera.org/articles/machine-learning-models"
+  },
   "dorked:d4b662069cf07197": {
     "company": "",
     "first_seen": "2026-09-03T22:41:47.602402+00:00",
@@ -2572,6 +2707,15 @@
     "status": "unscored",
     "title": "Cloud Data Engineering for Dummies - Snowflake",
     "url": "https://www.bing.com/aclick?ld=e89AvptMs8I0kWyWtP3Qm5aTVUCUz24dMgmUlitVmsZsQYj7b6YfSmUtpO16DOh7GQPnRLNaWhuPkRcWVzrRMP8bJJw3_cSmouDYxr4BrevEOTd7N7P1Ht_VYW-BHS23NQMgRRroXTOOSLnth9F25iM91Is7YSwsizHoGlGVPW1xOyOhb-ymElmL-Mjz8da0Yk4KW5jna1v6q3loJJDzC6RRz48Sg&u=aHR0cHMlM2ElMmYlMmZjbGlja3NlcnZlLmRhcnRzZWFyY2gubmV0JTJmbGluayUyZmNsaWNrJTNmJTI2JTI2ZHNfZV9hZGlkJTNkNzk1MDg2MTA0Mjg2MjElMjZkc19lX3RhcmdldF9pZCUzZGt3ZC03OTUwODk1NTM3NzYwMCUzYWxvYy00MDg0JTI2JTI2ZHNfZV9uZXR3b3JrJTNkbyUyNmRzX3VybF92JTNkMiUyNmRzX2Rlc3RfdXJsJTNkaHR0cHMlM2ElMmYlMmZ3d3cuc25vd2ZsYWtlLmNvbSUyZnJlc291cmNlJTJmY2xvdWQtZGF0YS1lbmdpbmVlcmluZy1mb3ItZHVtbWllcyUyZiUzZnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZHBhaWRzZWFyY2glMjZ1dG1fY2FtcGFpZ24lM2RuYS11cy1lbi1uYi1kYXRhZW5naW5lZXJpbmctcGhyYXNlJTI2dXRtX2NvbnRlbnQlM2RiaS1yc2EtZXZnLWViLWNsb3VkLWRhdGEtZW5naW5lZXJpbmctZm9yLWR1bW1pZXMlMjZ1dG1fdGVybSUzZGMtby1kYXRhJTI1MjBlbmdpbmVlcmluZy1wJTI2X2J0JTNkJTI2X2JrJTNkZGF0YSUyNTIwZW5naW5lZXJpbmclMjZfYm0lM2RwJTI2X2JuJTNkbyUyNl9iZyUzZDEyNzIxMzU3NjU5Njk3ODclMjZnY2xzcmMlM2QzcC5kcyUyNiUyNmdjbHNyYyUzZDNwLmRzJTI2JTI2Z2NsaWQlM2Q5OTQ4MTRjY2ZiMGYxNDk1MjVkZjdlN2U1NGFiMjhlNyUyNmdjbHNyYyUzZDNwLmRzJTI2bXNjbGtpZCUzZDk5NDgxNGNjZmIwZjE0OTUyNWRmN2U3ZTU0YWIyOGU3&rlid=994814ccfb0f149525df7e7e54ab28e7"
+  },
+  "dorked:dd1d3a7889304f7b": {
+    "company": "",
+    "first_seen": "2026-09-28T13:29:18.635960+00:00",
+    "last_action": "2026-09-28T13:29:18.635961+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Four Futures of AI | EY - US",
+    "url": "https://www.bing.com/aclick?ld=e8vK_yFYry_Ll3tfJtjz7YVDVUCUx67t3sZG_YQOfB9hZsHP-qC9ijlmLQKmoqS-67zogGZXs66c0av-NIVD898keC3SfsxtQ38MoXzimQvKUo8vc4MuTaTzijxGvS6EyPWiEQh4IKFWrqF9hWDgRbimXmbFL5F9ensgOtjc1hM1YwpCu0XmNlqIwSrxUBu78HeMChHRZ-sXQH_2WQVgM0Ai8822c&u=aHR0cHMlM2ElMmYlMmZhZC5kb3VibGVjbGljay5uZXQlMmZzZWFyY2hhZHMlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q0MzcwMDA4MzAwOTkxNzA4NSUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwODk4NDQ3MzgwOSUyNmRzX2FfY2lkJTNkNzY1Njc4MTEzNyUyNmRzX2FfY2FpZCUzZDIzMzM1NDQwOTQ2JTI2ZHNfYV9hZ2lkJTNkMTkyNTM2ODY1MDMxJTI2ZHNfYV9saWQlM2Rrd2QtNTE3MDQ1OTk2NzEyJTI2JTI2ZHNfZV9hZGlkJTNkNzcxNzIxOTYwNzMxOTMlMjZkc19lX3RhcmdldF9pZCUzZGt3ZC03NzE3MjQ5OTc3MjAzNyUzYWxvYy0xOTAlMjYlMjZkc19lX25ldHdvcmslM2RvJTI2ZHNfdXJsX3YlM2QyJTI2ZHNfZGVzdF91cmwlM2RodHRwcyUzYSUyZiUyZnd3dy5leS5jb20lMmZlbl91cyUyZmluc2lnaHRzJTJmZW1lcmdpbmctdGVjaG5vbG9naWVzJTJmZnV0dXJlLW9mLWFpJTNmV1QubWNfaWQlM2QxMDg2Mzg3MCUyNkFBLnRzcmMlM2RwYWlkc2VhcmNoJTI2Z2NsaWQlM2Q0N2EzMzVmMzQ5NmQxNWM2ZDEwMzVmNDkyMjQyZDlhNSUyNmdjbHNyYyUzZDNwLmRzJTI2JTI2bXNjbGtpZCUzZDQ3YTMzNWYzNDk2ZDE1YzZkMTAzNWY0OTIyNDJkOWE1&rlid=47a335f3496d15c6d1035f492242d9a5"
   },
   "dorked:ddcee484644fe913": {
     "company": "",
