@@ -17,27 +17,31 @@ NON_API_ATS_SITES = [
     "myworkdayjobs.com",
     "boards.greenhouse.io",
     "jobs.lever.co",
+    "jobs.ashbyhq.com",
     "comeet.com",
     "smartrecruiters.com",
     "apply.workable.com",
 ]
 
+_ISRAEL_CLAUSE = '"Israel"'
+
 
 def _build_queries(role_families: list[str]) -> list[str]:
     """One short query per (platform site, role pair) -- each query targets a single site with
     at most two OR'd role terms, deliberately avoiding the long combined site/role/location OR
-    chains that used to time out (especially against the mobileye/ai21 career pages). Location
-    filtering is left to the evaluator rather than folded into the query. Targeted-company
+    chains that used to time out (especially against the mobileye/ai21 career pages). Every query
+    carries an explicit "Israel" clause -- without it, search engines default to US results, which
+    is how this source ended up surfacing (and auto-applying to) US-only roles. Targeted-company
     queries (see config.TARGETED_COMPANY_SITES) are minimal site-only searches, listed first so
     they always fit within the query budget."""
-    queries = [f"site:{site} jobs" for site in config.TARGETED_COMPANY_SITES]
+    queries = [f"site:{site} {_ISRAEL_CLAUSE} jobs" for site in config.TARGETED_COMPANY_SITES]
 
     batch_size = 2
     for site in NON_API_ATS_SITES:
         for i in range(0, len(role_families), batch_size):
             batch = role_families[i : i + batch_size]
-            role_clause = " OR ".join(f'"{r}"' for r in batch)
-            queries.append(f"site:{site} {role_clause}")
+            role_clause = "(" + " OR ".join(f'"{r}"' for r in batch) + ")"
+            queries.append(f"site:{site} {_ISRAEL_CLAUSE} {role_clause}")
 
     return queries
 

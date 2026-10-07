@@ -62,7 +62,13 @@ For each job, return:
 - matched_domains: which of the candidate's strong-positive-signal domains this job touches
 - red_flags: any disqualifying_signals present (empty list if none)
 
-Scoring guidance:
+ZERO-TOLERANCE LOCATION RULE (apply this before any other scoring):
+If the job's location is not Israel, and it is not a remote posting explicitly open to candidates \
+in Israel or EMEA, assign score=0 and reject it -- regardless of how strong the role/skill match is. \
+This includes any posting that is US-only, Canada-only, or restricted to general US remote without \
+Israel/EMEA eligibility. There are no exceptions to this rule.
+
+Scoring guidance (only applies once the location rule above has NOT already zeroed the job):
 - Treat robotics, control systems, perception, autonomy, computer vision, reinforcement learning, \
 diffusion models, and physical-AI overlap as a strong positive signal even for mid/senior postings --
 the candidate's mechanical engineering + robotics/control background can offset a lack of years in \
@@ -73,7 +79,6 @@ explicitly tied to AI, ML, robotics, or perception -- these should score low (<=
 well-written, since they are not one of the candidate's five target families.
 - Penalize disqualifying signals (e.g. required security clearance the candidate lacks, 5+ years \
 industry ML/software required with no robotics/control overlap, no technical overlap at all).
-- A remote posting explicitly restricted to a country other than Israel is a red flag.
 """
 
 
