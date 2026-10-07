@@ -1,16 +1,26 @@
 """Shared complexity bail-out and applier interface.
 
-Every applier implements `can_handle(job) -> bool` and `apply(page, job, answers, resume_path) ->
-ApplyAttempt`. The bail-out lives here so both platforms share the exact same safety rules.
+Every applier implements `can_handle(job) -> bool` and `apply(page, job, answers, resume_path,
+cover_letter=None, screener_fn=None) -> ApplyAttempt`. The bail-out lives here so both platforms
+share the exact same safety rules.
+
+`screener_fn` is a `(question: str) -> str | None` callable (see job_agent.screener) that answers
+a single custom form field's question from the candidate's own facts; it returns None when there
+is no confident, grounded answer, which must bail the application rather than submit a blank or
+guessed value.
 """
 
 from __future__ import annotations
+
+from typing import Callable
 
 from playwright.sync_api import Page
 
 from job_agent.models import ApplyAttempt
 
 MAX_FORM_STEPS = 4
+
+ScreenerFn = Callable[[str], "str | None"]
 
 
 class ComplexityBailOut(Exception):

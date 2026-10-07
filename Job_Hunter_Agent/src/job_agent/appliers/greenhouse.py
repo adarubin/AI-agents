@@ -2,7 +2,8 @@
 
 Greenhouse's embedded application form has a stable structure across boards: #first_name,
 #last_name, #email, #phone, a resume file input, and optionally custom questions. Any required
-custom question this module cannot confidently answer triggers the complexity bail-out.
+custom question the screener sub-agent cannot confidently answer triggers the complexity
+bail-out.
 """
 
 from __future__ import annotations
@@ -12,6 +13,7 @@ from playwright.sync_api import Page, TimeoutError as PlaywrightTimeoutError
 from job_agent import humanize
 from job_agent.appliers.base import (
     ComplexityBailOut,
+    ScreenerFn,
     bail_result,
     check_for_challenge,
     error_result,
@@ -21,13 +23,21 @@ from job_agent.appliers.base import (
 from job_agent.models import ApplyAttempt, Platform, RawJob
 
 _FORM_TIMEOUT = 10_000
+_KNOWN_FIELD_IDS = ("#first_name", "#last_name", "#email", "#phone")
 
 
 def can_handle(job: RawJob) -> bool:
     return job.platform == Platform.GREENHOUSE
 
 
-def apply(page: Page, job: RawJob, answers: dict, resume_path: str) -> ApplyAttempt:
+def apply(
+    page: Page,
+    job: RawJob,
+    answers: dict,
+    resume_path: str,
+    cover_letter: str | None = None,
+    screener_fn: ScreenerFn | None = None,
+) -> ApplyAttempt:
     try:
         page.goto(job.apply_url, timeout=30_000)
         check_for_challenge(page)
@@ -54,7 +64,9 @@ def apply(page: Page, job: RawJob, answers: dict, resume_path: str) -> ApplyAtte
         resume_input.set_input_files(resume_path)
         humanize.between_fields()
 
-        _check_custom_questions(form)
+        _fill_cover_letter(form, cover_letter)
+
+        _answer_custom_questions(form, screener_fn)
 
         submit_button = form.locator("#submit_app, button[type='submit']").first
         if submit_button.count() == 0:
@@ -80,14 +92,44 @@ def _fill(form, selector: str, value: str | None) -> None:
         locator.fill(value)
 
 
-def _check_custom_questions(form) -> None:
-    """Bail if any required custom question is a free-text essay or otherwise unanswerable."""
-    required_textareas = form.locator("textarea[required], textarea[aria-required='true']")
-    if required_textareas.count() > 0:
-        raise ComplexityBailOut("required free-text/essay question present")
+def _fill_cover_letter(form, cover_letter: str | None) -> None:
+    """Pastes the generated cover letter into whichever cover-letter field the board exposes --
+    a free-text textarea, or (less commonly) a file-upload field is left untouched since there is
+    no file to upload."""
+    if not cover_letter:
+        return
+    field = form.locator("textarea[id*='cover_letter'], textarea[name*='cover_letter']").first
+    if field.count() > 0:
+        field.fill(cover_letter)
 
-    required_unfilled_text_inputs = form.locator(
-        "input[type='text'][required]:not(#first_name):not(#last_name):not(#email):not(#phone)"
+
+def _question_text(form, field) -> str:
+    """Best-effort label text for a form field: associated <label>, else aria-label/placeholder."""
+    field_id = field.get_attribute("id")
+    if field_id:
+        label = form.locator(f"label[for='{field_id}']").first
+        if label.count() > 0:
+            text = label.inner_text().strip()
+            if text:
+                return text
+    return field.get_attribute("aria-label") or field.get_attribute("placeholder") or ""
+
+
+def _answer_custom_questions(form, screener_fn: ScreenerFn | None) -> None:
+    """Routes every required custom question to the screener sub-agent; bails if any required
+    field -- free-text or otherwise -- has no confident, grounded answer."""
+    required_fields = form.locator(
+        "textarea[required], textarea[aria-required='true'], "
+        f"input[type='text'][required]{''.join(f':not({sel})' for sel in _KNOWN_FIELD_IDS)}"
     )
-    if required_unfilled_text_inputs.count() > 0:
-        raise ComplexityBailOut("required custom question field present with no confident answer")
+    count = required_fields.count()
+    for i in range(count):
+        field = required_fields.nth(i)
+        question = _question_text(form, field)
+        if not question:
+            raise ComplexityBailOut("required custom question field present with no readable label")
+
+        answer = screener_fn(question) if screener_fn is not None else None
+        if not answer:
+            raise ComplexityBailOut(f"no confident answer for required question: {question!r}")
+        field.fill(answer)

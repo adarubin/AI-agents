@@ -11,6 +11,7 @@ from playwright.sync_api import Page, TimeoutError as PlaywrightTimeoutError
 from job_agent import humanize
 from job_agent.appliers.base import (
     ComplexityBailOut,
+    ScreenerFn,
     bail_result,
     check_for_challenge,
     error_result,
@@ -20,13 +21,21 @@ from job_agent.appliers.base import (
 from job_agent.models import ApplyAttempt, Platform, RawJob
 
 _FORM_TIMEOUT = 10_000
+_KNOWN_FIELD_NAMES = ("[name='name']", "[name='email']", "[name='phone']")
 
 
 def can_handle(job: RawJob) -> bool:
     return job.platform == Platform.LEVER
 
 
-def apply(page: Page, job: RawJob, answers: dict, resume_path: str) -> ApplyAttempt:
+def apply(
+    page: Page,
+    job: RawJob,
+    answers: dict,
+    resume_path: str,
+    cover_letter: str | None = None,
+    screener_fn: ScreenerFn | None = None,
+) -> ApplyAttempt:
     try:
         page.goto(job.apply_url, timeout=30_000)
         check_for_challenge(page)
@@ -45,7 +54,9 @@ def apply(page: Page, job: RawJob, answers: dict, resume_path: str) -> ApplyAtte
         resume_input.set_input_files(resume_path)
         humanize.between_fields()
 
-        _check_custom_questions(page)
+        _fill_cover_letter(page, cover_letter)
+
+        _answer_custom_questions(page, screener_fn)
 
         submit_button = page.locator("button[type='submit']").first
         if submit_button.count() == 0:
@@ -71,13 +82,38 @@ def _fill(page: Page, selector: str, value: str | None) -> None:
         locator.fill(value)
 
 
-def _check_custom_questions(page: Page) -> None:
-    required_textareas = page.locator("textarea[required]")
-    if required_textareas.count() > 0:
-        raise ComplexityBailOut("required free-text/essay question present")
+def _fill_cover_letter(page: Page, cover_letter: str | None) -> None:
+    if not cover_letter:
+        return
+    field = page.locator("textarea[name*='comments'], textarea[name*='cover_letter']").first
+    if field.count() > 0:
+        field.fill(cover_letter)
 
-    required_unfilled_text_inputs = page.locator(
-        "input[type='text'][required]:not([name='name']):not([name='email']):not([name='phone'])"
+
+def _question_text(page: Page, field) -> str:
+    field_id = field.get_attribute("id")
+    if field_id:
+        label = page.locator(f"label[for='{field_id}']").first
+        if label.count() > 0:
+            text = label.inner_text().strip()
+            if text:
+                return text
+    return field.get_attribute("aria-label") or field.get_attribute("placeholder") or ""
+
+
+def _answer_custom_questions(page: Page, screener_fn: ScreenerFn | None) -> None:
+    required_fields = page.locator(
+        "textarea[required], "
+        f"input[type='text'][required]{''.join(f':not({sel})' for sel in _KNOWN_FIELD_NAMES)}"
     )
-    if required_unfilled_text_inputs.count() > 0:
-        raise ComplexityBailOut("required custom question field present with no confident answer")
+    count = required_fields.count()
+    for i in range(count):
+        field = required_fields.nth(i)
+        question = _question_text(page, field)
+        if not question:
+            raise ComplexityBailOut("required custom question field present with no readable label")
+
+        answer = screener_fn(question) if screener_fn is not None else None
+        if not answer:
+            raise ComplexityBailOut(f"no confident answer for required question: {question!r}")
+        field.fill(answer)

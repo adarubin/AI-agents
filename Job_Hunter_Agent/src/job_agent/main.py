@@ -14,7 +14,7 @@ from pathlib import Path
 
 import yaml
 
-from job_agent import appliers, config, evaluator, humanize, normalize, reporter, session, state, tailor
+from job_agent import appliers, config, cover_letter, evaluator, humanize, normalize, reporter, screener, session, state, tailor
 from job_agent.appliers.base import ComplexityBailOut
 from job_agent.models import ApplyAttempt, JobStatus, RawJob, RoutedJob, RunReport
 from job_agent.router import route
@@ -73,13 +73,17 @@ def _run_apply_phase(
     cap: int,
     dry_run: bool,
     base_resume_content: dict,
+    candidate_profile: dict,
     api_key: str,
     answers: dict,
     headed: bool,
     errors: list[str],
 ) -> None:
     """Attempt auto-apply for eligible jobs up to `cap`. Anything past the cap, or that bails,
-    is downgraded to MANUAL_LEAD so nothing is silently lost."""
+    is downgraded to MANUAL_LEAD so nothing is silently lost.
+
+    Per job, the orchestrator runs three sub-agents before handing off to the applier: the resume
+    tailor (PDF), the cover-letter generator, and the screener (answers custom form fields)."""
     eligible = [r for r in candidates if r.status == JobStatus.APPLIED]
     to_attempt, overflow = eligible[:cap], eligible[cap:]
 
@@ -104,10 +108,20 @@ def _run_apply_phase(
 
             with tempfile.TemporaryDirectory() as tmp_dir:
                 resume_path = _resume_for_job(routed.job, base_resume_content, api_key, errors, tmp_dir)
+                letter = cover_letter.generate_cover_letter(
+                    candidate_profile, routed.job, api_key, errors=errors
+                )
+
+                def screener_fn(question: str) -> str | None:
+                    return screener.answer_question(
+                        question, answers, candidate_profile, api_key, errors=errors
+                    )
 
                 page = context.new_page()
                 try:
-                    attempt: ApplyAttempt = applier.apply(page, routed.job, answers, resume_path)
+                    attempt: ApplyAttempt = applier.apply(
+                        page, routed.job, answers, resume_path, cover_letter=letter, screener_fn=screener_fn
+                    )
                 except ComplexityBailOut as exc:
                     attempt = ApplyAttempt(job_key=routed.job.job_key, success=False, bailed_reason=exc.reason)
                 finally:
@@ -159,6 +173,7 @@ def run(args: argparse.Namespace) -> RunReport:
             cap,
             dry_run=args.dry_run,
             base_resume_content=cfg.resume_content,
+            candidate_profile=cfg.candidate_profile,
             api_key=cfg.gemini_api_key,
             answers=cfg.answers,
             headed=args.local,
