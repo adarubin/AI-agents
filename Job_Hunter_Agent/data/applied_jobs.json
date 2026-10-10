@@ -6416,6 +6416,51 @@
     "title": "Enterprise AI Development Strategist",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4741087005"
   },
+  "greenhouse:4742042005": {
+    "company": "scaleai",
+    "first_seen": "2026-10-10T12:15:35.796312+00:00",
+    "last_action": "2026-10-10T12:15:35.796313+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Systems Engineering Integration & Test Lead, Public Sector",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4742042005"
+  },
+  "greenhouse:5401358": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796442+00:00",
+    "last_action": "2026-10-10T12:15:35.796444+00:00",
+    "score": 0.0,
+    "status": "discarded",
+    "title": "Senior Software Engineer, Simulation",
+    "url": "https://nuro.ai/careersitem?gh_jid=5401358"
+  },
+  "greenhouse:5416913": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796380+00:00",
+    "last_action": "2026-10-10T12:15:35.796382+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Machine Learning Research Scientist: Generative Modeling for Planning",
+    "url": "https://nuro.ai/careersitem?gh_jid=5416913"
+  },
+  "greenhouse:5434059": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796375+00:00",
+    "last_action": "2026-10-10T12:15:35.796377+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Machine Learning Research Scientist, Behavior Planning and Prediction ",
+    "url": "https://nuro.ai/careersitem?gh_jid=5434059"
+  },
+  "greenhouse:6121565": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796457+00:00",
+    "last_action": "2026-10-10T12:15:35.796459+00:00",
+    "score": 0.0,
+    "status": "discarded",
+    "title": "Senior/Staff Machine Learning Research Scientist: Generative Modeling for Planning",
+    "url": "https://nuro.ai/careersitem?gh_jid=6121565"
+  },
   "greenhouse:6516915": {
     "company": "nuro",
     "first_seen": "2026-10-07T13:05:20.948574+00:00",
@@ -6434,6 +6479,51 @@
     "title": "Senior/Staff Engineer, Machine Learning - Online Mapping",
     "url": "https://nuro.ai/careersitem?gh_jid=6621871"
   },
+  "greenhouse:6630682": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796448+00:00",
+    "last_action": "2026-10-10T12:15:35.796449+00:00",
+    "score": 0.0,
+    "status": "discarded",
+    "title": "Senior/Staff Controls Engineer",
+    "url": "https://nuro.ai/careersitem?gh_jid=6630682"
+  },
+  "greenhouse:6832319": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796438+00:00",
+    "last_action": "2026-10-10T12:15:35.796439+00:00",
+    "score": 0.0,
+    "status": "discarded",
+    "title": "Senior Software Engineer, Routing",
+    "url": "https://nuro.ai/careersitem?gh_jid=6832319"
+  },
+  "greenhouse:6909931": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796536+00:00",
+    "last_action": "2026-10-10T12:15:35.796537+00:00",
+    "score": 0.0,
+    "status": "discarded",
+    "title": "Software Engineer, ML Infrastructure",
+    "url": "https://nuro.ai/careersitem?gh_jid=6909931"
+  },
+  "greenhouse:6916236": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796541+00:00",
+    "last_action": "2026-10-10T12:15:35.796542+00:00",
+    "score": 0.0,
+    "status": "discarded",
+    "title": "Software Engineer, ML Infrastructure, Optimization",
+    "url": "https://nuro.ai/careersitem?gh_jid=6916236"
+  },
+  "greenhouse:6953540": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796405+00:00",
+    "last_action": "2026-10-10T12:15:35.796407+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Senior Software Engineer, Behavior Planning",
+    "url": "https://nuro.ai/careersitem?gh_jid=6953540"
+  },
   "greenhouse:7137941": {
     "company": "nuro",
     "first_seen": "2026-10-02T12:23:10.290842+00:00",
@@ -6442,6 +6532,24 @@
     "status": "unscored",
     "title": "Staff Software Engineer, Behavior ML Data",
     "url": "https://nuro.ai/careersitem?gh_jid=7137941"
+  },
+  "greenhouse:7238934": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796565+00:00",
+    "last_action": "2026-10-10T12:15:35.796567+00:00",
+    "score": 0.0,
+    "status": "discarded",
+    "title": "Staff/Senior Software Engineer, Offboard Infrastructure",
+    "url": "https://nuro.ai/careersitem?gh_jid=7238934"
+  },
+  "greenhouse:7243150": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796467+00:00",
+    "last_action": "2026-10-10T12:15:35.796469+00:00",
+    "score": 0.0,
+    "status": "discarded",
+    "title": "Senior/Staff Software Engineer,  Behavior Verification",
+    "url": "https://nuro.ai/careersitem?gh_jid=7243150"
   },
   "greenhouse:7280336": {
     "company": "nuro",
@@ -6452,6 +6560,24 @@
     "title": "Staff Software Engineer, Routing",
     "url": "https://nuro.ai/careersitem?gh_jid=7280336"
   },
+  "greenhouse:7325349": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796348+00:00",
+    "last_action": "2026-10-10T12:15:35.796350+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Autonomous Driving System Safety Lead",
+    "url": "https://nuro.ai/careersitem?gh_jid=7325349"
+  },
+  "greenhouse:7351061": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796512+00:00",
+    "last_action": "2026-10-10T12:15:35.796513+00:00",
+    "score": 0.0,
+    "status": "discarded",
+    "title": "Software Engineer, AI Platform - Intern",
+    "url": "https://nuro.ai/careersitem?gh_jid=7351061"
+  },
   "greenhouse:7351066": {
     "company": "nuro",
     "first_seen": "2026-09-22T11:21:02.485474+00:00",
@@ -6460,6 +6586,15 @@
     "status": "applied",
     "title": "Software Engineer, AI Platform - New Grad",
     "url": "https://nuro.ai/careersitem?gh_jid=7351066"
+  },
+  "greenhouse:7384555": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796353+00:00",
+    "last_action": "2026-10-10T12:15:35.796355+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "AV Hardware Mechanical Design, Lead",
+    "url": "https://nuro.ai/careersitem?gh_jid=7384555"
   },
   "greenhouse:7387173": {
     "company": "nuro",
@@ -6515,6 +6650,15 @@
     "title": "ML Research Scientist, Prediction & Smart Agents",
     "url": "https://nuro.ai/careersitem?gh_jid=7439020"
   },
+  "greenhouse:7442056": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796335+00:00",
+    "last_action": "2026-10-10T12:15:35.796336+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Associate Fleet Technician, Bay Area",
+    "url": "https://nuro.ai/careersitem?gh_jid=7442056"
+  },
   "greenhouse:7456500": {
     "company": "nuro",
     "first_seen": "2026-09-03T22:41:47.602217+00:00",
@@ -6523,6 +6667,24 @@
     "status": "unscored",
     "title": "On-Site Hiring Event: Autonomous Vehicle Operator, Santa Clara and San Francisco (12-Month Duration)",
     "url": "https://nuro.ai/careersitem?gh_jid=7456500"
+  },
+  "greenhouse:7482347": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796555+00:00",
+    "last_action": "2026-10-10T12:15:35.796557+00:00",
+    "score": 0.0,
+    "status": "discarded",
+    "title": "Software Engineer, Routing",
+    "url": "https://nuro.ai/careersitem?gh_jid=7482347"
+  },
+  "greenhouse:7564852": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796492+00:00",
+    "last_action": "2026-10-10T12:15:35.796494+00:00",
+    "score": 0.0,
+    "status": "discarded",
+    "title": "Senior/Staff Systems Engineer, Autonomy Verification",
+    "url": "https://nuro.ai/careersitem?gh_jid=7564852"
   },
   "greenhouse:7569919": {
     "company": "nuro",
@@ -6542,6 +6704,33 @@
     "title": "Immigration & Global Mobility Specialist ",
     "url": "https://nuro.ai/careersitem?gh_jid=7576899"
   },
+  "greenhouse:7577458": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796364+00:00",
+    "last_action": "2026-10-10T12:15:35.796366+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Director of Engineering, Eval Platform",
+    "url": "https://nuro.ai/careersitem?gh_jid=7577458"
+  },
+  "greenhouse:7638789": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796551+00:00",
+    "last_action": "2026-10-10T12:15:35.796552+00:00",
+    "score": 0.0,
+    "status": "discarded",
+    "title": "Software Engineer, Offboard Infrastructure",
+    "url": "https://nuro.ai/careersitem?gh_jid=7638789"
+  },
+  "greenhouse:7701096": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796428+00:00",
+    "last_action": "2026-10-10T12:15:35.796429+00:00",
+    "score": 0.0,
+    "status": "discarded",
+    "title": "Senior Software Engineer, Onboard Autonomy",
+    "url": "https://nuro.ai/careersitem?gh_jid=7701096"
+  },
   "greenhouse:7733212": {
     "company": "nuro",
     "first_seen": "2026-10-06T13:10:38.469362+00:00",
@@ -6550,6 +6739,33 @@
     "status": "discarded",
     "title": "Shift Supervisor, On-Road Operations ",
     "url": "https://nuro.ai/careersitem?gh_jid=7733212"
+  },
+  "greenhouse:7736012": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796433+00:00",
+    "last_action": "2026-10-10T12:15:35.796434+00:00",
+    "score": 0.0,
+    "status": "discarded",
+    "title": "Senior Software Engineer, Perception Data Infrastructure",
+    "url": "https://nuro.ai/careersitem?gh_jid=7736012"
+  },
+  "greenhouse:7736044": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796502+00:00",
+    "last_action": "2026-10-10T12:15:35.796504+00:00",
+    "score": 0.0,
+    "status": "discarded",
+    "title": "Senior Systems Test Engineer, Autonomy Behavior",
+    "url": "https://nuro.ai/careersitem?gh_jid=7736044"
+  },
+  "greenhouse:7736159": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796411+00:00",
+    "last_action": "2026-10-10T12:15:35.796412+00:00",
+    "score": 0.0,
+    "status": "discarded",
+    "title": "Senior Software Engineer, Collision Avoidance Testing",
+    "url": "https://nuro.ai/careersitem?gh_jid=7736159"
   },
   "greenhouse:7752003": {
     "company": "nuro",
@@ -6578,6 +6794,15 @@
     "title": "Senior Software Engineer, Performance Tooling and Infrastructure",
     "url": "https://nuro.ai/careersitem?gh_jid=7786596"
   },
+  "greenhouse:7793005": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796329+00:00",
+    "last_action": "2026-10-10T12:15:35.796331+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Applied AI Researcher, Agent Systems & Evaluation",
+    "url": "https://nuro.ai/careersitem?gh_jid=7793005"
+  },
   "greenhouse:7838576": {
     "company": "nuro",
     "first_seen": "2026-09-25T17:00:19.875876+00:00",
@@ -6605,6 +6830,42 @@
     "title": "Software Operations Specialist (12 month duration)",
     "url": "https://nuro.ai/careersitem?gh_jid=7888575"
   },
+  "greenhouse:7895638": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796477+00:00",
+    "last_action": "2026-10-10T12:15:35.796479+00:00",
+    "score": 0.0,
+    "status": "discarded",
+    "title": "Senior/Staff Software Engineer, ML Data Infrastructure",
+    "url": "https://nuro.ai/careersitem?gh_jid=7895638"
+  },
+  "greenhouse:7895640": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796472+00:00",
+    "last_action": "2026-10-10T12:15:35.796474+00:00",
+    "score": 0.0,
+    "status": "discarded",
+    "title": "Senior/Staff Software Engineer, Data Platform",
+    "url": "https://nuro.ai/careersitem?gh_jid=7895640"
+  },
+  "greenhouse:7895644": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796521+00:00",
+    "last_action": "2026-10-10T12:15:35.796523+00:00",
+    "score": 0.0,
+    "status": "discarded",
+    "title": "Software Engineer, Data Platform",
+    "url": "https://nuro.ai/careersitem?gh_jid=7895644"
+  },
+  "greenhouse:7895818": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796526+00:00",
+    "last_action": "2026-10-10T12:15:35.796528+00:00",
+    "score": 0.0,
+    "status": "discarded",
+    "title": "Software Engineer, ML Data Infrastructure",
+    "url": "https://nuro.ai/careersitem?gh_jid=7895818"
+  },
   "greenhouse:7896063": {
     "company": "nuro",
     "first_seen": "2026-09-23T11:13:01.201347+00:00",
@@ -6622,6 +6883,24 @@
     "status": "manual_lead",
     "title": "Senior Software Engineer, Autonomy Visualization",
     "url": "https://nuro.ai/careersitem?gh_jid=7896065"
+  },
+  "greenhouse:7902399": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796390+00:00",
+    "last_action": "2026-10-10T12:15:35.796392+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Project Manager, Software Operations",
+    "url": "https://nuro.ai/careersitem?gh_jid=7902399"
+  },
+  "greenhouse:7917839": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796369+00:00",
+    "last_action": "2026-10-10T12:15:35.796371+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Full Stack Software Engineer, Fleet Platform and Operations Tooling",
+    "url": "https://nuro.ai/careersitem?gh_jid=7917839"
   },
   "greenhouse:7939983": {
     "company": "nuro",
@@ -6641,6 +6920,24 @@
     "title": "Autonomous Vehicle Operator, Los Angeles (AM Shift, 12-Month Duration)",
     "url": "https://nuro.ai/careersitem?gh_jid=7943735"
   },
+  "greenhouse:7974966": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796385+00:00",
+    "last_action": "2026-10-10T12:15:35.796387+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Principal Software Engineer, Onboard Infrastructure",
+    "url": "https://nuro.ai/careersitem?gh_jid=7974966"
+  },
+  "greenhouse:7976791": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796341+00:00",
+    "last_action": "2026-10-10T12:15:35.796343+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Associate Fleet Technician, Los Angeles",
+    "url": "https://nuro.ai/careersitem?gh_jid=7976791"
+  },
   "greenhouse:7998327": {
     "company": "nuro",
     "first_seen": "2026-10-07T13:05:20.948543+00:00",
@@ -6658,6 +6955,33 @@
     "status": "unscored",
     "title": "Software Engineer, Onboard Platform",
     "url": "https://nuro.ai/careersitem?gh_jid=7998328"
+  },
+  "greenhouse:8010934": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796395+00:00",
+    "last_action": "2026-10-10T12:15:35.796397+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Senior Electrical Engineer - AV Modules",
+    "url": "https://nuro.ai/careersitem?gh_jid=8010934"
+  },
+  "greenhouse:8011514": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796487+00:00",
+    "last_action": "2026-10-10T12:15:35.796489+00:00",
+    "score": 0.0,
+    "status": "discarded",
+    "title": "Senior/Staff Software Engineer, ML Infrastructure, Optimization",
+    "url": "https://nuro.ai/careersitem?gh_jid=8011514"
+  },
+  "greenhouse:8011527": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796417+00:00",
+    "last_action": "2026-10-10T12:15:35.796418+00:00",
+    "score": 0.0,
+    "status": "discarded",
+    "title": "Senior Software Engineer, ML Infrastructure",
+    "url": "https://nuro.ai/careersitem?gh_jid=8011527"
   },
   "greenhouse:8013856": {
     "company": "nuro",
@@ -6677,6 +7001,24 @@
     "title": "Head of Systems Engineering (Senior Director)",
     "url": "https://nuro.ai/careersitem?gh_jid=8031871"
   },
+  "greenhouse:8044124": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796359+00:00",
+    "last_action": "2026-10-10T12:15:35.796360+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Chief of Staff, Nuro Driver",
+    "url": "https://nuro.ai/careersitem?gh_jid=8044124"
+  },
+  "greenhouse:8049931": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796452+00:00",
+    "last_action": "2026-10-10T12:15:35.796454+00:00",
+    "score": 0.0,
+    "status": "discarded",
+    "title": "Senior/Staff Machine Learning Engineer, Sensor Simulation",
+    "url": "https://nuro.ai/careersitem?gh_jid=8049931"
+  },
   "greenhouse:8082100": {
     "company": "nuro",
     "first_seen": "2026-10-07T13:05:20.948579+00:00",
@@ -6685,6 +7027,24 @@
     "status": "unscored",
     "title": "Senior Software Engineer, Collision Avoidance",
     "url": "https://nuro.ai/careersitem?gh_jid=8082100"
+  },
+  "greenhouse:8082658": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796575+00:00",
+    "last_action": "2026-10-10T12:15:35.796576+00:00",
+    "score": 0.0,
+    "status": "discarded",
+    "title": "Test Validation Engineer",
+    "url": "https://nuro.ai/careersitem?gh_jid=8082658"
+  },
+  "greenhouse:8097555": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796462+00:00",
+    "last_action": "2026-10-10T12:15:35.796464+00:00",
+    "score": 0.0,
+    "status": "discarded",
+    "title": "Senior/Staff Software Engineer, AI Agent Infrastructure",
+    "url": "https://nuro.ai/careersitem?gh_jid=8097555"
   },
   "greenhouse:8104145": {
     "company": "nuro",
@@ -6695,6 +7055,24 @@
     "title": "Autonomous Vehicle Operator, San Francisco (AM Shift, 12-Month Duration)",
     "url": "https://nuro.ai/careersitem?gh_jid=8104145"
   },
+  "greenhouse:8114353": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796400+00:00",
+    "last_action": "2026-10-10T12:15:35.796402+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Senior Manager, FP&A",
+    "url": "https://nuro.ai/careersitem?gh_jid=8114353"
+  },
+  "greenhouse:8114754": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796560+00:00",
+    "last_action": "2026-10-10T12:15:35.796562+00:00",
+    "score": 0.0,
+    "status": "discarded",
+    "title": "Staff/Lead Machine Learning Engineer, Behavior & Planning",
+    "url": "https://nuro.ai/careersitem?gh_jid=8114754"
+  },
   "greenhouse:8114868": {
     "company": "nuro",
     "first_seen": "2026-09-10T16:10:48.433807+00:00",
@@ -6703,6 +7081,51 @@
     "status": "discarded",
     "title": "Shift Supervisor,  Los Angeles, CA",
     "url": "https://nuro.ai/careersitem?gh_jid=8114868"
+  },
+  "greenhouse:8122477": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796422+00:00",
+    "last_action": "2026-10-10T12:15:35.796424+00:00",
+    "score": 0.0,
+    "status": "discarded",
+    "title": "Senior Software Engineer, ML Infrastructure Platform",
+    "url": "https://nuro.ai/careersitem?gh_jid=8122477"
+  },
+  "greenhouse:8122483": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796545+00:00",
+    "last_action": "2026-10-10T12:15:35.796547+00:00",
+    "score": 0.0,
+    "status": "discarded",
+    "title": "Software Engineer, ML Infrastructure Platform",
+    "url": "https://nuro.ai/careersitem?gh_jid=8122483"
+  },
+  "greenhouse:8122528": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796482+00:00",
+    "last_action": "2026-10-10T12:15:35.796484+00:00",
+    "score": 0.0,
+    "status": "discarded",
+    "title": "Senior/Staff Software Engineer, ML Inference Platform",
+    "url": "https://nuro.ai/careersitem?gh_jid=8122528"
+  },
+  "greenhouse:8122537": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796531+00:00",
+    "last_action": "2026-10-10T12:15:35.796532+00:00",
+    "score": 0.0,
+    "status": "discarded",
+    "title": "Software Engineer, ML Inference Platform",
+    "url": "https://nuro.ai/careersitem?gh_jid=8122537"
+  },
+  "greenhouse:8122990": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796517+00:00",
+    "last_action": "2026-10-10T12:15:35.796518+00:00",
+    "score": 0.0,
+    "status": "discarded",
+    "title": "Software Engineer, Applied AI Infrastructure",
+    "url": "https://nuro.ai/careersitem?gh_jid=8122990"
   },
   "greenhouse:8130943": {
     "company": "nuro",
@@ -6721,6 +7144,33 @@
     "status": "discarded",
     "title": "Partnerships Lead",
     "url": "https://nuro.ai/careersitem?gh_jid=8138188"
+  },
+  "greenhouse:8144807": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796507+00:00",
+    "last_action": "2026-10-10T12:15:35.796509+00:00",
+    "score": 0.0,
+    "status": "discarded",
+    "title": "Senior Technical Recruiter ",
+    "url": "https://nuro.ai/careersitem?gh_jid=8144807"
+  },
+  "greenhouse:8160091": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796570+00:00",
+    "last_action": "2026-10-10T12:15:35.796572+00:00",
+    "score": 0.0,
+    "status": "discarded",
+    "title": "Tech Lead Software Engineer, Fleet Connectivity",
+    "url": "https://nuro.ai/careersitem?gh_jid=8160091"
+  },
+  "greenhouse:8161813": {
+    "company": "nuro",
+    "first_seen": "2026-10-10T12:15:35.796497+00:00",
+    "last_action": "2026-10-10T12:15:35.796498+00:00",
+    "score": 0.0,
+    "status": "discarded",
+    "title": "Senior/Staff Systems Engineer, Platform Systems",
+    "url": "https://nuro.ai/careersitem?gh_jid=8161813"
   },
   "greenhouse:8163179": {
     "company": "nuro",
@@ -7343,6 +7793,15 @@
     "title": "IT System Administrator",
     "url": "https://jobs.lever.co/waabi/30ed0635-d67b-4856-8b2e-b9c9bf65d389"
   },
+  "lever:3acdfa36-848c-4720-b7a0-f80a6c30cbe6": {
+    "company": "waabi",
+    "first_seen": "2026-10-10T12:15:35.796286+00:00",
+    "last_action": "2026-10-10T12:15:35.796295+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Lead Technical Program Manager, Robotaxi",
+    "url": "https://jobs.lever.co/waabi/3acdfa36-848c-4720-b7a0-f80a6c30cbe6"
+  },
   "lever:4235ba79-00f1-4755-be14-88f10e9e662a": {
     "company": "waabi",
     "first_seen": "2026-10-01T12:51:30.399200+00:00",
@@ -7388,6 +7847,15 @@
     "title": "Software Engineer, Commercial Software",
     "url": "https://jobs.lever.co/waabi/6bcfed90-b577-4b09-a893-5c07186a1e0f"
   },
+  "lever:74ff3e1c-821c-4c31-aada-54f4170b5b2e": {
+    "company": "waabi",
+    "first_seen": "2026-10-10T12:15:35.796580+00:00",
+    "last_action": "2026-10-10T12:15:35.796581+00:00",
+    "score": 0.0,
+    "status": "discarded",
+    "title": "Lead Product Manager, Hardware Platform",
+    "url": "https://jobs.lever.co/waabi/74ff3e1c-821c-4c31-aada-54f4170b5b2e"
+  },
   "lever:cb383962-ad2d-40ab-93ce-e3aead4b3838": {
     "company": "waabi",
     "first_seen": "2026-09-12T10:26:01.461320+00:00",
@@ -7405,6 +7873,33 @@
     "status": "unscored",
     "title": "Director, Fleet Solutions",
     "url": "https://jobs.lever.co/waabi/ceb2d146-0461-44e1-9eee-51f2ae0c90f3"
+  },
+  "lever:d2522d63-34ce-4587-aef0-5c9ad594baa0": {
+    "company": "waabi",
+    "first_seen": "2026-10-10T12:15:35.796324+00:00",
+    "last_action": "2026-10-10T12:15:35.796325+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Supply Chain Specialist",
+    "url": "https://jobs.lever.co/waabi/d2522d63-34ce-4587-aef0-5c9ad594baa0"
+  },
+  "lever:ebe37947-7f32-47f1-bbf8-0ae27d6bb9e3": {
+    "company": "waabi",
+    "first_seen": "2026-10-10T12:15:35.796304+00:00",
+    "last_action": "2026-10-10T12:15:35.796306+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Staff Vehicle Program Manager",
+    "url": "https://jobs.lever.co/waabi/ebe37947-7f32-47f1-bbf8-0ae27d6bb9e3"
+  },
+  "lever:ee49e74d-179a-4527-adc6-7065cbdeb0b7": {
+    "company": "waabi",
+    "first_seen": "2026-10-10T12:15:35.796318+00:00",
+    "last_action": "2026-10-10T12:15:35.796319+00:00",
+    "score": null,
+    "status": "unscored",
+    "title": "Global Supply Manager - Indirect",
+    "url": "https://jobs.lever.co/waabi/ee49e74d-179a-4527-adc6-7065cbdeb0b7"
   },
   "lever:f07f1b90-8006-4984-b05d-5f591463c602": {
     "company": "waabi",
