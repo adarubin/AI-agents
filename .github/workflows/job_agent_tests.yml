@@ -1,0 +1,29 @@
+name: Job Agent Tests
+
+on:
+  pull_request:
+    paths:
+      - 'Job_Hunter_Agent/**'
+      - '.github/workflows/job_agent*.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'Job_Hunter_Agent/**'
+      - '.github/workflows/job_agent*.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: Job_Hunter_Agent
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install -r requirements.txt && pip install -e .
+      - run: python -m pytest tests/ -q

@@ -1,0 +1,76 @@
+# Candidate profile fed to Gemini for semantic fit scoring.
+# Judge postings by responsibilities and required skills, not job title.
+
+education:
+  degree: "B.Sc. Mechanical Engineering, M.Sc. Machine Learning and Big Data (In Progress)"
+  specialization: "Robotics and Control Systems, Deep Learning, Generative AI"
+  institution: "Afeka Academic College of Engineering (B.Sc.), Open University of Israel (M.Sc.)"
+  graduation: "2020 (B.Sc.), Expected March 2027 (M.Sc.)"
+  expected_graduation_month: '2027-03'
+  masters_gpa: 94
+
+target_seniority:
+  primary:
+    - student
+    - intern
+    - junior / entry-level
+  secondary: >
+    Mid/senior roles are also acceptable when there is strong technical overlap with robotics,
+    control systems, or physical AI. The candidate explicitly wants to try roles requiring more
+    experience than documented. Treat years and seniority as stretch notes, not disqualifiers.
+    Keep all candidate experience claims factual.
+
+experience_facts:
+  years_professional_total: 6
+  years_professional_ml: 1
+  years_robotics: 3
+  current_role: Quality & Reliability Lab Engineer at Mobileye
+  prior_roles:
+    - R&D Engineer at Qtflow (control algorithms and electromechanical integration)
+    - R&D Engineer at Beyon3D (robotic manufacturing and KUKA path optimization)
+  masters_completed: false
+  phd: false
+
+target_role_families:
+  - AI Engineer
+  - Applied ML Engineer
+  - Machine Learning Engineer
+  - Robotics Engineer
+  - Physical AI
+  - Drone / UAV Programmer
+  - Computer Vision Engineer
+  - Deep Learning Engineer / Researcher
+  - ML Researcher
+  - Algorithms Engineer
+  - Perception Engineer
+  - Autonomy Software Engineer
+  - Controls Engineer
+
+strong_positive_signals:
+  - Robotics (manipulation, mobile robots, legged robots)
+  - Control systems (classical or learning-based control, MPC, PID)
+  - Computer vision / perception (SLAM, object detection, sensor fusion)
+  - Physical AI / embodied AI / sim-to-real
+  - Drone / UAV autonomy or flight control
+  - Machine learning fundamentals (classical ML, deep learning, PyTorch)
+  - Diffusion Models / CNNs / RNNs
+  - Python software engineering
+
+disqualifying_signals:
+  - Requires an active security clearance the candidate does not hold
+  - Requires a completed Ph.D. or completed M.Sc. with no accepted alternative
+  - Core stack has no overlap at all with ML/robotics/CV (e.g. pure frontend, pure DevOps)
+
+skills:
+  - Python
+  - PyTorch
+  - Deep Learning (CNN, RNN, Diffusion)
+  - Classical control (PID, MPC)
+  - ROS / ROS2
+  - Computer vision (OpenCV)
+  - MATLAB / Simulink
+  - C++
+
+location_preference:
+  - Israel
+  - Remote (open to candidates in Israel)

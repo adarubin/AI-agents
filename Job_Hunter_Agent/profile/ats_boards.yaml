@@ -1,0 +1,56 @@
+# Cached ATS board tokens fetched every run. Curated by hand + extended by
+# scripts/discover_boards.py. Every token here should return HTTP 200 from its platform's API --
+# verify with:
+#   curl -s -o /dev/null -w '%{http_code}\n' https://boards-api.greenhouse.io/v1/boards/<token>/jobs
+#   curl -s -o /dev/null -w '%{http_code}\n' https://api.lever.co/v0/postings/<token>?mode=json
+#
+# Employer boards verified through their public career listings. Comeet, SmartRecruiters and
+# Workday are discovery/manual-apply sources; unsupported forms are never auto-submitted.
+
+greenhouse:
+  # Verified 2026-10-15: each has active jobs with Israel-specific locations.
+  - gongio
+  - wizinc
+  - riskified
+  - forter
+  - bluevineisrael
+  - helloheart
+
+lever: []
+
+ashby: []
+  # Ashby tokens could not be verified from this environment; validate manually or via
+  # scripts/discover_boards.py before relying on them.
+
+# Public employer-hosted Comeet listings include full responsibilities and requirements.
+# Read the embedded position JSON; never treat the Angular template as a job description.
+comeet:
+  - https://www.comeet.com/jobs/mentee_robotics/6A.002
+  - https://www.comeet.com/jobs/forsightrobotics/E9.008
+  - https://www.comeet.com/jobs/exodigo/89.005
+  - https://www.comeet.com/jobs/aitan/FA.006
+  - https://www.comeet.com/jobs/samsung/D4.005
+  - https://www.comeet.com/jobs/maytronics/E3.008
+  # Additional robotics, autonomous driving and applied-AI employers, verified 2026-10-15.
+  # Keep active boards even when they currently have no matching role, to catch future openings.
+  - https://www.comeet.com/jobs/uveye/92.00F
+  - https://www.comeet.com/jobs/imagry/B7.00F
+  - https://www.comeet.com/jobs/xtend/85.00A
+  - https://www.comeet.com/jobs/percepto/44.000
+  - https://www.comeet.com/jobs/innoviz/52.004
+  - https://www.comeet.com/jobs/immunai/37.009
+
+smartrecruiters:
+  - Wix2
+
+workday:
+  - name: NVIDIA
+    base_url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite
+    queries:
+      - deep learning
+      - computer vision
+      - robotics
+      - algorithms
+      - autonomous
+      - reinforcement learning
+    max_jobs: 40

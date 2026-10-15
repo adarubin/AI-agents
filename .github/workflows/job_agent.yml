@@ -1,0 +1,109 @@
+name: Job Hunter Agent
+
+on:
+  schedule:
+    # 06:00 and 12:00 UTC = 09:00 and 15:00 Israel time (UTC+3)
+    - cron: "0 6,12 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Run read-only (no applications submitted)"
+        type: boolean
+        default: true
+      no_email:
+        description: "Skip the report email during a manual rehearsal"
+        type: boolean
+        default: false
+      max_apply:
+        description: "Override the auto-apply cap (blank = default 5-7 random)"
+        required: false
+        default: ""
+
+concurrency:
+  group: job-hunter-agent
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  run-agent:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    defaults:
+      run:
+        working-directory: Job_Hunter_Agent
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          pip install -e .
+
+      - name: Install Playwright browser
+        run: playwright install --with-deps chromium
+
+      - name: Test location gates, routing and reporting
+        run: python -m pytest tests/ -q
+
+      - name: Restore resume content
+        env:
+          RESUME_CONTENT_YAML: ${{ secrets.RESUME_CONTENT_YAML }}
+        run: |
+          mkdir -p profile
+          if [ -n "$RESUME_CONTENT_YAML" ]; then
+            printf '%s\n' "$RESUME_CONTENT_YAML" > profile/resume_content.yaml
+          else
+            echo "::warning::RESUME_CONTENT_YAML secret not set -- resume PDF cannot be generated, so auto-apply will bail on every job this run."
+          fi
+
+      - name: Generate resume PDF
+        run: |
+          if [ -f profile/resume_content.yaml ]; then
+            python scripts/generate_resume.py
+          fi
+
+      - name: Run job hunter agent
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          GMAIL_RECEIVER: ${{ secrets.GMAIL_RECEIVER }}
+        run: |
+          ARGS=""
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.dry_run }}" = "true" ]; then
+            ARGS="$ARGS --dry-run"
+          fi
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.no_email }}" = "true" ]; then
+            ARGS="$ARGS --no-email"
+          fi
+          if [ -n "${{ inputs.max_apply }}" ]; then
+            ARGS="$ARGS --max-apply ${{ inputs.max_apply }}"
+          fi
+          python -m job_agent.main $ARGS
+
+      - name: Upload failure artifacts
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: job-agent-debug-${{ github.run_id }}
+          path: |
+            Job_Hunter_Agent/data/
+            Job_Hunter_Agent/test-results/
+            Job_Hunter_Agent/playwright-report/
+          if-no-files-found: ignore
+          retention-days: 7
+
+      - name: Commit updated state
+        if: always()
+        run: |
+          git config user.name "job-hunter-agent[bot]"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/applied_jobs.json
+          git diff --cached --quiet || git commit -m "chore: update applied jobs state [skip ci]"
+          git push
