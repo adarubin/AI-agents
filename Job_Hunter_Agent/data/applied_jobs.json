@@ -3554,6 +3554,352 @@
     "title": "IBM AI Engineering Professional Certificate | Coursera",
     "url": "https://www.bing.com/aclick?ld=e8LaYi6pmV_l8sYc3sm2eQwzVUCUy5AZCDNMW-HLwt7IwmkasCcBV6PEiy2gKh3bu4ybDvAAmqFOGeoHo6ln993s6rjUv2atG5MKbob9cgSKJochDZ6jbR9PLas7Sy1VhLD_98vpBglaDl2UGMm7kiW8aaHJ5SPeT8ijPL9t_EG3bumahLnmOruIq4iG-6qA8_O9A5lg&u=aHR0cHMlM2ElMmYlMmZ3d3cuY291cnNlcmEub3JnJTJmcHJvZmVzc2lvbmFsLWNlcnRpZmljYXRlcyUyZmFpLWVuZ2luZWVyJTJmcGFpZG1lZGlhJTNmdXRtX21lZGl1bSUzZHNlbSUyNnV0bV9zb3VyY2UlM2RiZyUyNnV0bV9jYW1wYWlnbiUzZGIyY19uYW1lcl9haS1lbmdpbmVlcl9pYm1fZnRjb2ZfcHJvZmVzc2lvbmFsLWNlcnRpZmljYXRlc19weF9kcl9iYXVfYmdfc2VtX3ByX3VzLWNhX2VuX21feF8yNC0xMV94JTI2Y2FtcGFpZ25pZCUzZDY2MjkyNzY4MiUyNmFkZ3JvdXBpZCUzZDEyNTAxNDYwNTYwMjI0MDclMjZkZXZpY2UlM2RjJTI2a2V5d29yZCUzZGFpJTI1MjBlbmdpbmVlciUyNTIwdHJhaW5pbmclMjZtYXRjaHR5cGUlM2RiJTI2bmV0d29yayUzZG8lMjZkZXZpY2Vtb2RlbCUzZCUyNmFkcG9zaXRpb24lM2QlMjZjcmVhdGl2ZWlkJTNkNzgxMzQyNTg0MDgzMDglMjZhZGdyb3VwJTNkYjJjX25hbWVyX2FpLWVuZ2luZWVyX2libV9weF9iYXVfYmdfdXMtY2FfeF94X25iLWJkX3hfaHliX3hfeF9wcm9mZXNzaW9uYWwtY2VydGlmaWNhdGVzX3glMjZxdWVyeXN0cmluZyUzZERlZXAlMjUyMExlYXJuaW5nJTI1MjBFbmdpbmVlciUyNnRhcmdldGlkJTNka3dkLTc4MTM0NDk3MjM3NjYyJTNhbG9jLTE5MCUyNmJpZG1hdGNodHlwZSUzZGJiJTI2ZXh0ZW5zaW9uaWQlM2QlMjZtc2Nsa2lkJTNkNmM2ZWZmNWQxYzk1MWRlNmY3NDY5NWVlYWY2ZGVjODA&rlid=6c6eff5d1c951de6f74695eeaf6dec80"
   },
+  "dorked:comeet:AITAN:2B.76D": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "AITAN",
+    "experience_gaps": [],
+    "first_seen": "2026-10-15T21:29:14.763771+00:00",
+    "last_action": "2026-10-15T21:29:14.763773+00:00",
+    "location": "Ramat-Gan, Israel, Israel",
+    "policy_version": 2,
+    "reason": "Requires a completed advanced degree; candidate M.Sc. is in progress: M.Sc. in a relevant field such as Aerospace Engineering, Robotics, Electrical Engineering, Mechanical Engineering or Control Systems 4+ years of experience developing flight control or real-time algorithms for production systems Strong background in control systems, robotics or autonomous systems, with a focus on control and stability Strong understanding of aerodynamics and aerial robotic systems Hands-on experience with control and estimation algorithms (e.g., PID, state estimation, sensor fusion) in real-world systems Experience implementing and optimizing algorithms in C++ or Python Experience working closely with hardware, sensors and real-time constraints",
+    "red_flags": [
+      "Requires a completed advanced degree; candidate M.Sc. is in progress: M.Sc. in a relevant field such as Aerospace Engineering, Robotics, Electrical Engineering, Mechanical Engineering or Control Systems 4+ years of experience developing flight control or real-time algorithms for production systems Strong background in control systems, robotics or autonomous systems, with a focus on control and stability Strong understanding of aerodynamics and aerial robotic systems Hands-on experience with control and estimation algorithms (e.g., PID, state estimation, sensor fusion) in real-world systems Experience implementing and optimizing algorithms in C++ or Python Experience working closely with hardware, sensors and real-time constraints"
+    ],
+    "score": 0,
+    "status": "discarded",
+    "title": "Algorithm Engineer, Flight Control",
+    "url": "https://www.comeet.com/jobs/aitan/FA.006/algorithm-engineer-flight-control/2B.76D"
+  },
+  "dorked:comeet:AITAN:50.D64": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "AITAN",
+    "experience_gaps": [
+      "Requires 3+ years of software development experience; candidate has 6 years total professional experience but fewer in pure software."
+    ],
+    "first_seen": "2026-10-15T21:29:14.763765+00:00",
+    "last_action": "2026-10-15T21:29:14.763767+00:00",
+    "location": "Ramat-Gan, Israel, Israel",
+    "policy_version": 2,
+    "reason": "Directly matches the candidate's interest in autonomous drone systems, flight controllers, and real-world field robotics integration.",
+    "red_flags": [],
+    "score": 9.0,
+    "status": "manual_lead",
+    "title": "Software Engineer, Robotics & Integration",
+    "url": "https://www.comeet.com/jobs/aitan/FA.006/software-engineer-robotics--integration/50.D64"
+  },
+  "dorked:comeet:AITAN:A1.D66": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "AITAN",
+    "experience_gaps": [],
+    "first_seen": "2026-10-15T21:29:14.763759+00:00",
+    "last_action": "2026-10-15T21:29:14.763761+00:00",
+    "location": "Ramat-Gan, Israel, Israel",
+    "policy_version": 2,
+    "reason": "Requires a completed advanced degree; candidate M.Sc. is in progress: M.Sc. in a relevant field such as Computer Science, Electrical Engineering, Robotics, Aerospace Engineering or a related discipline 4+ years of experience developing computer vision, perception or autonomy algorithms for production systems Strong background in classical computer vision and modern deep learning approaches Hands-on experience with object detection, SLAM, visual odometry or 3D perception Experience taking algorithms from research into real-world environments Experience implementing algorithms in Python or C++ Comfortable working closely with hardware, sensors and real-time constraints Experience working with modern neural network architectures and trained models",
+    "red_flags": [
+      "Requires a completed advanced degree; candidate M.Sc. is in progress: M.Sc. in a relevant field such as Computer Science, Electrical Engineering, Robotics, Aerospace Engineering or a related discipline 4+ years of experience developing computer vision, perception or autonomy algorithms for production systems Strong background in classical computer vision and modern deep learning approaches Hands-on experience with object detection, SLAM, visual odometry or 3D perception Experience taking algorithms from research into real-world environments Experience implementing algorithms in Python or C++ Comfortable working closely with hardware, sensors and real-time constraints Experience working with modern neural network architectures and trained models"
+    ],
+    "score": 0,
+    "status": "discarded",
+    "title": "Computer Vision Engineer, Aerial Autonomy",
+    "url": "https://www.comeet.com/jobs/aitan/FA.006/computer-vision-engineer-aerial-autonomy/A1.D66"
+  },
+  "dorked:comeet:Exodigo:2E.171": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Exodigo",
+    "experience_gaps": [
+      "Requires 4+ years (of industry experience developing computer vision and machine learning algorithms); documented years_professional_ml=1",
+      "Requires 4+ years of industry experience developing computer vision and ML algorithms."
+    ],
+    "first_seen": "2026-10-15T21:29:14.763835+00:00",
+    "last_action": "2026-10-15T21:29:14.763836+00:00",
+    "location": "Israel, Israel",
+    "policy_version": 2,
+    "reason": "Exceptional fit for 2D-to-3D computer vision, reconstruction, localization, and spatial sensor fusion.",
+    "red_flags": [],
+    "score": 9.0,
+    "status": "manual_lead",
+    "title": "Computer Vision Engineer",
+    "url": "https://www.comeet.com/jobs/exodigo/89.005/computer-vision-engineer/2E.171"
+  },
+  "dorked:comeet:Exodigo:9E.074": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Exodigo",
+    "experience_gaps": [
+      "Requires 4+ years (of hands-on experience building algorithmic, machine learning, or AI systems that were deployed and used in production); documented years_professional_ml=1",
+      "Requires 4+ years of hands-on algorithmic and ML systems production experience."
+    ],
+    "first_seen": "2026-10-15T21:29:14.763829+00:00",
+    "last_action": "2026-10-15T21:29:14.763831+00:00",
+    "location": "Israel, Israel",
+    "policy_version": 2,
+    "reason": "Strong match for applied AI algorithms combining spatial geometry, computer vision, and physical measurement systems.",
+    "red_flags": [],
+    "score": 8.0,
+    "status": "manual_lead",
+    "title": "AI Algorithms Engineer",
+    "url": "https://www.comeet.com/jobs/exodigo/89.005/ai-algorithms-engineer/9E.074"
+  },
+  "dorked:comeet:Exodigo:EF.273": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Exodigo",
+    "experience_gaps": [
+      "Requires 5+ years of relevant industry experience."
+    ],
+    "first_seen": "2026-10-15T21:29:14.763730+00:00",
+    "last_action": "2026-10-15T21:29:14.763732+00:00",
+    "location": "Israel, Israel",
+    "policy_version": 2,
+    "reason": "Solid match for multi-sensor data fusion, signal processing, and algorithm development combining physical systems with machine learning.",
+    "red_flags": [],
+    "score": 8.0,
+    "status": "manual_lead",
+    "title": "Algorithm Developer",
+    "url": "https://www.comeet.com/jobs/exodigo/89.005/algorithm-developer/EF.273"
+  },
+  "dorked:comeet:Immunai:90.F67": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Immunai",
+    "experience_gaps": [
+      "Requires 5+ years (hands-on, industry experience working with ML models and evaluation pipelines - a must Proficiency in Python and modern ML ecosystems Ability to read, modify, and debug deep learning models Experienc); documented years_professional_ml=1",
+      "5+ years hands-on industry experience with ML models and evaluation pipelines"
+    ],
+    "first_seen": "2026-10-15T21:29:14.763868+00:00",
+    "last_action": "2026-10-15T21:29:14.763870+00:00",
+    "location": "Ramat Gan, Israel",
+    "policy_version": 2,
+    "reason": "Focuses on ML evaluation infrastructure and benchmarking tooling rather than core algorithm development or physical AI.",
+    "red_flags": [],
+    "score": 3.0,
+    "status": "discarded",
+    "title": "Senior ML Infra Engineer",
+    "url": "https://www.comeet.com/jobs/immunai/37.009/senior-ml-infra-engineer/90.F67"
+  },
+  "dorked:comeet:Immunai:F2.F61": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Immunai",
+    "experience_gaps": [
+      "Requires 5+ years (of hands-on, industry experience training deep learning models (e); documented years_professional_ml=1",
+      "Completed M.Sc. or Ph.D. degree",
+      "5+ years of hands-on industry experience training deep learning models"
+    ],
+    "first_seen": "2026-10-15T21:29:14.763863+00:00",
+    "last_action": "2026-10-15T21:29:14.763864+00:00",
+    "location": "Ramat Gan, Israel",
+    "policy_version": 2,
+    "reason": "Focuses on scRNA foundation models rather than robotics or physical AI, and mandates a completed graduate degree.",
+    "red_flags": [
+      "Requires a completed Ph.D. or completed M.Sc. with no accepted alternative"
+    ],
+    "score": 4.0,
+    "status": "discarded",
+    "title": "Senior AI Researcher",
+    "url": "https://www.comeet.com/jobs/immunai/37.009/senior-ai-researcher/F2.F61"
+  },
+  "dorked:comeet:Maytronics:12.F63": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Maytronics",
+    "experience_gaps": [
+      "Requires 5+ years of hands-on embedded development experience in C and C++."
+    ],
+    "first_seen": "2026-10-15T21:29:14.763736+00:00",
+    "last_action": "2026-10-15T21:29:14.763738+00:00",
+    "location": "Israel - kibbutz Yizre'el, Israel",
+    "policy_version": 2,
+    "reason": "Strong alignment with embedded robotic logic, motion control, and multi-environment software development from the candidate's electromechanical background.",
+    "red_flags": [],
+    "score": 8.0,
+    "status": "manual_lead",
+    "title": "Embedded Software Engineer Robotics Platforms",
+    "url": "https://www.comeet.com/jobs/maytronics/E3.008/embedded-software-engineer-robotics-platforms/12.F63"
+  },
+  "dorked:comeet:Maytronics:C5.F61": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Maytronics",
+    "experience_gaps": [],
+    "first_seen": "2026-10-15T21:29:14.763789+00:00",
+    "last_action": "2026-10-15T21:29:14.763791+00:00",
+    "location": "Israel - kibbutz Yizre'el, Israel",
+    "policy_version": 2,
+    "reason": "Excellent match for SLAM, localization, sensor fusion, and robotics path optimization, mirroring the candidate's prior work at Beyon3D and Qtflow.",
+    "red_flags": [],
+    "score": 9.0,
+    "status": "manual_lead",
+    "title": "Senior Robotics Algorithm engineer",
+    "url": "https://www.comeet.com/jobs/maytronics/E3.008/senior-robotics-algorithm-engineer/C5.F61"
+  },
+  "dorked:comeet:Maytronics:C5.F6B": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Maytronics",
+    "experience_gaps": [],
+    "first_seen": "2026-10-15T21:29:14.763777+00:00",
+    "last_action": "2026-10-15T21:29:14.763779+00:00",
+    "location": "Israel - kibbutz Yizre'el, Israel",
+    "policy_version": 2,
+    "reason": "Good junior-level match for embedded robotics platforms, real-time operating systems, and C/C++ development.",
+    "red_flags": [],
+    "score": 8.0,
+    "status": "manual_lead",
+    "title": "Junior Embedded Software Engineer robotics platforms temporary",
+    "url": "https://www.comeet.com/jobs/maytronics/E3.008/junior-embedded-software-engineer-robotics-platforms-temporary/C5.F6B"
+  },
+  "dorked:comeet:Maytronics:D5.A63": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Maytronics",
+    "experience_gaps": [
+      "Requires at least 3 years of experience in algorithm development."
+    ],
+    "first_seen": "2026-10-15T21:29:14.763783+00:00",
+    "last_action": "2026-10-15T21:29:14.763785+00:00",
+    "location": "Israel - kibbutz Yizre'el, Israel",
+    "policy_version": 2,
+    "reason": "Solid fit for algorithm design and optimization applied to real-world robotic systems and machine learning data analysis.",
+    "red_flags": [],
+    "score": 8.0,
+    "status": "manual_lead",
+    "title": "Algorithm Engineer",
+    "url": "https://www.comeet.com/jobs/maytronics/E3.008/algorithm-engineer/D5.A63"
+  },
+  "dorked:comeet:Mentee Robotics:7E.956": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mentee Robotics",
+    "experience_gaps": [
+      "Direct experience training large multimodal/VLA or reinforcement learning models for humanoid robots"
+    ],
+    "first_seen": "2026-10-15T21:29:14.763874+00:00",
+    "last_action": "2026-10-15T21:29:14.763875+00:00",
+    "location": "Herzliya, Israel",
+    "policy_version": 2,
+    "reason": "Outstanding technical fit for Physical AI and humanoid robotics, directly aligning with the candidate's robotics background, deep learning skills, and PyTorch expertise.",
+    "red_flags": [],
+    "score": 10.0,
+    "status": "manual_lead",
+    "title": "AI Researcher",
+    "url": "https://www.comeet.com/jobs/mentee_robotics/6A.002/ai-researcher/7E.956"
+  },
+  "dorked:comeet:Samsung Research and Development Center Israel:81.470": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Samsung Research and Development Center Israel",
+    "experience_gaps": [],
+    "first_seen": "2026-10-15T21:29:14.763715+00:00",
+    "last_action": "2026-10-15T21:29:14.763717+00:00",
+    "location": "Samsung Israel R&D Center- SIRC, Israel",
+    "policy_version": 2,
+    "reason": "Requires 3 semesters remaining; expected graduation 2027-03",
+    "red_flags": [
+      "Requires 3 semesters remaining; expected graduation 2027-03"
+    ],
+    "score": 0,
+    "status": "discarded",
+    "title": "Algorithm Student",
+    "url": "https://www.comeet.com/jobs/samsung/D4.005/algorithm-student/81.470"
+  },
+  "dorked:comeet:Samsung Research and Development Center Israel:8D.272": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Samsung Research and Development Center Israel",
+    "experience_gaps": [
+      "Requires 3+ years of relevant industry experience in image processing/algorithms, whereas candidate has 1 year of professional ML experience."
+    ],
+    "first_seen": "2026-10-15T21:29:14.763686+00:00",
+    "last_action": "2026-10-15T21:29:14.763697+00:00",
+    "location": "Samsung Israel R&D Center- SIRC, Israel",
+    "policy_version": 2,
+    "reason": "Strong match for image processing, sensor algorithms, and Python/C++ development, aligning well with the candidate's engineering background.",
+    "red_flags": [],
+    "score": 7.0,
+    "status": "manual_lead",
+    "title": "Image Processing Algorithm Engineer",
+    "url": "https://www.comeet.com/jobs/samsung/D4.005/image-processing-algorithm-engineer/8D.272"
+  },
+  "dorked:comeet:Samsung Research and Development Center Israel:A3.E6B": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Samsung Research and Development Center Israel",
+    "experience_gaps": [
+      "Requires an M.Sc. or Ph.D. (M.Sc. is currently in progress, expected 2027)."
+    ],
+    "first_seen": "2026-10-15T21:29:14.763811+00:00",
+    "last_action": "2026-10-15T21:29:14.763813+00:00",
+    "location": "Samsung Israel R&D Center- SIRC, Israel",
+    "policy_version": 2,
+    "reason": "Highly relevant deep learning and computer vision algorithm role involving hardware acceleration, quantization, and neural network optimization.",
+    "red_flags": [],
+    "score": 8.0,
+    "status": "manual_lead",
+    "title": "Machine Learning & Computer Vision Algorithm Engineer",
+    "url": "https://www.comeet.com/jobs/samsung/D4.005/machine-learning--computer-vision-algorithm-engineer/A3.E6B"
+  },
+  "dorked:comeet:Samsung Research and Development Center Israel:F5.D67": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Samsung Research and Development Center Israel",
+    "experience_gaps": [],
+    "first_seen": "2026-10-15T21:29:14.763840+00:00",
+    "last_action": "2026-10-15T21:29:14.763842+00:00",
+    "location": "Samsung Israel R&D Center- SIRC, Israel",
+    "policy_version": 2,
+    "reason": "Requires a completed advanced degree; candidate M.Sc. is in progress: M.Sc / Ph.D in Computer Science, Electrical Engineering or a related field 5+ years of experience developing machine learning algorithms for production systems Experience developing machine learning models for time-series and tabular data Hands-on experience using AI tools and AI agents to support software development, research, debugging, documentation, and productivity Strong Python programming skills and experience with PyTorch Strong analytical and problem-solving skills Excellent communication skills",
+    "red_flags": [
+      "Requires a completed advanced degree; candidate M.Sc. is in progress: M.Sc / Ph.D in Computer Science, Electrical Engineering or a related field 5+ years of experience developing machine learning algorithms for production systems Experience developing machine learning models for time-series and tabular data Hands-on experience using AI tools and AI agents to support software development, research, debugging, documentation, and productivity Strong Python programming skills and experience with PyTorch Strong analytical and problem-solving skills Excellent communication skills"
+    ],
+    "score": 0,
+    "status": "discarded",
+    "title": "Machine Learning Engineer",
+    "url": "https://www.comeet.com/jobs/samsung/D4.005/machine-learning-engineer/F5.D67"
+  },
+  "dorked:comeet:UVeye:C2.B6C": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "UVeye",
+    "experience_gaps": [
+      "Requires 4+ years (of industry experience in the development, optimization, and deployment of Deep Learning Algorithms in production environments); documented years_professional_ml=1",
+      "Requires 4+ years of industry experience in deep learning algorithms."
+    ],
+    "first_seen": "2026-10-15T21:29:14.763751+00:00",
+    "last_action": "2026-10-15T21:29:14.763753+00:00",
+    "location": "Tel Aviv, Israel",
+    "policy_version": 2,
+    "reason": "Strong computer vision and deep learning role focused on production vision systems, fitting the candidate's M.Sc. ML specialization.",
+    "red_flags": [],
+    "score": 8.0,
+    "status": "manual_lead",
+    "title": "Senior Deep Learning Engineer",
+    "url": "https://www.comeet.com/jobs/uveye/92.00F/senior-deep-learning-engineer/C2.B6C"
+  },
+  "dorked:comeet:XTEND:2C.F6B": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "XTEND",
+    "experience_gaps": [
+      "Requires 3+ years in GNC or robotics fields; candidate has 3 years of robotics experience."
+    ],
+    "first_seen": "2026-10-15T21:29:14.763707+00:00",
+    "last_action": "2026-10-15T21:29:14.763709+00:00",
+    "location": "Tel-Aviv, Israel",
+    "policy_version": 2,
+    "reason": "Exceptional fit for drone guidance, motion planning, and autonomous systems, leveraging the candidate's strong background in robotics and control systems.",
+    "red_flags": [],
+    "score": 9.0,
+    "status": "manual_lead",
+    "title": "Senior Guidance Engineer",
+    "url": "https://www.comeet.com/jobs/xtend/85.00A/senior-guidance-engineer/2C.F6B"
+  },
   "dorked:d02688feb989bc66": {
     "company": "",
     "first_seen": "2026-09-20T15:48:31.185527+00:00",
@@ -4399,6 +4745,806 @@
     "status": "unscored",
     "title": "RINSE | REMOTE (US or Canada) or San Francisco, Los Angeles, Chicago, Boston, New York City, New Jersey, Seattle, Austin",
     "url": "https://news.ycombinator.com/item?id=49927692"
+  },
+  "dorked:mobileye:0029e8b1-bdf1-4d0a-9895-7b5ee22c4837": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "3+ years of dedicated experience in embedded/autonomous vehicle control system design"
+    ],
+    "first_seen": "2026-10-15T21:29:14.763965+00:00",
+    "last_action": "2026-10-15T21:29:14.763967+00:00",
+    "location": "Ramat Gan",
+    "policy_version": 2,
+    "reason": "Excellent fit matching the candidate's Mechanical Engineering degree, control systems background (PID/MPC/Simulink), and robotics experience.",
+    "red_flags": [],
+    "score": 9.0,
+    "status": "manual_lead",
+    "title": "Experienced Control Algorithms Engineer",
+    "url": "https://careers.mobileye.com/jobs/experienced-control-algorithms-engineer/0029e8b1-bdf1-4d0a-9895-7b5ee22c4837"
+  },
+  "dorked:mobileye:055a3a86-a6d4-42ae-a09c-8adb41c5b383": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "Requires 5+ years (of experience in algorithm development, machine learning, or AI research); documented years_professional_ml=1",
+      "Completed M.Sc. in a quantitative field",
+      "5+ years of experience in AI research / algorithm development"
+    ],
+    "first_seen": "2026-10-15T21:29:14.763945+00:00",
+    "last_action": "2026-10-15T21:29:14.763946+00:00",
+    "location": "Ramat Gan",
+    "policy_version": 2,
+    "reason": "Strong domain fit for decision-making and motion planning in autonomous driving, though asks for a completed quantitative M.Sc. and 5+ years research experience.",
+    "red_flags": [],
+    "score": 7.0,
+    "status": "manual_lead",
+    "title": "Algorithm Researcher \u2013 Autonomous Driving (CTO Group)",
+    "url": "https://careers.mobileye.com/jobs/algorithm-researcher-autonomous-driving-cto-group/055a3a86-a6d4-42ae-a09c-8adb41c5b383"
+  },
+  "dorked:mobileye:0786ba33-80e3-4c34-a25f-44b4c5d49723": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "Requires 2+ years (of practical experience developing computer vision or machine learning solutions using Python and frameworks such as PyTorch or TensorFlow \u2013 must); documented years_professional_ml=1",
+      "2+ years dedicated experience specifically developing computer vision algorithms in production"
+    ],
+    "first_seen": "2026-10-15T21:29:14.763907+00:00",
+    "last_action": "2026-10-15T21:29:14.763909+00:00",
+    "location": "Jerusalem",
+    "policy_version": 2,
+    "reason": "Strong alignment with Computer Vision and Robotics Algorithms for autonomous vehicle localization using deep learning and 3D geometry.",
+    "red_flags": [],
+    "score": 9.0,
+    "status": "manual_lead",
+    "title": "AI Algorithm Engineer - Vision Localization Group",
+    "url": "https://careers.mobileye.com/jobs/ai-algorithm-engineer-vision-localization-group/0786ba33-80e3-4c34-a25f-44b4c5d49723"
+  },
+  "dorked:mobileye:14e467d6-6412-479d-a827-fb9184522869": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "Requires 4+ years (of hands-on experience developing computer vision and deep learning systems); documented years_professional_ml=1",
+      "Requires 4+ years of hands-on experience developing computer vision and deep learning systems."
+    ],
+    "first_seen": "2026-10-15T21:29:14.764034+00:00",
+    "last_action": "2026-10-15T21:29:14.764036+00:00",
+    "location": "Ramat Gan",
+    "policy_version": 2,
+    "reason": "Highly relevant deep learning and object perception research role, though positioned as a senior position requiring an M.Sc./Ph.D.",
+    "red_flags": [],
+    "score": 8.0,
+    "status": "manual_lead",
+    "title": "Senior Algorithm Engineer - Objects Perception",
+    "url": "https://careers.mobileye.com/jobs/senior-algorithm-engineer-objects-perception/14e467d6-6412-479d-a827-fb9184522869"
+  },
+  "dorked:mobileye:20a11252-02b4-43c0-9449-6247fb6617fe": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "3+ years of dedicated experience in embedded/autonomous vehicle control system design"
+    ],
+    "first_seen": "2026-10-15T21:29:14.763970+00:00",
+    "last_action": "2026-10-15T21:29:14.763972+00:00",
+    "location": "Jerusalem",
+    "policy_version": 2,
+    "reason": "Excellent fit matching the candidate's Mechanical Engineering degree, control systems background (PID/MPC/Simulink), and robotics experience.",
+    "red_flags": [],
+    "score": 9.0,
+    "status": "manual_lead",
+    "title": "Experienced Control Algorithms Engineer",
+    "url": "https://careers.mobileye.com/jobs/experienced-control-algorithms-engineer/20a11252-02b4-43c0-9449-6247fb6617fe"
+  },
+  "dorked:mobileye:25f2cd2f-fbac-4101-b913-045cdc4458a3": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "Requires 4+ years in data engineering or backend/software engineering with production pipelines."
+    ],
+    "first_seen": "2026-10-15T21:29:14.764056+00:00",
+    "last_action": "2026-10-15T21:29:14.764057+00:00",
+    "location": "Jerusalem",
+    "policy_version": 2,
+    "reason": "Involves ML data curation, vision models, and 3D geometry tooling, leaning towards data engineering and infrastructure.",
+    "red_flags": [],
+    "score": 6.0,
+    "status": "manual_lead",
+    "title": "Senior ML Data Engineer",
+    "url": "https://careers.mobileye.com/jobs/senior-ml-data-engineer/25f2cd2f-fbac-4101-b913-045cdc4458a3"
+  },
+  "dorked:mobileye:2da0a061-36d1-4c97-b45e-17aee11fb49b": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "Requires 3+ years of professional C/C++ compiler or low-level firmware experience."
+    ],
+    "first_seen": "2026-10-15T21:29:14.763992+00:00",
+    "last_action": "2026-10-15T21:29:14.763993+00:00",
+    "location": "Haifa",
+    "policy_version": 2,
+    "reason": "Focused heavily on low-level compiler development and LLVM infrastructure rather than ML or robotics algorithms.",
+    "red_flags": [],
+    "score": 4.0,
+    "status": "discarded",
+    "title": "Experienced Deep Learning Optimization Engineer- Compilers Team",
+    "url": "https://careers.mobileye.com/jobs/experienced-deep-learning-optimization-engineer-compilers-team/2da0a061-36d1-4c97-b45e-17aee11fb49b"
+  },
+  "dorked:mobileye:331ce77a-8179-444a-924c-189f131afd50": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [],
+    "first_seen": "2026-10-15T21:29:14.763929+00:00",
+    "last_action": "2026-10-15T21:29:14.763930+00:00",
+    "location": "Haifa",
+    "policy_version": 2,
+    "reason": "Requires a completed advanced degree; candidate M.Sc. is in progress: M.Sc. or Ph.D. in Computer Science, Electrical Engineering, Applied Mathematics, Physics, or a related field.",
+    "red_flags": [
+      "Requires a completed advanced degree; candidate M.Sc. is in progress: M.Sc. or Ph.D. in Computer Science, Electrical Engineering, Applied Mathematics, Physics, or a related field."
+    ],
+    "score": 0,
+    "status": "discarded",
+    "title": "Algorithm Developer for Radar/Lidar Group",
+    "url": "https://careers.mobileye.com/jobs/algorithm-developer-for-radarlidar-group/331ce77a-8179-444a-924c-189f131afd50"
+  },
+  "dorked:mobileye:3934efbd-71a7-4c15-b552-167d73a1375d": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "5+ years of experience working with large production codebases in Python"
+    ],
+    "first_seen": "2026-10-15T21:29:14.763924+00:00",
+    "last_action": "2026-10-15T21:29:14.763925+00:00",
+    "location": "Jerusalem",
+    "policy_version": 2,
+    "reason": "Relevant match for geometric and signal processing algorithms, leveraging candidate's mechanical engineering math background and Python skills.",
+    "red_flags": [],
+    "score": 7.0,
+    "status": "manual_lead",
+    "title": "Algorithm Developer for Geometric Team",
+    "url": "https://careers.mobileye.com/jobs/algorithm-developer-for-geometric-team/3934efbd-71a7-4c15-b552-167d73a1375d"
+  },
+  "dorked:mobileye:3f688c83-654a-49c2-aa7e-d2636adfc6b0": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "Requires 3+ years (of hands-on experience developing deep learning solutions using Python and frameworks such as PyTorch); documented years_professional_ml=1",
+      "3+ years of hands-on experience developing deep learning solutions in PyTorch"
+    ],
+    "first_seen": "2026-10-15T21:29:14.763955+00:00",
+    "last_action": "2026-10-15T21:29:14.763956+00:00",
+    "location": "Jerusalem",
+    "policy_version": 2,
+    "reason": "Great fit for deep learning and perception algorithms using PyTorch and computer vision on autonomous driving datasets.",
+    "red_flags": [],
+    "score": 8.0,
+    "status": "manual_lead",
+    "title": "Deep Learning Algorithm Engineer - REM Semantics",
+    "url": "https://careers.mobileye.com/jobs/deep-learning-algorithm-engineer-rem-semantics/3f688c83-654a-49c2-aa7e-d2636adfc6b0"
+  },
+  "dorked:mobileye:4445a729-d5ec-4ae4-b1f6-5bea979b4dce": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "2+ years hands-on computer vision algorithm engineering experience"
+    ],
+    "first_seen": "2026-10-15T21:29:14.763918+00:00",
+    "last_action": "2026-10-15T21:29:14.763920+00:00",
+    "location": "Jerusalem",
+    "policy_version": 2,
+    "reason": "Good fit for computer vision algorithm development utilizing C++ and Python within an autonomous driving domain.",
+    "red_flags": [],
+    "score": 8.0,
+    "status": "manual_lead",
+    "title": "Algorithm Developer - Vision Algorithms",
+    "url": "https://careers.mobileye.com/jobs/algorithm-developer-vision-algorithms/4445a729-d5ec-4ae4-b1f6-5bea979b4dce"
+  },
+  "dorked:mobileye:48df21e2-84dd-42e7-9d55-f4121d444df8": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "Requires 3+ years (of hands-on experience developing deep learning algorithms, preferably in computer vision or perception for autonomous driving systems); documented years_professional_ml=1",
+      "Requires 3+ years of hands-on experience developing deep learning algorithms, exceeding candidate's current professional ML tenure."
+    ],
+    "first_seen": "2026-10-15T21:29:14.763981+00:00",
+    "last_action": "2026-10-15T21:29:14.763982+00:00",
+    "location": "Jerusalem",
+    "policy_version": 2,
+    "reason": "Strong match for computer vision and deep learning in autonomous driving, though it asks for 3+ years of specific DL experience.",
+    "red_flags": [],
+    "score": 8.0,
+    "status": "manual_lead",
+    "title": "Experienced Deep Learning Algorithm Developer - Road Team",
+    "url": "https://careers.mobileye.com/jobs/experienced-deep-learning-algorithm-developer-road-team/48df21e2-84dd-42e7-9d55-f4121d444df8"
+  },
+  "dorked:mobileye:5d044c94-826e-4685-853f-b70069e3f0a9": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "Requires 4+ years in data engineering or backend/software engineering with production pipelines."
+    ],
+    "first_seen": "2026-10-15T21:29:14.764061+00:00",
+    "last_action": "2026-10-15T21:29:14.764062+00:00",
+    "location": "Ramat Gan",
+    "policy_version": 2,
+    "reason": "Involves ML data curation, vision models, and 3D geometry tooling, leaning towards data engineering and infrastructure.",
+    "red_flags": [],
+    "score": 6.0,
+    "status": "manual_lead",
+    "title": "Senior ML Data Engineer",
+    "url": "https://careers.mobileye.com/jobs/senior-ml-data-engineer/5d044c94-826e-4685-853f-b70069e3f0a9"
+  },
+  "dorked:mobileye:6e32e4d7-2df4-4ff2-b404-a6dba0444e84": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "Requires 8+ years (of hands-on experience developing computer vision and deep learning systems); documented years_professional_ml=1",
+      "M.Sc. completion",
+      "8+ years of experience in computer vision and deep learning systems"
+    ],
+    "first_seen": "2026-10-15T21:29:14.763940+00:00",
+    "last_action": "2026-10-15T21:29:14.763941+00:00",
+    "location": "Ramat Gan",
+    "policy_version": 2,
+    "reason": "Exceptional technical alignment with computer vision and autonomous perception, though requires extensive senior experience and completed advanced degree.",
+    "red_flags": [],
+    "score": 7.0,
+    "status": "manual_lead",
+    "title": "Algorithm Engineer Senior Technical Expert - Objects Perception",
+    "url": "https://careers.mobileye.com/jobs/algorithm-engineer-senior-technical-expert-objects-perception/6e32e4d7-2df4-4ff2-b404-a6dba0444e84"
+  },
+  "dorked:mobileye:73a651f5-963c-447d-b0ae-b6c9ee06f684": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [],
+    "first_seen": "2026-10-15T21:29:14.764024+00:00",
+    "last_action": "2026-10-15T21:29:14.764026+00:00",
+    "location": "Ramat Gan",
+    "policy_version": 2,
+    "reason": "Requires a completed advanced degree; candidate M.Sc. is in progress: M.Sc. or Ph.D. in Computer Science, Electrical Engineering, or a related field.",
+    "red_flags": [
+      "Requires a completed advanced degree; candidate M.Sc. is in progress: M.Sc. or Ph.D. in Computer Science, Electrical Engineering, or a related field."
+    ],
+    "score": 0,
+    "status": "discarded",
+    "title": "Senior AI Researcher - Visual GenAI",
+    "url": "https://careers.mobileye.com/jobs/senior-ai-researcher-visual-genai/73a651f5-963c-447d-b0ae-b6c9ee06f684"
+  },
+  "dorked:mobileye:78d2b642-98cd-4eeb-893f-3662c46ae13c": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "Requires 3+ years of production software engineering experience in data systems."
+    ],
+    "first_seen": "2026-10-15T21:29:14.764003+00:00",
+    "last_action": "2026-10-15T21:29:14.764004+00:00",
+    "location": "Ramat Gan",
+    "policy_version": 2,
+    "reason": "Primarily a backend software engineering role for data systems and tooling rather than core ML, perception, or control.",
+    "red_flags": [],
+    "score": 3.0,
+    "status": "discarded",
+    "title": "Experienced Software Engineer - Data Systems & Tools",
+    "url": "https://careers.mobileye.com/jobs/experienced-software-engineer-data-systems-tools/78d2b642-98cd-4eeb-893f-3662c46ae13c"
+  },
+  "dorked:mobileye:7E.956": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [],
+    "first_seen": "2026-10-15T21:29:14.764083+00:00",
+    "last_action": "2026-10-15T21:29:14.764085+00:00",
+    "location": "Herzliya",
+    "policy_version": 2,
+    "reason": "Exceptional fit for Physical AI, robotics applications, deep learning, reinforcement learning, and PyTorch model deployment on physical robots.",
+    "red_flags": [],
+    "score": 10.0,
+    "status": "manual_lead",
+    "title": "AI Researcher",
+    "url": "https://careers.mobileye.com/jobs/ai-researcher/7E.956"
+  },
+  "dorked:mobileye:83eaec09-649e-4ea6-b6c8-ace482eb2f59": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [],
+    "first_seen": "2026-10-15T21:29:14.764013+00:00",
+    "last_action": "2026-10-15T21:29:14.764015+00:00",
+    "location": "Ramat Gan",
+    "policy_version": 2,
+    "reason": "Excellent fit combining computer vision, 3D geometry, deep learning, and localization for autonomous vehicles.",
+    "red_flags": [],
+    "score": 9.0,
+    "status": "manual_lead",
+    "title": "Outstanding Graduate Algorithm Developer - Vision Localization Group",
+    "url": "https://careers.mobileye.com/jobs/outstanding-graduate-algorithm-developer-vision-localization-group/83eaec09-649e-4ea6-b6c8-ace482eb2f59"
+  },
+  "dorked:mobileye:878a21c9-1159-4c3d-957d-d278de51b202": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "Requires 4+ years (of hands-on experience developing deep learning algorithms, preferably in computer vision or perception for autonomous driving systems); documented years_professional_ml=1",
+      "4+ years of experience developing deep learning algorithms for computer vision"
+    ],
+    "first_seen": "2026-10-15T21:29:14.763976+00:00",
+    "last_action": "2026-10-15T21:29:14.763977+00:00",
+    "location": "Ramat Gan",
+    "policy_version": 2,
+    "reason": "Strong match for deep learning and computer vision applied to autonomous driving lane perception.",
+    "red_flags": [],
+    "score": 8.0,
+    "status": "manual_lead",
+    "title": "Experienced Deep Learning Algorithm Developer",
+    "url": "https://careers.mobileye.com/jobs/experienced-deep-learning-algorithm-developer/878a21c9-1159-4c3d-957d-d278de51b202"
+  },
+  "dorked:mobileye:99456421-9f43-4f5b-98d1-4f2e0695ba04": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "Requires 5+ years (of experience in algorithm development, machine learning, or AI research); documented years_professional_ml=1",
+      "Completed M.Sc. in a quantitative field",
+      "5+ years of experience in AI research / algorithm development"
+    ],
+    "first_seen": "2026-10-15T21:29:14.763950+00:00",
+    "last_action": "2026-10-15T21:29:14.763951+00:00",
+    "location": "Jerusalem",
+    "policy_version": 2,
+    "reason": "Strong domain fit for decision-making and motion planning in autonomous driving, though asks for a completed quantitative M.Sc. and 5+ years research experience.",
+    "red_flags": [],
+    "score": 7.0,
+    "status": "manual_lead",
+    "title": "Algorithm Researcher \u2013 Autonomous Driving (CTO Group)",
+    "url": "https://careers.mobileye.com/jobs/algorithm-researcher-autonomous-driving-cto-group/99456421-9f43-4f5b-98d1-4f2e0695ba04"
+  },
+  "dorked:mobileye:998b921e-04c5-4aef-b86d-1c13d518e53c": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [],
+    "first_seen": "2026-10-15T21:29:14.764018+00:00",
+    "last_action": "2026-10-15T21:29:14.764020+00:00",
+    "location": "Jerusalem",
+    "policy_version": 2,
+    "reason": "Requires a completed advanced degree; candidate M.Sc. is in progress: M.Sc. or Ph.D. in Computer Science, Electrical Engineering, or a related\u00a0field.",
+    "red_flags": [
+      "Requires a completed advanced degree; candidate M.Sc. is in progress: M.Sc. or Ph.D. in Computer Science, Electrical Engineering, or a related\u00a0field."
+    ],
+    "score": 0,
+    "status": "discarded",
+    "title": "Reinforcement Learning Researcher | Learned-Policy Group",
+    "url": "https://careers.mobileye.com/jobs/reinforcement-learning-researcher-learnedpolicy-group/998b921e-04c5-4aef-b86d-1c13d518e53c"
+  },
+  "dorked:mobileye:9df72c7f-8ae9-420c-a024-c9a3f1cf2998": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "Requires 5+ years (experience in Neural Networks/Deep Learning); documented years_professional_ml=1",
+      "Requires 5+ years of experience in Neural Networks/Deep Learning."
+    ],
+    "first_seen": "2026-10-15T21:29:14.764050+00:00",
+    "last_action": "2026-10-15T21:29:14.764052+00:00",
+    "location": "Haifa",
+    "policy_version": 2,
+    "reason": "Great match for deep learning optimization, quantization, and PyTorch deployment, though asks for 5+ years of neural network experience.",
+    "red_flags": [],
+    "score": 8.0,
+    "status": "manual_lead",
+    "title": "Senior Deep Learning Software Engineer",
+    "url": "https://careers.mobileye.com/jobs/senior-deep-learning-software-engineer/9df72c7f-8ae9-420c-a024-c9a3f1cf2998"
+  },
+  "dorked:mobileye:ac5f0c5c-3652-478e-aa66-783f70af24b7": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "Requires 5+ years of experience in software development with embedded and/or real-time systems."
+    ],
+    "first_seen": "2026-10-15T21:29:14.764071+00:00",
+    "last_action": "2026-10-15T21:29:14.764073+00:00",
+    "location": "Jerusalem",
+    "policy_version": 2,
+    "reason": "Involves sensor infrastructure and integration for radar and lidar, utilizing C++ and Python.",
+    "red_flags": [],
+    "score": 5.0,
+    "status": "discarded",
+    "title": "Software Algorithms RT Engineer - Active Sensor Group",
+    "url": "https://careers.mobileye.com/jobs/software-algorithms-rt-engineer-active-sensor-group/ac5f0c5c-3652-478e-aa66-783f70af24b7"
+  },
+  "dorked:mobileye:ade97368-7948-4dbb-a574-1268ad41cbf0": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "Requires 4+ years in data engineering or backend software engineering with production pipelines."
+    ],
+    "first_seen": "2026-10-15T21:29:14.764040+00:00",
+    "last_action": "2026-10-15T21:29:14.764041+00:00",
+    "location": "Jerusalem",
+    "policy_version": 2,
+    "reason": "Involves ML data curation, vision-model embeddings, and 3D geometry, though focused heavily on data engineering infrastructure.",
+    "red_flags": [],
+    "score": 6.0,
+    "status": "manual_lead",
+    "title": "Senior Computer Vision Data Engineer",
+    "url": "https://careers.mobileye.com/jobs/senior-computer-vision-data-engineer/ade97368-7948-4dbb-a574-1268ad41cbf0"
+  },
+  "dorked:mobileye:aed812a3-0f66-4ec1-baf9-a0bbb4e9c8d2": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "Requires 4+ years (of hands-on experience developing deep learning algorithms in Python); documented years_professional_ml=1",
+      "Prefers a Ph.D. and requires 4+ years of hands-on deep learning experience."
+    ],
+    "first_seen": "2026-10-15T21:29:14.764045+00:00",
+    "last_action": "2026-10-15T21:29:14.764046+00:00",
+    "location": "Ramat Gan",
+    "policy_version": 2,
+    "reason": "Direct match for deep learning research and architecture design, though it prefers a Ph.D. or experienced M.Sc. candidate.",
+    "red_flags": [],
+    "score": 8.0,
+    "status": "manual_lead",
+    "title": "Senior Deep Learning Researcher",
+    "url": "https://careers.mobileye.com/jobs/senior-deep-learning-researcher/aed812a3-0f66-4ec1-baf9-a0bbb4e9c8d2"
+  },
+  "dorked:mobileye:b88433c6-bee5-47be-a91b-9bd8ebe50d00": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "Requires 5+ years (of experience in algorithm engineering using machine learning, deep learning, or neural networks); documented years_professional_ml=1",
+      "Requires 5+ years of experience in algorithm engineering using machine learning or deep learning."
+    ],
+    "first_seen": "2026-10-15T21:29:14.764030+00:00",
+    "last_action": "2026-10-15T21:29:14.764031+00:00",
+    "location": "Ramat Gan",
+    "policy_version": 2,
+    "reason": "Strong overlap in PyTorch and algorithm training pipelines, though it specifies 5+ years of algorithm engineering experience.",
+    "red_flags": [],
+    "score": 7.0,
+    "status": "manual_lead",
+    "title": "Senior Algorithm Engineer - Model Training & Optimization",
+    "url": "https://careers.mobileye.com/jobs/senior-algorithm-engineer-model-training-optimization/b88433c6-bee5-47be-a91b-9bd8ebe50d00"
+  },
+  "dorked:mobileye:b8c0334c-51c5-420f-8fb1-3f8bf641c9cb": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "Requires 5+ years of experience in software development with embedded and/or real-time systems."
+    ],
+    "first_seen": "2026-10-15T21:29:14.764077+00:00",
+    "last_action": "2026-10-15T21:29:14.764079+00:00",
+    "location": "Petah Tikva",
+    "policy_version": 2,
+    "reason": "Involves sensor infrastructure and integration for radar and lidar, utilizing C++ and Python.",
+    "red_flags": [],
+    "score": 5.0,
+    "status": "discarded",
+    "title": "Software Algorithms RT Engineer - Active Sensor Group",
+    "url": "https://careers.mobileye.com/jobs/software-algorithms-rt-engineer-active-sensor-group/b8c0334c-51c5-420f-8fb1-3f8bf641c9cb"
+  },
+  "dorked:mobileye:c14fbc4f-8047-421b-968f-a3b5bd2c5146": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [],
+    "first_seen": "2026-10-15T21:29:14.763935+00:00",
+    "last_action": "2026-10-15T21:29:14.763936+00:00",
+    "location": "Jerusalem",
+    "policy_version": 2,
+    "reason": "Requires a completed advanced degree; candidate M.Sc. is in progress: M.Sc. in Mathematics, Physics, or Computer Science.",
+    "red_flags": [
+      "Requires a completed advanced degree; candidate M.Sc. is in progress: M.Sc. in Mathematics, Physics, or Computer Science."
+    ],
+    "score": 0,
+    "status": "discarded",
+    "title": "Algorithm Developer for Radar/Lidar Group",
+    "url": "https://careers.mobileye.com/jobs/algorithm-developer-for-radarlidar-group/c14fbc4f-8047-421b-968f-a3b5bd2c5146"
+  },
+  "dorked:mobileye:cf198663-8759-4f08-96c3-e564aca85d8d": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "Requires 3+ years of production software engineering experience in data systems."
+    ],
+    "first_seen": "2026-10-15T21:29:14.764008+00:00",
+    "last_action": "2026-10-15T21:29:14.764009+00:00",
+    "location": "Jerusalem",
+    "policy_version": 2,
+    "reason": "Primarily a backend software engineering role for data systems and tooling rather than core ML, perception, or control.",
+    "red_flags": [],
+    "score": 3.0,
+    "status": "discarded",
+    "title": "Experienced Software Engineer - Data Systems & Tools",
+    "url": "https://careers.mobileye.com/jobs/experienced-software-engineer-data-systems-tools/cf198663-8759-4f08-96c3-e564aca85d8d"
+  },
+  "dorked:mobileye:d85072cf-3d47-4c42-a760-2c691af6093b": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "Requires 2+ years (of practical experience developing computer vision or machine learning solutions using Python and frameworks such as PyTorch or TensorFlow \u2013 must); documented years_professional_ml=1",
+      "2+ years dedicated experience specifically developing computer vision algorithms in production"
+    ],
+    "first_seen": "2026-10-15T21:29:14.763913+00:00",
+    "last_action": "2026-10-15T21:29:14.763914+00:00",
+    "location": "Ramat Gan",
+    "policy_version": 2,
+    "reason": "Excellent fit for computer vision, 3D geometry, and localization algorithms in autonomous driving using PyTorch and deep learning.",
+    "red_flags": [],
+    "score": 9.0,
+    "status": "manual_lead",
+    "title": "AI Algorithm Engineer - Vision Localization Group",
+    "url": "https://careers.mobileye.com/jobs/ai-algorithm-engineer-vision-localization-group/d85072cf-3d47-4c42-a760-2c691af6093b"
+  },
+  "dorked:mobileye:de4739b8-eda9-4262-ae5b-c3ee15d86a3c": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [],
+    "first_seen": "2026-10-15T21:29:14.763986+00:00",
+    "last_action": "2026-10-15T21:29:14.763988+00:00",
+    "location": "Jerusalem",
+    "policy_version": 2,
+    "reason": "Requires a completed advanced degree; candidate M.Sc. is in progress: M.Sc . in Computer Science, Electrical Engineering, or a related field.",
+    "red_flags": [
+      "Requires a completed advanced degree; candidate M.Sc. is in progress: M.Sc . in Computer Science, Electrical Engineering, or a related field."
+    ],
+    "score": 0,
+    "status": "discarded",
+    "title": "Experienced Deep Learning Algorithm Developer \u2013 Object Perception Group",
+    "url": "https://careers.mobileye.com/jobs/experienced-deep-learning-algorithm-developer-object-perception-group/de4739b8-eda9-4262-ae5b-c3ee15d86a3c"
+  },
+  "dorked:mobileye:e85566dc-9827-4058-a1d2-cc6a63f7e286": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [],
+    "first_seen": "2026-10-15T21:29:14.763997+00:00",
+    "last_action": "2026-10-15T21:29:14.763999+00:00",
+    "location": "Ramat Gan",
+    "policy_version": 2,
+    "reason": "Requires a completed advanced degree; candidate M.Sc. is in progress: M.Sc. in a relevant field (Machine Learning / Computer Vision / Robotics / similar).",
+    "red_flags": [
+      "Requires a completed advanced degree; candidate M.Sc. is in progress: M.Sc. in a relevant field (Machine Learning / Computer Vision / Robotics / similar)."
+    ],
+    "score": 0,
+    "status": "discarded",
+    "title": "Experienced Machine Learning Engineer",
+    "url": "https://careers.mobileye.com/jobs/experienced-machine-learning-engineer/e85566dc-9827-4058-a1d2-cc6a63f7e286"
+  },
+  "dorked:mobileye:e8c3725e-4403-4982-a458-587c6fa25b8f": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "Requires 4+ years (of hands-on experience developing deep learning algorithms in Python); documented years_professional_ml=1",
+      "Completed Ph.D. or M.Sc. degree",
+      "4+ years of experience developing deep learning algorithms"
+    ],
+    "first_seen": "2026-10-15T21:29:14.763960+00:00",
+    "last_action": "2026-10-15T21:29:14.763961+00:00",
+    "location": "Ramat Gan",
+    "policy_version": 2,
+    "reason": "Highly relevant deep learning topic for autonomous vehicles, but explicitly requires a completed Ph.D. or completed M.Sc. degree.",
+    "red_flags": [
+      "Requires a completed Ph.D. or completed M.Sc. with no accepted alternative"
+    ],
+    "score": 4.0,
+    "status": "discarded",
+    "title": "Deep Learning Researcher",
+    "url": "https://careers.mobileye.com/jobs/deep-learning-researcher/e8c3725e-4403-4982-a458-587c6fa25b8f"
+  },
+  "dorked:mobileye:f3de4dd1-fed7-4d16-825a-562746ccfe79": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "Requires at least 5 years of hands-on experience developing production software in C++."
+    ],
+    "first_seen": "2026-10-15T21:29:14.764066+00:00",
+    "last_action": "2026-10-15T21:29:14.764067+00:00",
+    "location": "Jerusalem",
+    "policy_version": 2,
+    "reason": "Focuses heavily on C++ embedded systems, mapping infrastructure, and routing algorithms rather than machine learning.",
+    "red_flags": [],
+    "score": 5.0,
+    "status": "discarded",
+    "title": "Senior Software Engineer - C++ Embedded Systems (Autonomous Driving)",
+    "url": "https://careers.mobileye.com/jobs/senior-software-engineer-c-embedded-systems-autonomous-driving/f3de4dd1-fed7-4d16-825a-562746ccfe79"
+  },
+  "dorked:smartrecruiters:Wix2:744000132604976": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Wix",
+    "experience_gaps": [
+      "Completed Master's or Ph.D. degree with honors",
+      "5+ years of experience as a Research Scientist / Algorithm Developer"
+    ],
+    "first_seen": "2026-10-15T21:29:14.763885+00:00",
+    "last_action": "2026-10-15T21:29:14.763887+00:00",
+    "location": "Tel Aviv, Israel",
+    "policy_version": 2,
+    "reason": "Generative AI/LLM role for web applications requiring a completed graduate degree with honors, lacking robotics or computer vision focus.",
+    "red_flags": [
+      "Requires a completed Ph.D. or completed M.Sc. with no accepted alternative"
+    ],
+    "score": 3.0,
+    "status": "discarded",
+    "title": "AI Researcher - Foundation Models & Generative AI - Base44",
+    "url": "https://jobs.smartrecruiters.com/Wix2/744000132604976-ai-researcher-foundation-models-generative-ai-base44"
+  },
+  "dorked:workday:NVIDIA:JR2010238": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "NVIDIA",
+    "experience_gaps": [
+      "2+ years of hardware architecture and GPU performance analysis experience"
+    ],
+    "first_seen": "2026-10-15T21:29:14.763902+00:00",
+    "last_action": "2026-10-15T21:29:14.763903+00:00",
+    "location": "Israel, Yokneam",
+    "policy_version": 2,
+    "reason": "Hardware architecture role evaluating deep learning workloads on GPU systems rather than developing machine learning or robotics algorithms.",
+    "red_flags": [],
+    "score": 3.0,
+    "status": "discarded",
+    "title": "Hardware Architect, Deep Learning GPU and System",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Hardware-Architect--Deep-Learning-GPU-and-System_JR2010238"
+  },
+  "dorked:workday:NVIDIA:JR2013876": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "NVIDIA",
+    "experience_gaps": [
+      "Requires at least 3 years of relevant research experience with top-tier conference publications."
+    ],
+    "first_seen": "2026-10-15T21:29:14.763851+00:00",
+    "last_action": "2026-10-15T21:29:14.763853+00:00",
+    "location": "Israel, Tel Aviv",
+    "policy_version": 2,
+    "reason": "Cutting-edge deep learning research role specialized in diffusion models, requiring a completed Ph.D. or equivalent top-tier research track record.",
+    "red_flags": [
+      "Requires a completed Ph.D."
+    ],
+    "score": 5.0,
+    "status": "discarded",
+    "title": "Senior Deep Learning Researcher, Diffusion",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Deep-Learning-Researcher--Diffusion_JR2013876"
+  },
+  "dorked:workday:NVIDIA:JR2016711": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "NVIDIA",
+    "experience_gaps": [
+      "Requires 8+ years of hands-on experience in developing and deploying large-scale deep learning models."
+    ],
+    "first_seen": "2026-10-15T21:29:14.763742+00:00",
+    "last_action": "2026-10-15T21:29:14.763744+00:00",
+    "location": "Israel, Tel Aviv; Israel, Yokneam",
+    "policy_version": 2,
+    "reason": "Highly ambitious applied research role in digital biology requiring an advanced Ph.D. and extensive deep learning scaling experience.",
+    "red_flags": [
+      "Requires a completed Ph.D."
+    ],
+    "score": 5.0,
+    "status": "discarded",
+    "title": "Senior Applied AI Researcher, Digital Biology",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Applied-AI-Researcher--Digital-Biology_JR2016711-1"
+  },
+  "dorked:workday:NVIDIA:JR2017164": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "NVIDIA",
+    "experience_gaps": [
+      "8+ years of hardware architecture and GPU performance experience"
+    ],
+    "first_seen": "2026-10-15T21:29:14.763896+00:00",
+    "last_action": "2026-10-15T21:29:14.763898+00:00",
+    "location": "Israel, Yokneam",
+    "policy_version": 2,
+    "reason": "Hardware architecture role centered on GPU microarchitecture and hardware performance analysis rather than algorithm engineering.",
+    "red_flags": [],
+    "score": 2.0,
+    "status": "discarded",
+    "title": "Senior Hardware Architect, Deep Learning GPU and System",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Hardware-Architect--Deep-Learning-GPU-and-System_JR2017164"
+  },
+  "dorked:workday:NVIDIA:JR2017410": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "NVIDIA",
+    "experience_gaps": [
+      "Requires at least 5 years of relevant deep learning research experience."
+    ],
+    "first_seen": "2026-10-15T21:29:14.763857+00:00",
+    "last_action": "2026-10-15T21:29:14.763858+00:00",
+    "location": "Israel, Tel Aviv",
+    "policy_version": 2,
+    "reason": "Deep learning research role focused on LLM inference optimization, requiring strong systems and algorithmic background.",
+    "red_flags": [
+      "Requires a completed M.Sc. or Ph.D."
+    ],
+    "score": 6.0,
+    "status": "discarded",
+    "title": "Senior Deep Learning Researcher, LLM Inference",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Deep-Learning-Researcher--LLM-Inference_JR2017410-1"
+  },
+  "dorked:workday:NVIDIA:JR2017780": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "NVIDIA",
+    "experience_gaps": [
+      "5+ years of applied research or algorithm engineering experience",
+      "HPC GPU cluster LLM inference optimization experience (e.g. TensorRT-LLM, vLLM)"
+    ],
+    "first_seen": "2026-10-15T21:29:14.763891+00:00",
+    "last_action": "2026-10-15T21:29:14.763892+00:00",
+    "location": "Israel, Tel Aviv",
+    "policy_version": 2,
+    "reason": "Relevant deep learning role, but heavily emphasizes HPC systems-level LLM inference optimization rather than robotics or perception.",
+    "red_flags": [],
+    "score": 6.0,
+    "status": "manual_lead",
+    "title": "Senior Deep Learning Research Engineer, LLM Inference",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Deep-Learning-Research-Engineer--LLM-Inference_JR2017780"
+  },
+  "dorked:workday:NVIDIA:JR2019902": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "NVIDIA",
+    "experience_gaps": [
+      "12+ years of industry experience in GPU/computer architecture",
+      "C++ architectural modeling for hardware/ASIC design"
+    ],
+    "first_seen": "2026-10-15T21:29:14.763879+00:00",
+    "last_action": "2026-10-15T21:29:14.763881+00:00",
+    "location": "Israel, Tel Aviv; Israel, Raanana; Israel, Yokneam",
+    "policy_version": 2,
+    "reason": "Focuses on GPU microarchitecture and hardware ASIC design rather than AI model development or robotics algorithms.",
+    "red_flags": [],
+    "score": 2.0,
+    "status": "discarded",
+    "title": "Senior GPU Architect, Deep Learning",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-GPU-Architect--Deep-Learning_JR2019902"
+  },
+  "dorked:workday:NVIDIA:JR2024979": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "NVIDIA",
+    "experience_gaps": [
+      "Requires 5+ years of experience in software development or extensive data analytics."
+    ],
+    "first_seen": "2026-10-15T21:29:14.763823+00:00",
+    "last_action": "2026-10-15T21:29:14.763825+00:00",
+    "location": "Israel, Tel Aviv",
+    "policy_version": 2,
+    "reason": "Solutions Architect role focusing on enterprise customer engagement with GPU and Deep Learning software, rather than direct robotics/AI model research.",
+    "red_flags": [],
+    "score": 5.0,
+    "status": "discarded",
+    "title": "Senior Solutions Architect - Deep Learning",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Solutions-Architect---Deep-Learning_JR2024979"
   },
   "greenhouse:4282118005": {
     "company": "scaleai",
@@ -6866,6 +8012,24 @@
     "title": "Senior Software Engineer, Collision Avoidance Testing",
     "url": "https://nuro.ai/careersitem?gh_jid=7736159"
   },
+  "greenhouse:7738175003": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "bluevineisrael",
+    "experience_gaps": [
+      "Requires 5+ years of full-time software engineering experience in fintech/data environments."
+    ],
+    "first_seen": "2026-10-15T21:29:14.763795+00:00",
+    "last_action": "2026-10-15T21:29:14.763797+00:00",
+    "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+    "policy_version": 2,
+    "reason": "Focused on financial infrastructure, MLOps, and platform engineering rather than robotics, CV, or core physical AI.",
+    "red_flags": [],
+    "score": 3.0,
+    "status": "discarded",
+    "title": "Senior Machine Learning Engineer",
+    "url": "https://job-boards.greenhouse.io/bluevineisrael/jobs/7738175003"
+  },
   "greenhouse:7752003": {
     "company": "nuro",
     "first_seen": "2026-09-03T22:41:47.602274+00:00",
@@ -7667,6 +8831,24 @@
     "title": "Director, Revenue Accounting",
     "url": "https://job-boards.greenhouse.io/figure/jobs/8556834002"
   },
+  "greenhouse:8578429002": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "forter",
+    "experience_gaps": [
+      "Requires 8+ years of backend systems engineering experience."
+    ],
+    "first_seen": "2026-10-15T21:29:14.763846+00:00",
+    "last_action": "2026-10-15T21:29:14.763847+00:00",
+    "location": "Israel - Tel Aviv",
+    "policy_version": 2,
+    "reason": "Pure backend distributed systems and API infrastructure role with no direct relation to robotics, computer vision, or machine learning model development.",
+    "red_flags": [],
+    "score": 2.0,
+    "status": "discarded",
+    "title": "Senior Software Engineer ll, Core Engineering",
+    "url": "https://job-boards.greenhouse.io/forter/jobs/8578429002"
+  },
   "greenhouse:8594600002": {
     "company": "figure",
     "first_seen": "2026-09-15T11:29:13.451555+00:00",
@@ -7693,6 +8875,26 @@
     "status": "discarded",
     "title": "Director, Partnerships - Banks & Credit Unions",
     "url": "https://job-boards.greenhouse.io/figure/jobs/8675433002"
+  },
+  "greenhouse:8675737002": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "helloheart",
+    "experience_gaps": [
+      "Requires 4+ years (of software engineering experience, including 2+ years of hands-on MLOps, building and owning production ML infrastructure on AWS or GCP with a data or ML platform (e); documented years_professional_ml=1",
+      "Requires 2+ years (of hands-on MLOps, building and owning production ML infrastructure on AWS or GCP with a data or ML platform (e); documented years_professional_ml=1",
+      "Requires 4+ years of software engineering with 2+ years of hands-on MLOps."
+    ],
+    "first_seen": "2026-10-15T21:29:14.763723+00:00",
+    "last_action": "2026-10-15T21:29:14.763725+00:00",
+    "location": "Tel Aviv, Israel",
+    "policy_version": 2,
+    "reason": "Primarily focused on MLOps and production cloud infrastructure rather than core robotics, computer vision, or applied AI research.",
+    "red_flags": [],
+    "score": 3.0,
+    "status": "discarded",
+    "title": "Senior Machine Learning Engineer, MLOps",
+    "url": "https://job-boards.greenhouse.io/helloheart/jobs/8675737002"
   },
   "greenhouse:8687828002": {
     "company": "figure",
@@ -7756,6 +8958,27 @@
     "status": "discarded",
     "title": "Credit Risk Manager",
     "url": "https://job-boards.greenhouse.io/figure/jobs/8783449002"
+  },
+  "greenhouse:8786543002": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "riskified",
+    "experience_gaps": [
+      "Requires 6+ years (of hands-on experience designing, training, and deploying complex machine learning models in large-scale production environments); documented years_professional_ml=1",
+      "Requires 6+ years of hands-on machine learning experience in production."
+    ],
+    "first_seen": "2026-10-15T21:29:14.763817+00:00",
+    "last_action": "2026-10-15T21:29:14.763819+00:00",
+    "location": "Tel Aviv",
+    "policy_version": 2,
+    "reason": "Advanced data science role focusing on fraud prevention and identity graphs; requires senior graph neural network and large-scale data engineering background.",
+    "red_flags": [
+      "Requires a completed M.Sc. or Ph.D."
+    ],
+    "score": 5.0,
+    "status": "discarded",
+    "title": "Staff Data Scientist ",
+    "url": "https://www.riskified.com/careers/job-description/?gh_jid=8786543002"
   },
   "greenhouse:8796519002": {
     "company": "figure",
