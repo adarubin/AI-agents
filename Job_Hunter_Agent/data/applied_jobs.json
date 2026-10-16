@@ -5394,6 +5394,27 @@
     "title": "AI Researcher - Foundation Models & Generative AI - Base44",
     "url": "https://jobs.smartrecruiters.com/Wix2/744000132604976-ai-researcher-foundation-models-generative-ai-base44"
   },
+  "dorked:workday:NVIDIA:JR1997007": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "NVIDIA",
+    "experience_gaps": [
+      "Requires Ph.D. or equivalent senior research experience",
+      "Requires 3+ years of dedicated deep learning research experience with publications in top venues like NeurIPS, ICLR, CVPR"
+    ],
+    "first_seen": "2026-10-16T10:23:41.939104+00:00",
+    "last_action": "2026-10-16T10:23:41.939116+00:00",
+    "location": "Israel, Tel Aviv",
+    "policy_version": 2,
+    "reason": "Although the location matches Israel and the technical domain involves diffusion models, the role strictly requires a Ph.D. and a strong publication record in top AI venues, which far exceeds the candidate's current profile.",
+    "red_flags": [
+      "Requires a Ph.D. or equivalent extensive research publication track record"
+    ],
+    "score": 3.0,
+    "status": "discarded",
+    "title": "Senior Deep Learning Researcher, Diffusion",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Deep-Learning-Researcher--Diffusion_JR1997007-1"
+  },
   "dorked:workday:NVIDIA:JR2010238": {
     "apply_error": null,
     "bail_reason": null,
