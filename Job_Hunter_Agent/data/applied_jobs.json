@@ -4858,6 +4858,24 @@
     "title": "Senior ML Data Engineer",
     "url": "https://careers.mobileye.com/jobs/senior-ml-data-engineer/25f2cd2f-fbac-4101-b913-045cdc4458a3"
   },
+  "dorked:mobileye:2a8920e0-6dc6-48a8-b8b7-2f42f432e637": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "Requires B.Sc. specifically in Mathematics, Physics, or CS (candidate holds B.Sc. in Mechanical Engineering)"
+    ],
+    "first_seen": "2026-10-19T11:37:21.508944+00:00",
+    "last_action": "2026-10-19T11:37:21.508958+00:00",
+    "location": "Jerusalem",
+    "policy_version": 2,
+    "reason": "Strong domain match in Computer Vision and signal processing algorithms located in Israel, utilizing Python and C++. The candidate's background in Mechanical Engineering with ongoing M.Sc. in ML aligns well with the position's requirements.",
+    "red_flags": [],
+    "score": 8.5,
+    "status": "manual_lead",
+    "title": "Algorithm Developer for Objects Modeling",
+    "url": "https://careers.mobileye.com/jobs/algorithm-developer-for-objects-modeling/2a8920e0-6dc6-48a8-b8b7-2f42f432e637"
+  },
   "dorked:mobileye:2da0a061-36d1-4c97-b45e-17aee11fb49b": {
     "apply_error": null,
     "bail_reason": null,
