@@ -5278,6 +5278,24 @@
     "title": "Algorithm Developer for Radar/Lidar Group",
     "url": "https://careers.mobileye.com/jobs/algorithm-developer-for-radarlidar-group/c14fbc4f-8047-421b-968f-a3b5bd2c5146"
   },
+  "dorked:mobileye:c980d794-a1c8-41c3-ae2c-730e1260831e": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [],
+    "first_seen": "2026-10-22T10:53:45.163219+00:00",
+    "last_action": "2026-10-22T10:53:45.163231+00:00",
+    "location": "Ramat Gan",
+    "policy_version": 2,
+    "reason": "Requires a completed advanced degree; candidate M.Sc. is in progress: M.Sc. or Ph.D. in Computer Science, Electrical Engineering, or a related\u00a0field.",
+    "red_flags": [
+      "Requires a completed advanced degree; candidate M.Sc. is in progress: M.Sc. or Ph.D. in Computer Science, Electrical Engineering, or a related\u00a0field."
+    ],
+    "score": 0,
+    "status": "discarded",
+    "title": "Reinforcement Learning Researcher | Learned-Policy Group",
+    "url": "https://careers.mobileye.com/jobs/reinforcement-learning-researcher-learnedpolicy-group/c980d794-a1c8-41c3-ae2c-730e1260831e"
+  },
   "dorked:mobileye:cf198663-8759-4f08-96c3-e564aca85d8d": {
     "apply_error": null,
     "bail_reason": null,
@@ -5295,6 +5313,24 @@
     "status": "discarded",
     "title": "Experienced Software Engineer - Data Systems & Tools",
     "url": "https://careers.mobileye.com/jobs/experienced-software-engineer-data-systems-tools/cf198663-8759-4f08-96c3-e564aca85d8d"
+  },
+  "dorked:mobileye:cfd0e9f7-d62e-408b-90e5-91d3046d130e": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [],
+    "first_seen": "2026-10-22T10:53:45.163242+00:00",
+    "last_action": "2026-10-22T10:53:45.163244+00:00",
+    "location": "Haifa",
+    "policy_version": 2,
+    "reason": "Requires a completed advanced degree; candidate M.Sc. is in progress: M.Sc. or Ph.D. in Computer Science, Electrical Engineering, or a related\u00a0field.",
+    "red_flags": [
+      "Requires a completed advanced degree; candidate M.Sc. is in progress: M.Sc. or Ph.D. in Computer Science, Electrical Engineering, or a related\u00a0field."
+    ],
+    "score": 0,
+    "status": "discarded",
+    "title": "Reinforcement Learning Researcher | Learned-Policy Group",
+    "url": "https://careers.mobileye.com/jobs/reinforcement-learning-researcher-learnedpolicy-group/cfd0e9f7-d62e-408b-90e5-91d3046d130e"
   },
   "dorked:mobileye:d85072cf-3d47-4c42-a760-2c691af6093b": {
     "apply_error": null,
