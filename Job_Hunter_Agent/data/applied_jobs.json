@@ -3627,6 +3627,25 @@
     "title": "Computer Vision Engineer",
     "url": "https://www.comeet.com/jobs/exodigo/89.005/computer-vision-engineer/2E.171"
   },
+  "dorked:comeet:Exodigo:75.478": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Exodigo",
+    "experience_gaps": [
+      "Requires 4+ years (of hands-on experience building algorithmic, machine learning, or AI systems that shipped and were used in production); documented years_professional_ml=1",
+      "Requires 4+ years of experience building production ML/AI or algorithmic systems (candidate has 1 year of professional ML experience)."
+    ],
+    "first_seen": "2026-10-22T16:20:25.240455+00:00",
+    "last_action": "2026-10-22T16:20:25.240466+00:00",
+    "location": "Israel, Israel",
+    "policy_version": 2,
+    "reason": "Strong technical overlap with physical world sensor processing, 3D data, classical algorithms, and vision AI located in Israel. The role asks for 4+ years of production ML/algorithmic experience, which exceeds candidate's documented ML experience.",
+    "red_flags": [],
+    "score": 7.5,
+    "status": "manual_lead",
+    "title": "Algorithm Developer \u2013 Data Intelligence",
+    "url": "https://www.comeet.com/jobs/exodigo/89.005/algorithm-developer--data-intelligence/75.478"
+  },
   "dorked:comeet:Exodigo:9E.074": {
     "apply_error": null,
     "bail_reason": null,
@@ -5110,6 +5129,25 @@
     "status": "manual_lead",
     "title": "Experienced Deep Learning Algorithm Developer",
     "url": "https://careers.mobileye.com/jobs/experienced-deep-learning-algorithm-developer/878a21c9-1159-4c3d-957d-d278de51b202"
+  },
+  "dorked:mobileye:963a696d-bd85-445a-9481-f6ba1812b310": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "Requires 5+ years (of practical experience developing computer vision or machine learning solutions using Python and frameworks such as PyTorch or TensorFlow \u2013 must); documented years_professional_ml=1",
+      "Requires 5+ years of practical experience developing computer vision or ML solutions (candidate has 1 year of professional ML experience)."
+    ],
+    "first_seen": "2026-10-22T16:20:25.240476+00:00",
+    "last_action": "2026-10-22T16:20:25.240478+00:00",
+    "location": "Ramat Gan",
+    "policy_version": 2,
+    "reason": "Excellent match for autonomous vehicle perception, 3D computer vision, localization, and deep learning neural architectures in PyTorch. The candidate exceeds baseline education with a B.Sc. and ongoing M.Sc., but falls short of the 5+ years CV/ML experience requirement.",
+    "red_flags": [],
+    "score": 8.5,
+    "status": "manual_lead",
+    "title": "Senior AI Algorithm Engineer - Vision Localization Group",
+    "url": "https://careers.mobileye.com/jobs/senior-ai-algorithm-engineer-vision-localization-group/963a696d-bd85-445a-9481-f6ba1812b310"
   },
   "dorked:mobileye:99456421-9f43-4f5b-98d1-4f2e0695ba04": {
     "apply_error": null,
