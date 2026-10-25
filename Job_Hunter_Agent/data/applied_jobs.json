@@ -5042,6 +5042,27 @@
     "title": "Senior ML Data Engineer",
     "url": "https://careers.mobileye.com/jobs/senior-ml-data-engineer/5d044c94-826e-4685-853f-b70069e3f0a9"
   },
+  "dorked:mobileye:5f2f6179-1784-48cc-bd30-4571ea29aba9": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "Requires 5+ years (of industry experience in Deep Learning and Computer Vision, preferably working on generative AI or foundation models); documented years_professional_ml=1",
+      "Requires 5+ years of deep learning industry experience vs candidate's 1 year of professional ML experience."
+    ],
+    "first_seen": "2026-10-25T15:18:22.366342+00:00",
+    "last_action": "2026-10-25T15:18:22.366344+00:00",
+    "location": "Ramat Gan",
+    "policy_version": 2,
+    "reason": "Requires a completed Ph.D. or completed M.Sc. in GenAI plus 5+ years of DL/CV experience for a senior research position. Candidate's M.Sc. is in progress and candidate lacks the required completed advanced degree.",
+    "red_flags": [
+      "Requires a completed Ph.D. or completed M.Sc. with no accepted alternative for non-degree holders"
+    ],
+    "score": 3.0,
+    "status": "discarded",
+    "title": "Visual GenAI Research Expert",
+    "url": "https://careers.mobileye.com/jobs/visual-genai-research-expert/5f2f6179-1784-48cc-bd30-4571ea29aba9"
+  },
   "dorked:mobileye:6e32e4d7-2df4-4ff2-b404-a6dba0444e84": {
     "apply_error": null,
     "bail_reason": null,
@@ -5352,6 +5373,24 @@
     "status": "discarded",
     "title": "Algorithm Developer for Radar/Lidar Group",
     "url": "https://careers.mobileye.com/jobs/algorithm-developer-for-radarlidar-group/c14fbc4f-8047-421b-968f-a3b5bd2c5146"
+  },
+  "dorked:mobileye:c359a528-8058-4393-818b-52e162418a58": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "Candidate has 1 year of professional ML experience vs direct algorithm development experience."
+    ],
+    "first_seen": "2026-10-25T15:18:22.366320+00:00",
+    "last_action": "2026-10-25T15:18:22.366333+00:00",
+    "location": "Ramat Gan",
+    "policy_version": 2,
+    "reason": "Strong technical match with candidate's computer vision and deep learning coursework and Python/PyTorch skillset. Job is based in Israel at candidate's current employer.",
+    "red_flags": [],
+    "score": 9.0,
+    "status": "manual_lead",
+    "title": "Deep Learning Algorithm Developer",
+    "url": "https://careers.mobileye.com/jobs/deep-learning-algorithm-developer/c359a528-8058-4393-818b-52e162418a58"
   },
   "dorked:mobileye:c980d794-a1c8-41c3-ae2c-730e1260831e": {
     "apply_error": null,
