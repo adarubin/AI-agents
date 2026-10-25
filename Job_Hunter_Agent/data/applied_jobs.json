@@ -4822,6 +4822,25 @@
     "title": "AI Algorithm Engineer - Vision Localization Group",
     "url": "https://careers.mobileye.com/jobs/ai-algorithm-engineer-vision-localization-group/0786ba33-80e3-4c34-a25f-44b4c5d49723"
   },
+  "dorked:mobileye:0d17f0b5-29db-4e7e-8688-08f69d91ad0f": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "4+ years of data engineering experience",
+      "Experience with Spark, SQL, and PyArrow for distributed data pipelines"
+    ],
+    "first_seen": "2026-10-25T10:26:37.784087+00:00",
+    "last_action": "2026-10-25T10:26:37.784088+00:00",
+    "location": "Ramat Gan",
+    "policy_version": 2,
+    "reason": "This role focuses on ML data pipelines and infrastructure supporting 3D perception rather than direct algorithm or deep learning model development. Additionally, the role asks for 4+ years of software/data engineering experience with Spark and PyArrow.",
+    "red_flags": [],
+    "score": 5.0,
+    "status": "discarded",
+    "title": "Senior Data & ML Engineer - 3D Perception Team",
+    "url": "https://careers.mobileye.com/jobs/senior-data-ml-engineer-3d-perception-team/0d17f0b5-29db-4e7e-8688-08f69d91ad0f"
+  },
   "dorked:mobileye:14e467d6-6412-479d-a827-fb9184522869": {
     "apply_error": null,
     "bail_reason": null,
@@ -5129,6 +5148,24 @@
     "status": "manual_lead",
     "title": "Experienced Deep Learning Algorithm Developer",
     "url": "https://careers.mobileye.com/jobs/experienced-deep-learning-algorithm-developer/878a21c9-1159-4c3d-957d-d278de51b202"
+  },
+  "dorked:mobileye:8b04e895-56c8-453d-a810-7311ed7f823f": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [],
+    "first_seen": "2026-10-25T10:26:37.784071+00:00",
+    "last_action": "2026-10-25T10:26:37.784080+00:00",
+    "location": "Ramat Gan",
+    "policy_version": 2,
+    "reason": "Requires a completed advanced degree; candidate M.Sc. is in progress: M.Sc. in Computer Science or a related field.",
+    "red_flags": [
+      "Requires a completed advanced degree; candidate M.Sc. is in progress: M.Sc. in Computer Science or a related field."
+    ],
+    "score": 0,
+    "status": "discarded",
+    "title": "Experienced Deep Learning Algorithm Developer - 3D Perception Team",
+    "url": "https://careers.mobileye.com/jobs/experienced-deep-learning-algorithm-developer-3d-perception-team/8b04e895-56c8-453d-a810-7311ed7f823f"
   },
   "dorked:mobileye:963a696d-bd85-445a-9481-f6ba1812b310": {
     "apply_error": null,
