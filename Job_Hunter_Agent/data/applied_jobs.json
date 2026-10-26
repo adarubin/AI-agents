@@ -3792,6 +3792,26 @@
     "title": "Algorithm Engineer",
     "url": "https://www.comeet.com/jobs/maytronics/E3.008/algorithm-engineer/D5.A63"
   },
+  "dorked:comeet:Mentee Robotics:37.47B": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mentee Robotics",
+    "experience_gaps": [
+      "Requires 4+ years (of hands-on experience in machine learning, computer vision, or robotics software engineering); documented years_professional_ml=1",
+      "Asks for 4+ years hands-on ML/CV/robotics software engineering (candidate has 1 year ML and 3 years robotics engineering)",
+      "Requests experience building distributed agentic LLM/VLM systems or 3D Gaussian splatting pipelines in production"
+    ],
+    "first_seen": "2026-10-26T17:58:41.333508+00:00",
+    "last_action": "2026-10-26T17:58:41.333517+00:00",
+    "location": "Herzliya, Israel",
+    "policy_version": 2,
+    "reason": "Outstanding technical alignment with Physical AI, humanoid robotics, 3D computer vision, and deep learning pipelines. The candidate's robotics background, ROS experience, and PyTorch coursework make this a strong stretch fit.",
+    "red_flags": [],
+    "score": 9.0,
+    "status": "manual_lead",
+    "title": "AI Engineer",
+    "url": "https://www.comeet.com/jobs/mentee_robotics/6A.002/ai-engineer/37.47B"
+  },
   "dorked:comeet:Mentee Robotics:7E.956": {
     "apply_error": null,
     "bail_reason": null,
@@ -4968,6 +4988,26 @@
     "title": "Algorithm Developer for Radar/Lidar Group",
     "url": "https://careers.mobileye.com/jobs/algorithm-developer-for-radarlidar-group/331ce77a-8179-444a-924c-189f131afd50"
   },
+  "dorked:mobileye:37.47B": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "Requires 4+ years (of hands-on experience in machine learning, computer vision, or robotics software engineering); documented years_professional_ml=1",
+      "Asks for 4+ years hands-on ML/CV/robotics software engineering (candidate has 1 year ML and 3 years robotics engineering)",
+      "Requests experience building distributed agentic LLM/VLM systems or 3D Gaussian splatting pipelines in production"
+    ],
+    "first_seen": "2026-10-26T17:58:41.333531+00:00",
+    "last_action": "2026-10-26T17:58:41.333533+00:00",
+    "location": "Herzliya",
+    "policy_version": 2,
+    "reason": "Identical listing to Mentee Robotics AI Engineer post, offering exceptional alignment with Physical AI, embodied robotics, and deep learning. Candidate's robotics/control background directly supports these responsibilities.",
+    "red_flags": [],
+    "score": 9.0,
+    "status": "manual_lead",
+    "title": "AI Engineer",
+    "url": "https://careers.mobileye.com/jobs/ai-engineer/37.47B"
+  },
   "dorked:mobileye:3934efbd-71a7-4c15-b552-167d73a1375d": {
     "apply_error": null,
     "bail_reason": null,
@@ -5373,6 +5413,24 @@
     "status": "discarded",
     "title": "Software Algorithms RT Engineer - Active Sensor Group",
     "url": "https://careers.mobileye.com/jobs/software-algorithms-rt-engineer-active-sensor-group/b8c0334c-51c5-420f-8fb1-3f8bf641c9cb"
+  },
+  "dorked:mobileye:be730214-2c22-4acf-aff9-422fb6823f3e": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [],
+    "first_seen": "2026-10-26T17:58:41.333525+00:00",
+    "last_action": "2026-10-26T17:58:41.333526+00:00",
+    "location": "Jerusalem",
+    "policy_version": 2,
+    "reason": "Requires a completed advanced degree; candidate M.Sc. is in progress: M.Sc. in a relevant field (Machine Learning / Computer Vision / Robotics / similar) - Must",
+    "red_flags": [
+      "Requires a completed advanced degree; candidate M.Sc. is in progress: M.Sc. in a relevant field (Machine Learning / Computer Vision / Robotics / similar) - Must"
+    ],
+    "score": 0,
+    "status": "discarded",
+    "title": "Deep Learning Algorithm Developer - M.Sc. Graduate",
+    "url": "https://careers.mobileye.com/jobs/deep-learning-algorithm-developer-msc-graduate/be730214-2c22-4acf-aff9-422fb6823f3e"
   },
   "dorked:mobileye:c14fbc4f-8047-421b-968f-a3b5bd2c5146": {
     "apply_error": null,
