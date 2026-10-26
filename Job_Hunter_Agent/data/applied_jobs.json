@@ -3864,6 +3864,24 @@
     "title": "Machine Learning & Computer Vision Algorithm Engineer",
     "url": "https://www.comeet.com/jobs/samsung/D4.005/machine-learning--computer-vision-algorithm-engineer/A3.E6B"
   },
+  "dorked:comeet:Samsung Research and Development Center Israel:D0.479": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Samsung Research and Development Center Israel",
+    "experience_gaps": [],
+    "first_seen": "2026-10-26T12:09:10.856834+00:00",
+    "last_action": "2026-10-26T12:09:10.856848+00:00",
+    "location": "Samsung Israel R&D Center- SIRC, Israel",
+    "policy_version": 2,
+    "reason": "Requires a completed advanced degree; candidate M.Sc. is in progress: M.Sc / Ph.D in Computer Science, Electrical Engineering or a related field 5+ years of experience developing machine learning algorithms for production systems Experience developing machine learning models for time-series and tabular data Hands-on experience using AI tools and AI agents to support software development, research, debugging, documentation, and productivity Strong Python programming skills and experience with PyTorch Strong analytical and problem-solving skills Excellent communication skills",
+    "red_flags": [
+      "Requires a completed advanced degree; candidate M.Sc. is in progress: M.Sc / Ph.D in Computer Science, Electrical Engineering or a related field 5+ years of experience developing machine learning algorithms for production systems Experience developing machine learning models for time-series and tabular data Hands-on experience using AI tools and AI agents to support software development, research, debugging, documentation, and productivity Strong Python programming skills and experience with PyTorch Strong analytical and problem-solving skills Excellent communication skills"
+    ],
+    "score": 0,
+    "status": "discarded",
+    "title": "Sub Contractor Machine Learning Engineer",
+    "url": "https://www.comeet.com/jobs/samsung/D4.005/sub-contractor-machine-learning-engineer/D0.479"
+  },
   "dorked:comeet:Samsung Research and Development Center Israel:F5.D67": {
     "apply_error": null,
     "bail_reason": null,
@@ -9046,6 +9064,26 @@
     "status": "discarded",
     "title": "Senior Manager of SEC Reporting & Technical Accounting ",
     "url": "https://job-boards.greenhouse.io/figure/jobs/8594600002"
+  },
+  "greenhouse:8653104002": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "riskified",
+    "experience_gaps": [
+      "Requires 2+ years (of industry experience developing and deploying machine learning models in production environments); documented years_professional_ml=1",
+      "Requires a completed M.Sc. degree",
+      "Requires 2+ years of production ML experience in fintech/fraud detection"
+    ],
+    "first_seen": "2026-10-26T12:09:10.856859+00:00",
+    "last_action": "2026-10-26T12:09:10.856861+00:00",
+    "location": "Tel Aviv",
+    "policy_version": 2,
+    "reason": "This is a standard fintech fraud detection Data Science role focused on tabular data and e-commerce risk. It falls outside the candidate's core target families of robotics, physical AI, computer vision, and deep learning engineering.",
+    "red_flags": [],
+    "score": 3.0,
+    "status": "discarded",
+    "title": "Data Scientist ",
+    "url": "https://www.riskified.com/careers/job-description/?gh_jid=8653104002"
   },
   "greenhouse:8672260002": {
     "company": "figure",
