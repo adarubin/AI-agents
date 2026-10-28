@@ -4898,6 +4898,25 @@
     "title": "Senior Algorithm Engineer - Objects Perception",
     "url": "https://careers.mobileye.com/jobs/senior-algorithm-engineer-objects-perception/14e467d6-6412-479d-a827-fb9184522869"
   },
+  "dorked:mobileye:1e12a744-eebb-45a4-b4e0-22555c82e0c2": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "2+ years in dedicated software/data engineering pipelines",
+      "Experience with Spark, SQL, and PyArrow"
+    ],
+    "first_seen": "2026-10-28T11:52:59.667798+00:00",
+    "last_action": "2026-10-28T11:52:59.667800+00:00",
+    "location": "Ramat Gan",
+    "policy_version": 2,
+    "reason": "Directly touches 3D perception and autonomous driving multi-camera deep learning pipelines at Mobileye. While focused on data and evaluation infrastructure, it closely supports deep learning researchers and geometric CV data workflows.",
+    "red_flags": [],
+    "score": 7.0,
+    "status": "manual_lead",
+    "title": "Data & ML Engineer",
+    "url": "https://careers.mobileye.com/jobs/data-ml-engineer/1e12a744-eebb-45a4-b4e0-22555c82e0c2"
+  },
   "dorked:mobileye:20a11252-02b4-43c0-9449-6247fb6617fe": {
     "apply_error": null,
     "bail_reason": null,
@@ -5810,6 +5829,43 @@
     "status": "discarded",
     "title": "Senior Solutions Architect - Deep Learning",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Solutions-Architect---Deep-Learning_JR2024979"
+  },
+  "dorked:workday:NVIDIA:JR2028775": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "NVIDIA",
+    "experience_gaps": [
+      "5+ years experience in user space libraries, OS drivers, and low-level C/C++/Rust development"
+    ],
+    "first_seen": "2026-10-28T11:52:59.667772+00:00",
+    "last_action": "2026-10-28T11:52:59.667783+00:00",
+    "location": "Israel, Tel Aviv",
+    "policy_version": 2,
+    "reason": "Focuses on low-level OS, drivers, and CUDA system architecture rather than model development, computer vision, or robotics algorithms. It is primarily a systems engineering infrastructure role.",
+    "red_flags": [],
+    "score": 3.0,
+    "status": "discarded",
+    "title": "Senior Systems Software Engineer",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Systems-Software-Engineer_JR2028775"
+  },
+  "dorked:workday:NVIDIA:JR2028811": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "NVIDIA",
+    "experience_gaps": [
+      "8+ years backend engineering experience",
+      "Deep Go and Kubernetes internal architecture experience"
+    ],
+    "first_seen": "2026-10-28T11:52:59.667791+00:00",
+    "last_action": "2026-10-28T11:52:59.667793+00:00",
+    "location": "Israel, Tel Aviv",
+    "policy_version": 2,
+    "reason": "Targeted at cloud-native infrastructure, Kubernetes controllers, and Go backend services, lacking direct involvement with ML models, perception, or physical AI.",
+    "red_flags": [],
+    "score": 2.0,
+    "status": "discarded",
+    "title": "Senior Software Engineer, AI Infrastructure",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Software-Engineer--AI-Infrastructure_JR2028811"
   },
   "greenhouse:4282118005": {
     "company": "scaleai",
