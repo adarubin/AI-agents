@@ -5082,6 +5082,24 @@
     "title": "Algorithm Developer - Vision Algorithms",
     "url": "https://careers.mobileye.com/jobs/algorithm-developer-vision-algorithms/4445a729-d5ec-4ae4-b1f6-5bea979b4dce"
   },
+  "dorked:mobileye:48bc6d00-8668-41e4-803d-22fe7c74fcf8": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "Requires 2+ years of dedicated DL algorithm development experience (candidate has ~1 year ML experience)."
+    ],
+    "first_seen": "2026-10-28T17:41:21.794852+00:00",
+    "last_action": "2026-10-28T17:41:21.794862+00:00",
+    "location": "Ramat Gan",
+    "policy_version": 2,
+    "reason": "Strong match for target Deep Learning Engineer and Computer Vision role families located in Israel. Requires 2+ years DL experience, whereas candidate has 1 year ML experience and an in-progress M.Sc.",
+    "red_flags": [],
+    "score": 8.5,
+    "status": "manual_lead",
+    "title": "Deep Learning Algorithm Developer - SUN",
+    "url": "https://careers.mobileye.com/jobs/deep-learning-algorithm-developer-sun/48bc6d00-8668-41e4-803d-22fe7c74fcf8"
+  },
   "dorked:mobileye:48df21e2-84dd-42e7-9d55-f4121d444df8": {
     "apply_error": null,
     "bail_reason": null,
