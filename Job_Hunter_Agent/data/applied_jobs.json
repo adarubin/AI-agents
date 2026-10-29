@@ -5007,6 +5007,24 @@
     "title": "Algorithm Developer for Radar/Lidar Group",
     "url": "https://careers.mobileye.com/jobs/algorithm-developer-for-radarlidar-group/331ce77a-8179-444a-924c-189f131afd50"
   },
+  "dorked:mobileye:33ea9cd2-d1b8-41a2-bdec-d71659de14f7": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "Requires 5+ years of experience in algorithm development or software engineering (candidate has 6 years total professional experience, with ~1 year in ML)."
+    ],
+    "first_seen": "2026-10-29T12:00:00.648752+00:00",
+    "last_action": "2026-10-29T12:00:00.648764+00:00",
+    "location": "Jerusalem",
+    "policy_version": 2,
+    "reason": "The role directly involves autonomous driving algorithms, computer vision, and machine learning validation tools matching the candidate's core expertise. Despite being titled 'Experienced', the candidate's relevant background and internal familiarity make this a strong fit.",
+    "red_flags": [],
+    "score": 8.0,
+    "status": "manual_lead",
+    "title": "Experienced Algorithm & Software Engineer",
+    "url": "https://careers.mobileye.com/jobs/experienced-algorithm-software-engineer/33ea9cd2-d1b8-41a2-bdec-d71659de14f7"
+  },
   "dorked:mobileye:37.47B": {
     "apply_error": null,
     "bail_reason": null,
