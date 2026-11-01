@@ -4898,6 +4898,24 @@
     "title": "Senior Algorithm Engineer - Objects Perception",
     "url": "https://careers.mobileye.com/jobs/senior-algorithm-engineer-objects-perception/14e467d6-6412-479d-a827-fb9184522869"
   },
+  "dorked:mobileye:1b3f71b9-fe39-41d3-bd43-4ae7ad18f92e": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "Hands-on experience with MLOps infrastructure tools like Kubernetes, Docker, and distributed model serving frameworks"
+    ],
+    "first_seen": "2026-11-01T12:22:12.507346+00:00",
+    "last_action": "2026-11-01T12:22:12.507360+00:00",
+    "location": "Jerusalem",
+    "policy_version": 2,
+    "reason": "The role focuses heavily on MLOps, model serving, and infrastructure deployment rather than algorithm or model development. While located in Israel and using Python, ML platform infrastructure roles are not primary target fits.",
+    "red_flags": [],
+    "score": 4.0,
+    "status": "discarded",
+    "title": "Machine Learning Software Engineer",
+    "url": "https://careers.mobileye.com/jobs/machine-learning-software-engineer/1b3f71b9-fe39-41d3-bd43-4ae7ad18f92e"
+  },
   "dorked:mobileye:1e12a744-eebb-45a4-b4e0-22555c82e0c2": {
     "apply_error": null,
     "bail_reason": null,
@@ -5195,6 +5213,24 @@
     "status": "manual_lead",
     "title": "Algorithm Engineer Senior Technical Expert - Objects Perception",
     "url": "https://careers.mobileye.com/jobs/algorithm-engineer-senior-technical-expert-objects-perception/6e32e4d7-2df4-4ff2-b404-a6dba0444e84"
+  },
+  "dorked:mobileye:72e986e2-94b4-49f6-be5f-74a48de8a71d": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "Hands-on experience with MLOps infrastructure tools like Kubernetes, Docker, and distributed model serving frameworks"
+    ],
+    "first_seen": "2026-11-01T12:22:12.507372+00:00",
+    "last_action": "2026-11-01T12:22:12.507373+00:00",
+    "location": "Ramat Gan",
+    "policy_version": 2,
+    "reason": "This posting focuses on deployment pipelines and MLOps infrastructure rather than core AI model or algorithm creation. While in Israel and using Python, it is primarily an infrastructure role.",
+    "red_flags": [],
+    "score": 4.0,
+    "status": "discarded",
+    "title": "Machine Learning Software Engineer",
+    "url": "https://careers.mobileye.com/jobs/machine-learning-software-engineer/72e986e2-94b4-49f6-be5f-74a48de8a71d"
   },
   "dorked:mobileye:73a651f5-963c-447d-b0ae-b6c9ee06f684": {
     "apply_error": null,
