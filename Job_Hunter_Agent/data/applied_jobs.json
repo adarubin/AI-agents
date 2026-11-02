@@ -5939,6 +5939,25 @@
     "title": "Senior Software Engineer, AI Infrastructure",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Software-Engineer--AI-Infrastructure_JR2028811"
   },
+  "dorked:workday:NVIDIA:JR2029061": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "NVIDIA",
+    "experience_gaps": [
+      "Requires 20+ years of industry experience in systems design and distributed systems",
+      "Requires CTO/Chief Scientist or equivalent senior technical leadership experience"
+    ],
+    "first_seen": "2026-11-02T14:16:42.417983+00:00",
+    "last_action": "2026-11-02T14:16:42.417993+00:00",
+    "location": "Israel, Raanana; Israel, Tel Aviv",
+    "policy_version": 2,
+    "reason": "This role is centered on large-scale distributed systems infrastructure, hardware-software co-design, and networking (RDMA/NVLink) rather than hands-on ML model research, computer vision, or robotics algorithms. It also targets executive/distinguished technical leadership.",
+    "red_flags": [],
+    "score": 3.0,
+    "status": "discarded",
+    "title": "Distinguished AI Researcher, Advanced Development Engineer",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/Distinguished-AI-Researcher--Advanced-Development-Engineer_JR2029061"
+  },
   "greenhouse:4282118005": {
     "company": "scaleai",
     "first_seen": "2026-09-03T22:41:47.602374+00:00",
