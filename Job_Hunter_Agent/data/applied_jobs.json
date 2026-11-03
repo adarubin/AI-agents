@@ -5650,6 +5650,24 @@
     "title": "Experienced Deep Learning Algorithm Developer \u2013 Object Perception Group",
     "url": "https://careers.mobileye.com/jobs/experienced-deep-learning-algorithm-developer-object-perception-group/de4739b8-eda9-4262-ae5b-c3ee15d86a3c"
   },
+  "dorked:mobileye:df0e4aa1-62ca-4774-b443-cc806a8d28ab": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [],
+    "first_seen": "2026-11-03T13:18:34.540383+00:00",
+    "last_action": "2026-11-03T13:18:34.540385+00:00",
+    "location": "Ramat Gan",
+    "policy_version": 2,
+    "reason": "Requires a completed advanced degree; candidate M.Sc. is in progress: M.Sc . or Ph.D. researching the field of Computer Vision, Deep Learning, or Machine Learning.",
+    "red_flags": [
+      "Requires a completed advanced degree; candidate M.Sc. is in progress: M.Sc . or Ph.D. researching the field of Computer Vision, Deep Learning, or Machine Learning."
+    ],
+    "score": 0,
+    "status": "discarded",
+    "title": "Deep Learning Algorithm Developer - Ground Truth",
+    "url": "https://careers.mobileye.com/jobs/deep-learning-algorithm-developer-ground-truth/df0e4aa1-62ca-4774-b443-cc806a8d28ab"
+  },
   "dorked:mobileye:e85566dc-9827-4058-a1d2-cc6a63f7e286": {
     "apply_error": null,
     "bail_reason": null,
@@ -5938,6 +5956,24 @@
     "status": "discarded",
     "title": "Senior Software Engineer, AI Infrastructure",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Software-Engineer--AI-Infrastructure_JR2028811"
+  },
+  "dorked:workday:NVIDIA:JR2028826": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "NVIDIA",
+    "experience_gaps": [
+      "2+ years of backend software development with Kubernetes and Go"
+    ],
+    "first_seen": "2026-11-03T13:18:34.540357+00:00",
+    "last_action": "2026-11-03T13:18:34.540372+00:00",
+    "location": "Israel, Tel Aviv",
+    "policy_version": 2,
+    "reason": "This is a cloud-native infrastructure role focused on Kubernetes and Go for GPU cluster orchestration. It lacks model/algorithm development, robotics, computer vision, or control systems work.",
+    "red_flags": [],
+    "score": 2.0,
+    "status": "discarded",
+    "title": "Software Engineer, AI Infrastructure",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Software-Engineer--AI-Infrastructure_JR2028826"
   },
   "dorked:workday:NVIDIA:JR2029061": {
     "apply_error": null,
