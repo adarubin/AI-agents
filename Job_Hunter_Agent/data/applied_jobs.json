@@ -4879,6 +4879,24 @@
     "title": "Senior Data & ML Engineer - 3D Perception Team",
     "url": "https://careers.mobileye.com/jobs/senior-data-ml-engineer-3d-perception-team/0d17f0b5-29db-4e7e-8688-08f69d91ad0f"
   },
+  "dorked:mobileye:0ea9583a-7cee-48d2-91b7-efaa08725de2": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [],
+    "first_seen": "2026-11-05T13:45:02.563293+00:00",
+    "last_action": "2026-11-05T13:45:02.563306+00:00",
+    "location": "Jerusalem",
+    "policy_version": 2,
+    "reason": "Requires 3 semesters remaining; expected graduation 2027-03",
+    "red_flags": [
+      "Requires 3 semesters remaining; expected graduation 2027-03"
+    ],
+    "score": 0,
+    "status": "discarded",
+    "title": "Algorithm Developer Student",
+    "url": "https://careers.mobileye.com/jobs/algorithm-developer-student/0ea9583a-7cee-48d2-91b7-efaa08725de2"
+  },
   "dorked:mobileye:14e467d6-6412-479d-a827-fb9184522869": {
     "apply_error": null,
     "bail_reason": null,
