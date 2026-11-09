@@ -3884,6 +3884,22 @@
     "title": "Machine Learning & Computer Vision Algorithm Engineer",
     "url": "https://www.comeet.com/jobs/samsung/D4.005/machine-learning--computer-vision-algorithm-engineer/A3.E6B"
   },
+  "dorked:comeet:Samsung Research and Development Center Israel:AE.47A": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Samsung Research and Development Center Israel",
+    "experience_gaps": [],
+    "first_seen": "2026-11-09T14:44:50.872120+00:00",
+    "last_action": "2026-11-09T14:44:50.872130+00:00",
+    "location": "Samsung Israel R&D Center- SIRC, Israel",
+    "policy_version": 2,
+    "reason": "Direct match for an M.Sc. student specializing in Deep Learning and Computer Vision. The role focuses on 3D reconstruction, Gaussian Splatting, PyTorch, and model optimization in Israel.",
+    "red_flags": [],
+    "score": 9.0,
+    "status": "manual_lead",
+    "title": "Computer Vision and 3D Imaging Algorithm Student",
+    "url": "https://www.comeet.com/jobs/samsung/D4.005/computer-vision-and-3d-imaging-algorithm-student/AE.47A"
+  },
   "dorked:comeet:Samsung Research and Development Center Israel:D0.479": {
     "apply_error": null,
     "bail_reason": null,
@@ -5685,6 +5701,26 @@
     "status": "discarded",
     "title": "Deep Learning Algorithm Developer - Ground Truth",
     "url": "https://careers.mobileye.com/jobs/deep-learning-algorithm-developer-ground-truth/df0e4aa1-62ca-4774-b443-cc806a8d28ab"
+  },
+  "dorked:mobileye:e0c886ae-e178-4c78-b59c-4a20a70a1048": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "Requires 5+ years (of hands-on experience in Data Science, Machine Learning, or Algorithm Development); documented years_professional_ml=1",
+      "5+ years of hands-on experience in Data Science, ML, or Algorithm Development",
+      "Demonstrated experience leading technical product initiatives and cross-functional R&D roadmaps"
+    ],
+    "first_seen": "2026-11-09T14:44:50.872139+00:00",
+    "last_action": "2026-11-09T14:44:50.872140+00:00",
+    "location": "Ramat Gan",
+    "policy_version": 2,
+    "reason": "This is a product lead / technical product management role rather than a hands-on algorithm, research, or robotics engineering position.",
+    "red_flags": [],
+    "score": 3.0,
+    "status": "discarded",
+    "title": "Data Science Product Lead - Algorithms Division",
+    "url": "https://careers.mobileye.com/jobs/data-science-product-lead-algorithms-division/e0c886ae-e178-4c78-b59c-4a20a70a1048"
   },
   "dorked:mobileye:e85566dc-9827-4058-a1d2-cc6a63f7e286": {
     "apply_error": null,
