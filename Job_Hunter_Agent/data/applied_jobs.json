@@ -5647,6 +5647,25 @@
     "title": "Reinforcement Learning Researcher | Learned-Policy Group",
     "url": "https://careers.mobileye.com/jobs/reinforcement-learning-researcher-learnedpolicy-group/cfd0e9f7-d62e-408b-90e5-91d3046d130e"
   },
+  "dorked:mobileye:d1b15808-b89c-4b61-b329-438963133015": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "4+ years of hands-on software or data-engineering experience",
+      "Extensive experience with SQL, Spark, and PyArrow"
+    ],
+    "first_seen": "2026-11-15T13:12:36.620456+00:00",
+    "last_action": "2026-11-15T13:12:36.620467+00:00",
+    "location": "Ramat Gan",
+    "policy_version": 2,
+    "reason": "The position focuses primarily on distributed data pipelines, Spark/PyArrow infrastructure, and data workflows rather than hands-on deep learning model research or robotics algorithm development. While it supports perception teams, ML platform/data infrastructure is not one of the candidate's core target role families.",
+    "red_flags": [],
+    "score": 4.0,
+    "status": "discarded",
+    "title": "Senior Data & ML Engineer",
+    "url": "https://careers.mobileye.com/jobs/senior-data-ml-engineer/d1b15808-b89c-4b61-b329-438963133015"
+  },
   "dorked:mobileye:d85072cf-3d47-4c42-a760-2c691af6093b": {
     "apply_error": null,
     "bail_reason": null,
