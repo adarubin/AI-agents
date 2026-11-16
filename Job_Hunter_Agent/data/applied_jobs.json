@@ -3830,6 +3830,24 @@
     "title": "AI Researcher",
     "url": "https://www.comeet.com/jobs/mentee_robotics/6A.002/ai-researcher/7E.956"
   },
+  "dorked:comeet:Samsung Research and Development Center Israel:15.573": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Samsung Research and Development Center Israel",
+    "experience_gaps": [],
+    "first_seen": "2026-11-16T14:21:41.675319+00:00",
+    "last_action": "2026-11-16T14:21:41.675332+00:00",
+    "location": "Samsung Israel R&D Center- SIRC, Israel",
+    "policy_version": 2,
+    "reason": "Requires a completed advanced degree; candidate M.Sc. is in progress: M.Sc / Ph.D in Computer Science, Electrical Engineering or a related field 5+ years of experience developing machine learning algorithms for production systems Experience developing machine learning models for time-series and tabular data Hands-on experience using AI tools and AI agents to support software development, research, debugging, documentation, and productivity Strong Python programming skills and experience with PyTorch Strong analytical and problem-solving skills Excellent communication skills",
+    "red_flags": [
+      "Requires a completed advanced degree; candidate M.Sc. is in progress: M.Sc / Ph.D in Computer Science, Electrical Engineering or a related field 5+ years of experience developing machine learning algorithms for production systems Experience developing machine learning models for time-series and tabular data Hands-on experience using AI tools and AI agents to support software development, research, debugging, documentation, and productivity Strong Python programming skills and experience with PyTorch Strong analytical and problem-solving skills Excellent communication skills"
+    ],
+    "score": 0,
+    "status": "discarded",
+    "title": "Machine Learning Engineer",
+    "url": "https://www.comeet.com/jobs/samsung/D4.005/machine-learning-engineer/15.573"
+  },
   "dorked:comeet:Samsung Research and Development Center Israel:81.470": {
     "apply_error": null,
     "bail_reason": null,
@@ -4837,6 +4855,25 @@
     "title": "Experienced Control Algorithms Engineer",
     "url": "https://careers.mobileye.com/jobs/experienced-control-algorithms-engineer/0029e8b1-bdf1-4d0a-9895-7b5ee22c4837"
   },
+  "dorked:mobileye:01a16cde-2ce4-4c80-a6df-fe56bc223816": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "Requires 3+ years (of hands-on industry experience developing and training deep learning models); documented years_professional_ml=1",
+      "Requires 3+ years of professional deep learning experience (candidate has 1 year)"
+    ],
+    "first_seen": "2026-11-16T14:21:41.675363+00:00",
+    "last_action": "2026-11-16T14:21:41.675364+00:00",
+    "location": "Ramat Gan",
+    "policy_version": 2,
+    "reason": "This role targets deep learning models for planning, decision-making, and driving behavior, offering a strong technical overlap with robotics, motion planning, and control.",
+    "red_flags": [],
+    "score": 8.0,
+    "status": "manual_lead",
+    "title": "Deep Learning Algorithm Engineer | Learned-Policy Group",
+    "url": "https://careers.mobileye.com/jobs/deep-learning-algorithm-engineer-learnedpolicy-group/01a16cde-2ce4-4c80-a6df-fe56bc223816"
+  },
   "dorked:mobileye:055a3a86-a6d4-42ae-a09c-8adb41c5b383": {
     "apply_error": null,
     "bail_reason": null,
@@ -4875,6 +4912,27 @@
     "status": "manual_lead",
     "title": "AI Algorithm Engineer - Vision Localization Group",
     "url": "https://careers.mobileye.com/jobs/ai-algorithm-engineer-vision-localization-group/0786ba33-80e3-4c34-a25f-44b4c5d49723"
+  },
+  "dorked:mobileye:0b514132-2134-473a-bc28-9a7d55ebf0e7": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "Requires 10+ years (of experience developing deep learning models for computer vision); documented years_professional_ml=1",
+      "Requires 10+ years of deep learning experience",
+      "Requires prior experience managing engineering teams",
+      "Requires a completed M.Sc. or Ph.D."
+    ],
+    "first_seen": "2026-11-16T14:21:41.675352+00:00",
+    "last_action": "2026-11-16T14:21:41.675353+00:00",
+    "location": "Tel-Aviv",
+    "policy_version": 2,
+    "reason": "This is a Director/Group Manager role requiring 10+ years of deep learning experience and team management, which far exceeds the candidate's current professional ML tenure.",
+    "red_flags": [],
+    "score": 4.0,
+    "status": "discarded",
+    "title": "Algorithm Group Manager - Close Range 3D Perception",
+    "url": "https://careers.mobileye.com/jobs/algorithm-group-manager-close-range-3d-perception/0b514132-2134-473a-bc28-9a7d55ebf0e7"
   },
   "dorked:mobileye:0d17f0b5-29db-4e7e-8688-08f69d91ad0f": {
     "apply_error": null,
@@ -4931,6 +4989,22 @@
     "status": "manual_lead",
     "title": "Senior Algorithm Engineer - Objects Perception",
     "url": "https://careers.mobileye.com/jobs/senior-algorithm-engineer-objects-perception/14e467d6-6412-479d-a827-fb9184522869"
+  },
+  "dorked:mobileye:173fb0c4-6d9d-4131-93d4-a41845dc6398": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [],
+    "first_seen": "2026-11-16T14:21:41.675368+00:00",
+    "last_action": "2026-11-16T14:21:41.675369+00:00",
+    "location": "Ramat Gan",
+    "policy_version": 2,
+    "reason": "An excellent match requiring computer vision, deep learning, and Python/PyTorch for REM modeling and automation, closely mirroring the candidate's academic and professional goals.",
+    "red_flags": [],
+    "score": 9.0,
+    "status": "manual_lead",
+    "title": "Deep Learning Developer - REM Modeling",
+    "url": "https://careers.mobileye.com/jobs/deep-learning-developer-rem-modeling/173fb0c4-6d9d-4131-93d4-a41845dc6398"
   },
   "dorked:mobileye:1b3f71b9-fe39-41d3-bd43-4ae7ad18f92e": {
     "apply_error": null,
@@ -5188,6 +5262,22 @@
     "status": "manual_lead",
     "title": "Experienced Deep Learning Algorithm Developer - Road Team",
     "url": "https://careers.mobileye.com/jobs/experienced-deep-learning-algorithm-developer-road-team/48df21e2-84dd-42e7-9d55-f4121d444df8"
+  },
+  "dorked:mobileye:5b373ab2-fb86-4ce5-a393-5d838e28b2c4": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [],
+    "first_seen": "2026-11-16T14:21:41.675345+00:00",
+    "last_action": "2026-11-16T14:21:41.675346+00:00",
+    "location": "Jerusalem",
+    "policy_version": 2,
+    "reason": "The role involves developing geometric, heuristic, and machine learning validation tools for mapping and localization in Mobileye's REM team, aligning well with the candidate's background.",
+    "red_flags": [],
+    "score": 8.0,
+    "status": "manual_lead",
+    "title": "Algo Software Engineer",
+    "url": "https://careers.mobileye.com/jobs/algo-software-engineer/5b373ab2-fb86-4ce5-a393-5d838e28b2c4"
   },
   "dorked:mobileye:5d044c94-826e-4685-853f-b70069e3f0a9": {
     "apply_error": null,
@@ -5538,6 +5628,25 @@
     "status": "discarded",
     "title": "Software Algorithms RT Engineer - Active Sensor Group",
     "url": "https://careers.mobileye.com/jobs/software-algorithms-rt-engineer-active-sensor-group/b8c0334c-51c5-420f-8fb1-3f8bf641c9cb"
+  },
+  "dorked:mobileye:babc54fb-939c-44a4-ba19-fa39b10d6831": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "Requires 2+ years (of hands-on experience in machine learning, both deep learning for vision and classical ML methods); documented years_professional_ml=1",
+      "Preferred 2+ years of hands-on professional ML experience (candidate has 1 year)"
+    ],
+    "first_seen": "2026-11-16T14:21:41.675358+00:00",
+    "last_action": "2026-11-16T14:21:41.675359+00:00",
+    "location": "Ramat Gan",
+    "policy_version": 2,
+    "reason": "The data scientist position focuses on ML-based solutions, computer vision datasets, and pipelines, fitting the candidate's technical profile well despite the 2+ years experience preference.",
+    "red_flags": [],
+    "score": 7.0,
+    "status": "manual_lead",
+    "title": "Data Scientist",
+    "url": "https://careers.mobileye.com/jobs/data-scientist/babc54fb-939c-44a4-ba19-fa39b10d6831"
   },
   "dorked:mobileye:be730214-2c22-4acf-aff9-422fb6823f3e": {
     "apply_error": null,
