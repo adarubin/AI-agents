@@ -9792,6 +9792,28 @@
     "title": "Associate General Counsel, Corporate & Securities",
     "url": "https://job-boards.greenhouse.io/figure/jobs/8875554002"
   },
+  "greenhouse:8944628002": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "riskified",
+    "experience_gaps": [
+      "Requires 6+ years (of hands-on experience designing, training and deploying machine learning models in large-scale production environments); documented years_professional_ml=1",
+      "6+ years of hands-on experience designing, training and deploying machine learning models in large-scale production",
+      "Staff/leadership level technical experience"
+    ],
+    "first_seen": "2026-11-17T15:13:02.716396+00:00",
+    "last_action": "2026-11-17T15:13:02.716412+00:00",
+    "location": "Tel Aviv",
+    "policy_version": 2,
+    "reason": "The role is located in Tel Aviv and focuses on foundation models and deep learning, aligning with the candidate's ML interests. However, it requires a completed M.Sc. or Ph.D. and 6+ years of hands-on ML production experience, which significantly exceeds the candidate's current professional ML tenure.",
+    "red_flags": [
+      "Requires M.Sc. or Ph.D."
+    ],
+    "score": 4.0,
+    "status": "discarded",
+    "title": "Staff Data Scientist- Foundation Models",
+    "url": "https://www.riskified.com/careers/job-description/?gh_jid=8944628002"
+  },
   "lever:01ee26ae-76e5-41df-a5d1-d03dbb88ac36": {
     "company": "waabi",
     "first_seen": "2026-10-09T12:56:23.921626+00:00",
