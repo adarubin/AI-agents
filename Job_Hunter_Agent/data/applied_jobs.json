@@ -5408,6 +5408,25 @@
     "title": "AI Researcher",
     "url": "https://careers.mobileye.com/jobs/ai-researcher/7E.956"
   },
+  "dorked:mobileye:7aa00e13-3ae1-4dd7-a853-cb5b2a535c6a": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "Requires 3+ years (of experience in developing Deep Learning algorithms for Computer Vision); documented years_professional_ml=1",
+      "Requires 3+ years of professional experience in deep learning algorithms for computer vision (candidate has 1 year ML experience)."
+    ],
+    "first_seen": "2026-11-22T13:50:17.814742+00:00",
+    "last_action": "2026-11-22T13:50:17.814752+00:00",
+    "location": "Ramat Gan",
+    "policy_version": 2,
+    "reason": "Strong alignment with candidate's target domains in Computer Vision, 3D deep learning, and autonomous vehicle perception. Located in Ramat Gan with acceptable degree requirements.",
+    "red_flags": [],
+    "score": 9.0,
+    "status": "manual_lead",
+    "title": "3D Deep Learning Algorithm Developer",
+    "url": "https://careers.mobileye.com/jobs/3d-deep-learning-algorithm-developer/7aa00e13-3ae1-4dd7-a853-cb5b2a535c6a"
+  },
   "dorked:mobileye:83eaec09-649e-4ea6-b6c8-ace482eb2f59": {
     "apply_error": null,
     "bail_reason": null,
