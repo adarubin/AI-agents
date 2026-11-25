@@ -3627,6 +3627,24 @@
     "title": "Computer Vision Engineer",
     "url": "https://www.comeet.com/jobs/exodigo/89.005/computer-vision-engineer/2E.171"
   },
+  "dorked:comeet:Exodigo:3A.57C": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Exodigo",
+    "experience_gaps": [
+      "Requires 2+ years of professional signal processing algorithm development experience"
+    ],
+    "first_seen": "2026-11-25T16:31:06.117228+00:00",
+    "last_action": "2026-11-25T16:31:06.117229+00:00",
+    "location": "Tel Aviv, Israel, Israel",
+    "policy_version": 2,
+    "reason": "Focuses heavily on classical signal processing for underground sensor data rather than deep learning or robotics algorithms. It offers mild overlap with sensor fusion and 3D imaging, but falls outside the candidate's core target role families.",
+    "red_flags": [],
+    "score": 5.0,
+    "status": "discarded",
+    "title": "Algorithm Developer - Signal Processing",
+    "url": "https://www.comeet.com/jobs/exodigo/89.005/algorithm-developer---signal-processing/3A.57C"
+  },
   "dorked:comeet:Exodigo:75.478": {
     "apply_error": null,
     "bail_reason": null,
@@ -5318,6 +5336,25 @@
     "title": "Visual GenAI Research Expert",
     "url": "https://careers.mobileye.com/jobs/visual-genai-research-expert/5f2f6179-1784-48cc-bd30-4571ea29aba9"
   },
+  "dorked:mobileye:603cb801-760e-4155-be2c-f7f8951d75dc": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "Requires 2+ years (of experience developing Machine Learning or Deep Learning algorithms); documented years_professional_ml=1",
+      "Requires 2+ years of professional ML/DL algorithm development experience (candidate has 1 year ML experience)"
+    ],
+    "first_seen": "2026-11-25T16:31:06.117234+00:00",
+    "last_action": "2026-11-25T16:31:06.117235+00:00",
+    "location": "Ramat Gan",
+    "policy_version": 2,
+    "reason": "Strong technical alignment with Applied AI Research and Computer Vision using PyTorch and multimodal/vision-language models for driving scenarios. An advanced degree is only an advantage, making the candidate's in-progress M.Sc. and Mobileye background a great match.",
+    "red_flags": [],
+    "score": 9.0,
+    "status": "manual_lead",
+    "title": "Research Engineer, Applied AI & Multimodal Models",
+    "url": "https://careers.mobileye.com/jobs/research-engineer-applied-ai-multimodal-models/603cb801-760e-4155-be2c-f7f8951d75dc"
+  },
   "dorked:mobileye:6e32e4d7-2df4-4ff2-b404-a6dba0444e84": {
     "apply_error": null,
     "bail_reason": null,
@@ -5963,6 +6000,26 @@
     "status": "unscored",
     "title": "Senior Applied Researcher",
     "url": "https://jobs.smartrecruiters.com/Wix2/744000163496319-senior-applied-researcher"
+  },
+  "dorked:smartrecruiters:Wix2:744000163704673": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Wix",
+    "experience_gaps": [
+      "Requires completed Ph.D. or M.Sc. with 5+ years of applied research experience in NLP/LLMs"
+    ],
+    "first_seen": "2026-11-25T16:31:06.117208+00:00",
+    "last_action": "2026-11-25T16:31:06.117219+00:00",
+    "location": "Tel Aviv, Israel",
+    "policy_version": 2,
+    "reason": "The role strictly requires a completed Ph.D. or completed M.Sc. with 5+ years of research experience without a B.Sc. alternative. Furthermore, the domain centers on LLMs and agentic NLP rather than robotics, physical AI, or computer vision.",
+    "red_flags": [
+      "Requires a completed Ph.D. or completed M.Sc. with no accepted alternative"
+    ],
+    "score": 3.0,
+    "status": "discarded",
+    "title": "Senior Applied Researcher - Base44",
+    "url": "https://jobs.smartrecruiters.com/Wix2/744000163704673-senior-applied-researcher-base44"
   },
   "dorked:workday:NVIDIA:JR1997007": {
     "apply_error": null,
