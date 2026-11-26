@@ -3701,6 +3701,28 @@
     "title": "Algorithm Developer",
     "url": "https://www.comeet.com/jobs/exodigo/89.005/algorithm-developer/EF.273"
   },
+  "dorked:comeet:Immunai:7E.572": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Immunai",
+    "experience_gaps": [
+      "Requires 3+ years (of industry experience training and applying deep learning models for medical images (transformers, vision models, or related architectures) Solid understanding of optimization and representation lea); documented years_professional_ml=1",
+      "3+ years of industry experience training and applying deep learning models for medical images",
+      "Senior-level experience in computational pathology"
+    ],
+    "first_seen": "2026-11-26T16:03:54.797709+00:00",
+    "last_action": "2026-11-26T16:03:54.797720+00:00",
+    "location": "Ramat Gan, Israel",
+    "policy_version": 2,
+    "reason": "The role requires a completed MSc or PhD and 3+ years of specific medical imaging deep learning experience, which the candidate lacks.",
+    "red_flags": [
+      "Requires a completed M.Sc. or Ph.D."
+    ],
+    "score": 3.0,
+    "status": "discarded",
+    "title": "Senior AI Researcher \u2013 Computational Pathology",
+    "url": "https://www.comeet.com/jobs/immunai/37.009/senior-ai-researcher--computational-pathology/7E.572"
+  },
   "dorked:comeet:Immunai:90.F67": {
     "apply_error": null,
     "bail_reason": null,
@@ -5647,6 +5669,25 @@
     "status": "manual_lead",
     "title": "Senior Deep Learning Researcher",
     "url": "https://careers.mobileye.com/jobs/senior-deep-learning-researcher/aed812a3-0f66-4ec1-baf9-a0bbb4e9c8d2"
+  },
+  "dorked:mobileye:b5f72105-89cb-49a4-ac8a-2422a6142db1": {
+    "apply_error": null,
+    "bail_reason": null,
+    "company": "Mobileye",
+    "experience_gaps": [
+      "5+ years of experience as a Signal Processing Developer/Researcher",
+      "M.Sc. degree (currently in progress)"
+    ],
+    "first_seen": "2026-11-26T16:03:54.797730+00:00",
+    "last_action": "2026-11-26T16:03:54.797732+00:00",
+    "location": "Petah Tikva",
+    "policy_version": 2,
+    "reason": "The candidate has strong relevant background at Mobileye and experience matching autonomous systems, though the role requires 5+ years of signal processing experience and an M.Sc.",
+    "red_flags": [],
+    "score": 6.0,
+    "status": "manual_lead",
+    "title": "Senior Signal Processing Algorithm Developer",
+    "url": "https://careers.mobileye.com/jobs/senior-signal-processing-algorithm-developer/b5f72105-89cb-49a4-ac8a-2422a6142db1"
   },
   "dorked:mobileye:b88433c6-bee5-47be-a91b-9bd8ebe50d00": {
     "apply_error": null,
